@@ -1,0 +1,4 @@
+.gitignore
+
+myenv
+src/.DS_Store
