@@ -17,6 +17,29 @@ wait = WebDriverWait(driver, 30)
 
 # wait for the first company to appear
 first_company = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a._company_i9oky_355")))
+old_company_text = first_company.text
+
+print(first_company, old_company_text)
+
+# sort by launch date
+sort_select_element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "select")))
+sort_select = Select(sort_select_element)
+
+sort_select.select_by_value("YCCompany_By_Launch_Date_production")
+
+# wait until the first company element from before is no longer attached to the DOM
+print("First company is attached to the DOM.")
+
+wait.until(EC.staleness_of(first_company))
+print("First company is no longer attached to the DOM.")
+print(first_company)
+
+# wait for the first company in sorted list to appear
+wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a._company_i9oky_355")))
+
+# Make sure the first company element’s text changes
+wait.until(lambda d: d.find_element(By.CSS_SELECTOR, "a._company_i9oky_355").text != old_company_text)
+
 
 # now get updated page source
 html = driver.page_source
