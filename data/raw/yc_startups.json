@@ -1,5 +1,25 @@
 [
     {
+        "name": "mrge",
+        "location": "London, England, United Kingdom",
+        "description": "AI-powered code review platform"
+    },
+    {
+        "name": "Partcl",
+        "location": "San Francisco, CA, USA",
+        "description": "GPU accelerated chip design tools"
+    },
+    {
+        "name": "LineWise",
+        "location": "N/A",
+        "description": "Help manufacturers capture, scale, and apply tribal knowledge"
+    },
+    {
+        "name": "Linkd",
+        "location": "San Francisco, CA, USA",
+        "description": "Find warm connections you didn\u2019t know you had."
+    },
+    {
         "name": "StarJar",
         "location": "N/A",
         "description": "Starjar automates inbound document processing workflows for hospitals"
@@ -13,11 +33,6 @@
         "name": "SalesPatriot",
         "location": "San Francisco, CA, USA",
         "description": "We help defense firms win more contracts with the Pentagon"
-    },
-    {
-        "name": "Chonkie",
-        "location": "San Francisco, CA, USA",
-        "description": "Make Documents AI Ready"
     },
     {
         "name": "Dollyglot",
@@ -46,7 +61,7 @@
     },
     {
         "name": "Mosaic",
-        "location": "San Francisco, CA, USA",
+        "location": "N/A",
         "description": "Create and run your own video editing AI agents"
     },
     {
@@ -198,5 +213,4790 @@
         "name": "Cardamon",
         "location": "San Francisco, CA, USA",
         "description": "AI compliance co-pilot for regulated financial businesses"
+    },
+    {
+        "name": "Paratus Health",
+        "location": "N/A",
+        "description": "AI-powered intake nurse"
+    },
+    {
+        "name": "Miyagi Labs",
+        "location": "New York, NY, USA",
+        "description": "Shopify for AI-generated courses"
+    },
+    {
+        "name": "Infinite",
+        "location": "San Francisco, CA, USA",
+        "description": "Global B2B Stablecoin Processor"
+    },
+    {
+        "name": "Closure",
+        "location": "New York, NY, USA",
+        "description": "We help law enforcement solve crime"
+    },
+    {
+        "name": "Mundo AI",
+        "location": "San Francisco, CA, USA",
+        "description": "High Quality Multilingual Training Data for AI Models"
+    },
+    {
+        "name": "Artificial Societies",
+        "location": "San Francisco, CA, USA",
+        "description": "We use AI to simulate entire human societies"
+    },
+    {
+        "name": "Red Barn Robotics",
+        "location": "Seattle, WA, USA",
+        "description": "A Roomba for weeds on a farm."
+    },
+    {
+        "name": "Splash Inc.",
+        "location": "N/A",
+        "description": "Autonomous patrol-boats for National Security"
+    },
+    {
+        "name": "Astro",
+        "location": "N/A",
+        "description": "The world\u2019s first AI energy developer"
+    },
+    {
+        "name": "Excellence Learning",
+        "location": "Stanford, CA, USA",
+        "description": "AI tutor starting with maths and science"
+    },
+    {
+        "name": "Emergent",
+        "location": "San Francisco, CA, USA",
+        "description": "Autonomous coding agents for software migration and modernization"
+    },
+    {
+        "name": "Instinct",
+        "location": "San Francisco, CA, USA",
+        "description": "GPS satellites for lunar navigation"
+    },
+    {
+        "name": "Rally",
+        "location": "Berlin, Berlin, Germany",
+        "description": "Financial OS for Modern Fleets"
+    },
+    {
+        "name": "Mercura",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Quoting for distributors and manufacturers"
+    },
+    {
+        "name": "SAMMY Labs",
+        "location": "N/A",
+        "description": "Live, AI-powered graph of every possible click path in your software"
+    },
+    {
+        "name": "Maritime Fusion",
+        "location": "San Francisco, CA, USA",
+        "description": "Fusion reactors for ships"
+    },
+    {
+        "name": "Optifye.ai",
+        "location": "San Francisco, CA, USA",
+        "description": "AI performance monitoring for factory workers"
+    },
+    {
+        "name": "Dartboard Energy",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Analyst for Electricity Markets"
+    },
+    {
+        "name": "Peppr AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Self-improving knowledge base synthesizing scattered company data"
+    },
+    {
+        "name": "Rada",
+        "location": "San Francisco, CA, USA",
+        "description": "Insurance calls automation for healthcare clinics."
+    },
+    {
+        "name": "Bluebook",
+        "location": "San Francisco, CA, USA",
+        "description": "AI for accounting firms"
+    },
+    {
+        "name": "Harbera",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Healthcare Provider Credentialing Software"
+    },
+    {
+        "name": "Proception Inc",
+        "location": "N/A",
+        "description": "Making humanoids dexterous enough to thread a needle"
+    },
+    {
+        "name": "Reditus Space",
+        "location": "Atlanta, GA, USA",
+        "description": "Reusable Satellites for zero-g manufacturing"
+    },
+    {
+        "name": "TripleZip",
+        "location": "New York, NY, USA",
+        "description": "Automating CRE accounting with AI"
+    },
+    {
+        "name": "Delineate",
+        "location": "Boston, MA, USA",
+        "description": "Agents for Accelerated Clinical Trial Design"
+    },
+    {
+        "name": "Tally",
+        "location": "N/A",
+        "description": "AI for audit"
+    },
+    {
+        "name": "Oki",
+        "location": "San Francisco, CA, USA",
+        "description": "AI to automate Engineering project tracking"
+    },
+    {
+        "name": "Stamp",
+        "location": "N/A",
+        "description": "The AI Native Email Client"
+    },
+    {
+        "name": "Cedar",
+        "location": "San Francisco, CA, USA",
+        "description": "In-product AI copilot for any app"
+    },
+    {
+        "name": "Demeter",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Value Creation Team for Private Equity"
+    },
+    {
+        "name": "AthenaHQ",
+        "location": "San Francisco, CA, USA",
+        "description": "Get Your Brand Discovered on ChatGPT."
+    },
+    {
+        "name": "Admyral",
+        "location": "N/A",
+        "description": "AI-Native Commercial Real Estate Brokerage"
+    },
+    {
+        "name": "Candor",
+        "location": "San Francisco, CA, USA",
+        "description": "We help companies win government funding with AI"
+    },
+    {
+        "name": "G LNK",
+        "location": "N/A",
+        "description": "Simplifying Collaboration for Healthcare Organizations & Professionals"
+    },
+    {
+        "name": "YouShift",
+        "location": "N/A",
+        "description": "Rippling for healthcare."
+    },
+    {
+        "name": "Waypoint Transit",
+        "location": "San Francisco, CA, USA",
+        "description": "We automate urban planning so cities can build cheaper and faster."
+    },
+    {
+        "name": "Bild AI",
+        "location": "N/A",
+        "description": "AI that understands construction blueprints"
+    },
+    {
+        "name": "assistant-ui",
+        "location": "San Francisco, CA, USA",
+        "description": "Open Source React.js Library for AI Chat"
+    },
+    {
+        "name": "NextByte",
+        "location": "San Francisco, CA, USA",
+        "description": "AI recruiter tuned to identify the best vibe coders"
+    },
+    {
+        "name": "TrainLoop",
+        "location": "San Francisco, CA, USA",
+        "description": "Reasoning Fine-Tuning"
+    },
+    {
+        "name": "Weave",
+        "location": "San Francisco, CA, USA",
+        "description": "AI to measure engineering work"
+    },
+    {
+        "name": "Trace",
+        "location": "San Francisco, CA, USA",
+        "description": "Voice AI Customer Support for Financial Services"
+    },
+    {
+        "name": "Artifact",
+        "location": "Atlanta, GA, USA",
+        "description": "Cursor for hardware design, starting with electrical systems"
+    },
+    {
+        "name": "Pave Robotics",
+        "location": "N/A",
+        "description": "Robots that repair roads"
+    },
+    {
+        "name": "TensorPool",
+        "location": "N/A",
+        "description": "Vercel For GPUs"
+    },
+    {
+        "name": "PAX Markets",
+        "location": "Menlo Park, CA, USA",
+        "description": "Crypto exchange on a chip: faster and smaller than a datacenter."
+    },
+    {
+        "name": "General Trajectory",
+        "location": "San Francisco, CA, USA",
+        "description": "Reasoning models for robotics"
+    },
+    {
+        "name": "Lucid",
+        "location": "Berkeley, CA, USA",
+        "description": "Generative simulations powered by fast world models"
+    },
+    {
+        "name": "Amby Health",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Copilot for Ambulance Agencies (EMS)"
+    },
+    {
+        "name": "Mentra",
+        "location": "San Francisco, CA, USA",
+        "description": "Building the open source smart glasses operating system."
+    },
+    {
+        "name": "Wildcard",
+        "location": "San Francisco, CA, USA",
+        "description": "Make APIs work for AI Agents"
+    },
+    {
+        "name": "Axiom",
+        "location": "N/A",
+        "description": "Trade memecoins, perpetuals, and earn yield."
+    },
+    {
+        "name": "Conntour",
+        "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+        "description": "AI to monitor thousands of security cameras."
+    },
+    {
+        "name": "Trata",
+        "location": "N/A",
+        "description": "AI-powered research desk for hedge funds"
+    },
+    {
+        "name": "Calltree AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Enterprise-grade AI support reps for call centers"
+    },
+    {
+        "name": "Pickle",
+        "location": "San Francisco, CA, USA",
+        "description": "AI clone for Zoom calls"
+    },
+    {
+        "name": "AfterQuery",
+        "location": "San Francisco, CA, USA",
+        "description": "High-quality AI starts with high-quality human data"
+    },
+    {
+        "name": "FuseAI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Agents to Kill Salesforce."
+    },
+    {
+        "name": "Operand",
+        "location": "San Francisco, CA, USA",
+        "description": "AI to Replace Management Consulting"
+    },
+    {
+        "name": "Vetnio",
+        "location": "N/A",
+        "description": "AI Copilot that automates admin work for veterinary professionals"
+    },
+    {
+        "name": "Nitrode",
+        "location": "N/A",
+        "description": "AI game development engine & platform"
+    },
+    {
+        "name": "Casixty",
+        "location": "San Francisco, CA, USA",
+        "description": "Reddit Marketing Agent for technical audiences"
+    },
+    {
+        "name": "Vora AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI recruiter for hiring managers"
+    },
+    {
+        "name": "Archon",
+        "location": "N/A",
+        "description": "We help software companies sell to government."
+    },
+    {
+        "name": "Vantel",
+        "location": "Stockholm, Stockholm County, Sweden",
+        "description": "AI Software for Commercial Insurance Brokers"
+    },
+    {
+        "name": "Scout",
+        "location": "N/A",
+        "description": "AI-powered student information system for K-12 schools"
+    },
+    {
+        "name": "Roark",
+        "location": "San Francisco, CA, USA",
+        "description": "Datadog for Voice AI"
+    },
+    {
+        "name": "superglue",
+        "location": "San Francisco, CA, USA",
+        "description": "Self-healing data connector"
+    },
+    {
+        "name": "ReJot",
+        "location": "Amsterdam, NH, Netherlands",
+        "description": "Sync engine to share data across engineering teams in enterprises"
+    },
+    {
+        "name": "Sennu AI",
+        "location": "N/A",
+        "description": "AI Agents Automating the $400B Tech Consulting Market"
+    },
+    {
+        "name": "Pig",
+        "location": "N/A",
+        "description": "An API for automating Windows apps with AI"
+    },
+    {
+        "name": "Macadamia",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Mechanical Engineer to fix technical issues"
+    },
+    {
+        "name": "Sift Dev",
+        "location": "San Francisco, CA, USA",
+        "description": "Never Look at a Log Again"
+    },
+    {
+        "name": "Gulp",
+        "location": "San Francisco, CA, USA",
+        "description": "Real-Time Self-Improvement for AI Agents"
+    },
+    {
+        "name": "Rocketable",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI Maximalist Software Holding Company"
+    },
+    {
+        "name": "Pinch",
+        "location": "Remote",
+        "description": "Video conferencing with real-time voice translation"
+    },
+    {
+        "name": "Permitify",
+        "location": "N/A",
+        "description": "AI co-pilot for building plan review and building code compliance"
+    },
+    {
+        "name": "Onlook",
+        "location": "N/A",
+        "description": "Cursor for Designers"
+    },
+    {
+        "name": "Retrofit",
+        "location": "San Francisco, CA, USA",
+        "description": "A vintage marketplace curated by AI"
+    },
+    {
+        "name": "Guse",
+        "location": "N/A",
+        "description": "AI native spreadsheet to automate any workflow"
+    },
+    {
+        "name": "Ergo",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Agents for Sales Operations"
+    },
+    {
+        "name": "BlindPay",
+        "location": "N/A",
+        "description": "Stablecoin API for global payments"
+    },
+    {
+        "name": "Cenote",
+        "location": "San Francisco, CA, USA",
+        "description": "Automate back office tasks for medical clinics"
+    },
+    {
+        "name": "Woz",
+        "location": "San Francisco, CA, USA",
+        "description": "AI platform enabling anyone to build and scale software businesses"
+    },
+    {
+        "name": "Karsa",
+        "location": "New York, NY, USA",
+        "description": "Stablecoin neobank for emerging markets"
+    },
+    {
+        "name": "a0.dev",
+        "location": "San Francisco, CA, USA",
+        "description": "We make mobile apps using AI."
+    },
+    {
+        "name": "Riviera",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Employees for Hotels"
+    },
+    {
+        "name": "Gale",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Powered Immigration Law Firm"
+    },
+    {
+        "name": "HealthKey",
+        "location": "Austin, TX, USA",
+        "description": "AI-powered Patient Identification for Clinical Trials"
+    },
+    {
+        "name": "Misprint",
+        "location": "N/A",
+        "description": "Misprint is building Robinhood for Pokemon cards"
+    },
+    {
+        "name": "Dexterity",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI Browser Copilot"
+    },
+    {
+        "name": "Spott",
+        "location": "N/A",
+        "description": "AI agents for recruiting firms"
+    },
+    {
+        "name": "Mecha Health",
+        "location": "San Francisco, CA, USA",
+        "description": "Foundation models to automate x-ray analysis for radiologists"
+    },
+    {
+        "name": "Mastra",
+        "location": "Remote",
+        "description": "The Javascript framework for building AI agents, from the Gatsby devs"
+    },
+    {
+        "name": "Revise Robotics",
+        "location": "N/A",
+        "description": "Automating refurbishment of $1T in consumer electronics"
+    },
+    {
+        "name": "Adam",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Powered CAD"
+    },
+    {
+        "name": "Dalus",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Powered Hardware System Design Software"
+    },
+    {
+        "name": "Alice.tech",
+        "location": "Copenhagen, Denmark",
+        "description": "AI-driven exam prep"
+    },
+    {
+        "name": "Mesh",
+        "location": "San Francisco, CA, USA",
+        "description": "Building your AI finance co-worker"
+    },
+    {
+        "name": "Lucidic AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Weights & Biases for AI Agents"
+    },
+    {
+        "name": "Axal",
+        "location": "San Francisco, CA, USA",
+        "description": "The Palantir for re-architecting legacy software."
+    },
+    {
+        "name": "Karoo",
+        "location": "Toronto, ON, Canada",
+        "description": "Canadian neobank focused on lending"
+    },
+    {
+        "name": "Exin Therapeutics",
+        "location": "San Francisco, CA, USA",
+        "description": "AI drug discovery platform for neurotherapeutics"
+    },
+    {
+        "name": "Fira",
+        "location": "San Francisco, CA, USA",
+        "description": "Agentic AI platform for investment firms"
+    },
+    {
+        "name": "SubImage",
+        "location": "San Francisco, CA, USA",
+        "description": "Software that maps your infrastructure. Open core alternative to Wiz"
+    },
+    {
+        "name": "Confident AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Open-Source Unit Testing for LLM Applications"
+    },
+    {
+        "name": "Leaping AI",
+        "location": "San Francisco, CA, USA",
+        "description": "The only self-improving voice AI"
+    },
+    {
+        "name": "Quantstruct",
+        "location": "San Francisco, CA, USA",
+        "description": "AI documentation engineer \u2013\u00a0test & autoimprove stale product docs"
+    },
+    {
+        "name": "Outlit",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Agents for Enterprise Deal Creation"
+    },
+    {
+        "name": "Forge Automation",
+        "location": "Toronto, ON, Canada",
+        "description": "Software Enabled CNC Parts Supplier"
+    },
+    {
+        "name": "finbar",
+        "location": "London, England, United Kingdom",
+        "description": "The AI financial analyst"
+    },
+    {
+        "name": "Caseflood.ai",
+        "location": "San Francisco, CA, USA",
+        "description": "the AI inbound sales team for law firms"
+    },
+    {
+        "name": "Cuckoo Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "Real-time AI translator for global sales and marketing"
+    },
+    {
+        "name": "Orbital Operations",
+        "location": "Huntington Beach, CA, USA",
+        "description": "High Thrust Space Vehicles for Satellite Defense"
+    },
+    {
+        "name": "Toothy AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI for insurance verification & billing at dental clinics"
+    },
+    {
+        "name": "General Agency",
+        "location": "San Francisco, CA, USA",
+        "description": "AI coworkers that can learn and act just like a human"
+    },
+    {
+        "name": "GradeWiz",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Grading for Colleges"
+    },
+    {
+        "name": "Harper",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-native commercial insurance brokerage"
+    },
+    {
+        "name": "Browser Use",
+        "location": "San Francisco, CA, USA",
+        "description": "Leading open-source web agent project with 50k stars in 3 months"
+    },
+    {
+        "name": "jo",
+        "location": "Menlo Park, CA, USA",
+        "description": "jo is a voice-first digital personality that works alongside you\u2026"
+    },
+    {
+        "name": "Asteroid",
+        "location": "San Francisco, CA, USA",
+        "description": "Browser Agents for Regulated Industries"
+    },
+    {
+        "name": "CopyCat",
+        "location": "San Francisco, CA, USA",
+        "description": "Next-Gen RPA, Powered by Browser Agents"
+    },
+    {
+        "name": "General Proximity",
+        "location": "San Francisco, CA, USA",
+        "description": "The next generation of induced-proximity medicines."
+    },
+    {
+        "name": "ZeroEntropy",
+        "location": "N/A",
+        "description": "High accuracy search API over unstructured data."
+    },
+    {
+        "name": "Promptless",
+        "location": "San Francisco, CA, USA",
+        "description": "An AI teammate that automatically updates your customer-facing docs"
+    },
+    {
+        "name": "Solidroad",
+        "location": "San Francisco, CA, USA",
+        "description": "AI agents for sales and support teams, starting with training and QA."
+    },
+    {
+        "name": "Edexia",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Teacher Assistant for Grading Essays"
+    },
+    {
+        "name": "Subtrace",
+        "location": "San Francisco, CA, USA",
+        "description": "Wireshark for Production Backends"
+    },
+    {
+        "name": "telli",
+        "location": "Berlin, Berlin, Germany",
+        "description": "AI phone agents that convert"
+    },
+    {
+        "name": "Variant",
+        "location": "San Francisco, CA, USA",
+        "description": "Building the state-of-the-art model for software design"
+    },
+    {
+        "name": "Leeroo",
+        "location": "N/A",
+        "description": "Trainable Deep Agents"
+    },
+    {
+        "name": "Consus",
+        "location": "Remote",
+        "description": "Your single source of truth for government documents"
+    },
+    {
+        "name": "Cekura",
+        "location": "N/A",
+        "description": "Keep support, marketing, and sales materials up-to-date"
+    },
+    {
+        "name": "Praxis AI",
+        "location": "New York, NY, USA",
+        "description": "Manufacturing reasoning agents to predict and prevent machine failures"
+    },
+    {
+        "name": "ShowAndTell",
+        "location": "San Francisco, CA, USA",
+        "description": "Agents for dental operations"
+    },
+    {
+        "name": "Mobius Materials",
+        "location": "San Francisco, CA, USA",
+        "description": "The spot market for semiconductors"
+    },
+    {
+        "name": "ArchiLabs",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Copilot for Architects"
+    },
+    {
+        "name": "Fabricate",
+        "location": "N/A",
+        "description": "Procurement for Hardware Teams"
+    },
+    {
+        "name": "Foundry",
+        "location": "San Francisco, CA, USA",
+        "description": "Evals for Browser Agents"
+    },
+    {
+        "name": "Abundant",
+        "location": "San Francisco, CA, USA",
+        "description": "API for Agent Teleoperation"
+    },
+    {
+        "name": "Gander",
+        "location": "New York, NY, USA",
+        "description": "Automation System for Global Aviation"
+    },
+    {
+        "name": "Revi",
+        "location": "Remote",
+        "description": "AI-enabled M&A deal origination"
+    },
+    {
+        "name": "Pearson Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "AI agents to automate corporate transactions"
+    },
+    {
+        "name": "Summed AI",
+        "location": "Seattle, WA, USA",
+        "description": "The AI Copilot for Insurance Agents"
+    },
+    {
+        "name": "Lune",
+        "location": "San Francisco, CA, USA",
+        "description": "Where devs go to get instant answers from agents and humans."
+    },
+    {
+        "name": "RiskCube",
+        "location": "San Francisco, CA, USA",
+        "description": "AI commercial insurance broker."
+    },
+    {
+        "name": "HealthSpark",
+        "location": "San Francisco, CA, USA",
+        "description": "Launch and run an AI-native physical therapy practice"
+    },
+    {
+        "name": "Surge",
+        "location": "Lehi, UT, USA",
+        "description": "Stripe for telephony"
+    },
+    {
+        "name": "Chorrie",
+        "location": "New York, NY, USA",
+        "description": "Eliminate medical claim denials & underbilling with AI"
+    },
+    {
+        "name": "Kura AI",
+        "location": "N/A",
+        "description": "New State of the Art for Browser Agents"
+    },
+    {
+        "name": "Platus",
+        "location": "N/A",
+        "description": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process"
+    },
+    {
+        "name": "RevisionDojo",
+        "location": "N/A",
+        "description": "AI tutors for students."
+    },
+    {
+        "name": "Canvas",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Copilot for Customer Success Teams"
+    },
+    {
+        "name": "Diffusion Studio",
+        "location": "San Francisco, CA, USA",
+        "description": "Next Generation Canva for AI Video Editing in the Browser"
+    },
+    {
+        "name": "Keye",
+        "location": "New York, NY, USA",
+        "description": "The Smartest Private Equity Investor"
+    },
+    {
+        "name": "fixa",
+        "location": "San Francisco, CA, USA",
+        "description": "sentry for AI voice agents"
+    },
+    {
+        "name": "AutoComputer",
+        "location": "San Francisco, CA, USA",
+        "description": "Desktop RPA with AI computer use"
+    },
+    {
+        "name": "Rankai",
+        "location": "San Francisco, CA, USA",
+        "description": "Building AI Agents to replace Marketing Agencies"
+    },
+    {
+        "name": "FutureClinic",
+        "location": "San Francisco, CA, USA",
+        "description": "Digital healthcare that is 99% AI, 1% doctor."
+    },
+    {
+        "name": "Melder",
+        "location": "New York, NY, USA",
+        "description": "Automate analysis and biz processes w/ an AI native spreadsheet"
+    },
+    {
+        "name": "PermitPortal",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Operating System for Pre-construction"
+    },
+    {
+        "name": "Coblocks",
+        "location": "New York, NY, USA",
+        "description": "Build data pipelines in minutes with AI"
+    },
+    {
+        "name": "Asha Health",
+        "location": "New York, NY, USA",
+        "description": "We help medical practices launch their own AI clinic"
+    },
+    {
+        "name": "Tiny",
+        "location": "Singapore, Singapore",
+        "description": "A new kind of ERP system for factories"
+    },
+    {
+        "name": "SRE.ai",
+        "location": "San Francisco, CA, USA",
+        "description": "Automated DevOps for Low-Code Platforms"
+    },
+    {
+        "name": "Origami Agents",
+        "location": "San Francisco, CA, USA",
+        "description": "Agents that find your perfect customers"
+    },
+    {
+        "name": "Friday",
+        "location": "San Francisco, CA, USA",
+        "description": "An assistant that understands your emails and handles them for you"
+    },
+    {
+        "name": "Encore",
+        "location": "San Francisco, CA, USA",
+        "description": "Conversational search and discovery for secondhand products"
+    },
+    {
+        "name": "Riveter AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI data assistant for spreadsheets"
+    },
+    {
+        "name": "Karmen",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Assistant for Construction Project Managers"
+    },
+    {
+        "name": "Reticular",
+        "location": "San Francisco, CA, USA",
+        "description": "Interpretable AI for drug discovery"
+    },
+    {
+        "name": "Unusual",
+        "location": "San Francisco, CA, USA",
+        "description": "Tailor your website for each visitor."
+    },
+    {
+        "name": "Helpcare AI",
+        "location": "N/A",
+        "description": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients."
+    },
+    {
+        "name": "Upshift",
+        "location": "Charlotte, NC, USA",
+        "description": "Turn your software product into a platform."
+    },
+    {
+        "name": "vly.ai",
+        "location": "San Francisco, CA, USA",
+        "description": "Automating the full-stack developer"
+    },
+    {
+        "name": "Ryvn",
+        "location": "San Francisco, CA, USA",
+        "description": "Deploy, update, and monitor applications in customer clouds / on-prem"
+    },
+    {
+        "name": "Ultralight",
+        "location": "San Francisco, CA, USA",
+        "description": "Universal, Pure-GPU HTML Renderer"
+    },
+    {
+        "name": "Afternoon.co",
+        "location": "New York, NY, USA",
+        "description": "AI Bookkeeping and tax platform for ecommerce & startup founders"
+    },
+    {
+        "name": "Autumn",
+        "location": "N/A",
+        "description": "Build any pricing model in a few lines of code"
+    },
+    {
+        "name": "Symphony",
+        "location": "New York, NY, USA",
+        "description": "Voice AI sims for next-gen employee training"
+    },
+    {
+        "name": "HYBRD",
+        "location": "Boston, MA, USA",
+        "description": "Strava for the modern athlete"
+    },
+    {
+        "name": "Innate",
+        "location": "Palo Alto, CA, USA",
+        "description": "Teachable general-purpose robots"
+    },
+    {
+        "name": "Sphinx",
+        "location": "N/A",
+        "description": "AI Compliance Analysts for Banks & Fintechs"
+    },
+    {
+        "name": "Andoria",
+        "location": "San Francisco, CA, USA",
+        "description": "Automate any manual and repetitive tasks on the web"
+    },
+    {
+        "name": "Scrapybara",
+        "location": "N/A",
+        "description": "Virtual Desktops for AI Agents"
+    },
+    {
+        "name": "Galini",
+        "location": "San Francisco, CA, USA",
+        "description": "Compliance guardrails-as-a-service for AI applications"
+    },
+    {
+        "name": "Candid",
+        "location": "San Francisco, CA, USA",
+        "description": "Warm leads sourced by AI research agents"
+    },
+    {
+        "name": "Forerunner AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Copilot for aerospace engineers making rockets, munitions, satellites"
+    },
+    {
+        "name": "Roundabout Technologies",
+        "location": "N/A",
+        "description": "Software for AI-powered traffic lights"
+    },
+    {
+        "name": "Luthor",
+        "location": "N/A",
+        "description": "AI Agents for Marketing Compliance"
+    },
+    {
+        "name": "CTGT",
+        "location": "San Francisco, CA, USA",
+        "description": "Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem"
+    },
+    {
+        "name": "Raycaster",
+        "location": "N/A",
+        "description": "Research agents for life sciences"
+    },
+    {
+        "name": "CollectWise",
+        "location": "N/A",
+        "description": "Automating consumer debt collection with AI"
+    },
+    {
+        "name": "Sunset",
+        "location": "N/A",
+        "description": "Find and move money after a death"
+    },
+    {
+        "name": "Lightscreen AI",
+        "location": "Sunnyvale, CA, USA",
+        "description": "Voice + video AI interviewer"
+    },
+    {
+        "name": "Fresco",
+        "location": "San Francisco, CA, USA",
+        "description": "AI copilot for construction superintendents"
+    },
+    {
+        "name": "ISSEN",
+        "location": "New York, NY, USA",
+        "description": "AI realtime voice companion for language learning"
+    },
+    {
+        "name": "Revyl",
+        "location": "San Francisco, CA, USA",
+        "description": "Proactive observability"
+    },
+    {
+        "name": "Vespper",
+        "location": "N/A",
+        "description": "AI agent that troubleshoots production alerts for software engineers,\u2026"
+    },
+    {
+        "name": "Crustdata",
+        "location": "N/A",
+        "description": "Real-time B2B data via simple APIs"
+    },
+    {
+        "name": "Moonshine",
+        "location": "San Francisco, CA, USA",
+        "description": "APIs for video understanding"
+    },
+    {
+        "name": "Circlemind",
+        "location": "N/A",
+        "description": "Circlemind is an open-source RAG using knowledge graphs and PageRank."
+    },
+    {
+        "name": "BeerMe",
+        "location": "New York, NY, USA",
+        "description": "Fun, global Venmo built on USDC"
+    },
+    {
+        "name": "Relvy AI",
+        "location": "N/A",
+        "description": "Efficient AI for monitoring production software"
+    },
+    {
+        "name": "Synth",
+        "location": "N/A",
+        "description": "We help AI agents learn from data."
+    },
+    {
+        "name": "Gecko Security",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI Security Engineer to Find and Fix Vulnerabilities"
+    },
+    {
+        "name": "Metreecs",
+        "location": "N/A",
+        "description": "AI-powered demand forecasting for retail"
+    },
+    {
+        "name": "Gait",
+        "location": "San Francisco, CA, USA",
+        "description": "Building Dev Infra for AI Software Engineers"
+    },
+    {
+        "name": "Alex",
+        "location": "San Francisco, CA, USA",
+        "description": "The Cursor for Xcode"
+    },
+    {
+        "name": "Codebuff",
+        "location": "N/A",
+        "description": "The CLI tool that writes code for you"
+    },
+    {
+        "name": "Cekura (formerly Vocera)",
+        "location": "San Francisco, CA, USA",
+        "description": "Testing & Observability for AI voice agents"
+    },
+    {
+        "name": "Ember",
+        "location": "San Francisco, CA, USA",
+        "description": "AI RCM. Onboard in 3 days or less. Reduce claim denials by 55%."
+    },
+    {
+        "name": "Rulebase",
+        "location": "N/A",
+        "description": "AI agents for fraud detection and investigations."
+    },
+    {
+        "name": "Protegee",
+        "location": "San Francisco, CA, USA",
+        "description": "Payments API for AI Agents"
+    },
+    {
+        "name": "Durate",
+        "location": "N/A",
+        "description": "We build automated scheduling software for hospitals"
+    },
+    {
+        "name": "Lingo.dev",
+        "location": "San Francisco, CA, USA",
+        "description": "Automated AI localization for dev teams. (formerly Replexica)"
+    },
+    {
+        "name": "OpenFunnel",
+        "location": "San Francisco, CA, USA",
+        "description": "Personalised Agents for AI-First GTM Teams"
+    },
+    {
+        "name": "Curo",
+        "location": "San Francisco, CA, USA",
+        "description": "Electric fleets park and charge anywhere with Curo"
+    },
+    {
+        "name": "Astrix Health",
+        "location": "New York, NY, USA",
+        "description": "Astrix builds AI purchasing agents for healthcare providers."
+    },
+    {
+        "name": "HumanLayer",
+        "location": "San Francisco, CA, USA",
+        "description": "Human-in-the-Loop for AI Agents"
+    },
+    {
+        "name": "Dexter",
+        "location": "Berlin, Berlin, Germany",
+        "description": "AI workflow automation for field operations"
+    },
+    {
+        "name": "Sandra AI",
+        "location": "Miami, FL, USA",
+        "description": "Building AI employees for car dealers, starting with AI receptionists"
+    },
+    {
+        "name": "Bifrost Orbital",
+        "location": "San Francisco, CA, USA",
+        "description": "24/7 and real-time connectivity for satellites"
+    },
+    {
+        "name": "PearAI",
+        "location": "N/A",
+        "description": "The AI Code Editor For Your Next Project"
+    },
+    {
+        "name": "Bramble",
+        "location": "San Francisco, CA, USA",
+        "description": "The next generation Zillow."
+    },
+    {
+        "name": "supercontrast",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Co-Pilot for Design"
+    },
+    {
+        "name": "Archil",
+        "location": "San Francisco, CA, USA",
+        "description": "Transform S3 in an unlimited, local file system"
+    },
+    {
+        "name": "Substrate",
+        "location": "Remote",
+        "description": "Artificial Intelligence for your medical billing team"
+    },
+    {
+        "name": "Void",
+        "location": "San Francisco, CA, USA",
+        "description": "The open source Cursor alternative"
+    },
+    {
+        "name": "camfer",
+        "location": "San Francisco, CA, USA",
+        "description": "Building the world\u2019s first AI mechanical engineer."
+    },
+    {
+        "name": "Lysto AI",
+        "location": "New York, NY, USA",
+        "description": "Task automation platform for GTM teams"
+    },
+    {
+        "name": "Getcho",
+        "location": "New York, NY, USA",
+        "description": "The reliability platform for last-mile delivery"
+    },
+    {
+        "name": "Cobblestone",
+        "location": "New York, NY, USA",
+        "description": "Delinquency reduction and automation software for institutional\u2026"
+    },
+    {
+        "name": "et al.",
+        "location": "San Francisco, CA, USA",
+        "description": "Feed of insights extracted from your go-to sources using LLMs."
+    },
+    {
+        "name": "expand.ai",
+        "location": "San Francisco, CA, USA",
+        "description": "Turn any website into an API."
+    },
+    {
+        "name": "Seals AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Employees for Wholesalers & Distributors"
+    },
+    {
+        "name": "Hey Revia",
+        "location": "San Francisco, CA, USA",
+        "description": "Voice AI to automate complex phone calls for healthcare providers"
+    },
+    {
+        "name": "Random Labs",
+        "location": "N/A",
+        "description": "Random labs is building fully open source software agents"
+    },
+    {
+        "name": "Village Labs",
+        "location": "New York, NY, USA",
+        "description": "Helping America's businesses become employee owned"
+    },
+    {
+        "name": "VideoGen",
+        "location": "San Francisco, CA, USA",
+        "description": "AI that can create and edit professional videos"
+    },
+    {
+        "name": "Unsloth AI",
+        "location": "N/A",
+        "description": "Open Source Fine-tuning & Training of LLMs"
+    },
+    {
+        "name": "Rescript",
+        "location": "N/A",
+        "description": "AI Regulatory Analyst for Enterprises"
+    },
+    {
+        "name": "Pinnacle",
+        "location": "San Francisco, CA, USA",
+        "description": "API & SDK for RCS (the next-generation of texting)"
+    },
+    {
+        "name": "Theseus",
+        "location": "N/A",
+        "description": "GPS Denied Navigation for Drones"
+    },
+    {
+        "name": "Ficra",
+        "location": "San Francisco, CA, USA",
+        "description": "Real time, source of truth for every product screen and user flow"
+    },
+    {
+        "name": "Coval",
+        "location": "N/A",
+        "description": "Simulation & Evaluation for Voice and Chat Agents"
+    },
+    {
+        "name": "AI Sell",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Sales Associate for Ecommerce"
+    },
+    {
+        "name": "Melty",
+        "location": "San Francisco, CA, USA",
+        "description": "Chat with a bunch of AIs at once"
+    },
+    {
+        "name": "DigitalCarbon",
+        "location": "San Francisco, CA, USA",
+        "description": "Transform Images And Videos Into Immersive 3D With AI"
+    },
+    {
+        "name": "Snowpilot",
+        "location": "San Francisco, CA, USA",
+        "description": "The connected spreadsheet that destroys data silos"
+    },
+    {
+        "name": "Proxis",
+        "location": "N/A",
+        "description": "The developer platform for LLM distillation and serving."
+    },
+    {
+        "name": "dmodel",
+        "location": "San Francisco, CA, USA",
+        "description": "Look inside the model"
+    },
+    {
+        "name": "DreamRP",
+        "location": "San Francisco, CA, USA",
+        "description": "Bring your characters to life"
+    },
+    {
+        "name": "Focus Buddy",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Productivity Coach you speak with while working to stay focused\u2026"
+    },
+    {
+        "name": "Blaze",
+        "location": "Mexico City, CDMX, Mexico",
+        "description": "Global Venmo for cross border payments"
+    },
+    {
+        "name": "MagiCode",
+        "location": "Stanford, CA, USA",
+        "description": "A Reliable AI Frontend Engineer"
+    },
+    {
+        "name": "Abel Police",
+        "location": "N/A",
+        "description": "Automating police paperwork"
+    },
+    {
+        "name": "Biocartesian",
+        "location": "San Francisco, CA, USA",
+        "description": "Converting biology into digital molecular maps"
+    },
+    {
+        "name": "PathPilot",
+        "location": "San Jose, CA, USA",
+        "description": "Optimize SaaS revenue by understanding user behavior"
+    },
+    {
+        "name": "Keet",
+        "location": "N/A",
+        "description": "Authentication for AI Agents"
+    },
+    {
+        "name": "Rewbi",
+        "location": "N/A",
+        "description": "Rewbi uses AI to increase grid-connected battery storage revenue 2x"
+    },
+    {
+        "name": "Paradome",
+        "location": "New York, NY, USA",
+        "description": "Rapid AI development & deployment for government"
+    },
+    {
+        "name": "Autumn Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "Datadog for industrial robots"
+    },
+    {
+        "name": "pap!",
+        "location": "Berkeley, CA, USA",
+        "description": "Agents that earn consumers dollars when they shop, travel, and live."
+    },
+    {
+        "name": "Capitol AI",
+        "location": "Washington, DC, USA",
+        "description": "Capitol is a custom perplexity for every website in the world."
+    },
+    {
+        "name": "Redouble AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Scale human-in-the-loop for AI workflows in regulated industries"
+    },
+    {
+        "name": "Presti AI",
+        "location": "N/A",
+        "description": "Helping furniture companies create product visuals with AI"
+    },
+    {
+        "name": "ideate.xyz",
+        "location": "San Francisco, CA, USA",
+        "description": "ideate.xyz is an AI-powered 3D art suite on the web"
+    },
+    {
+        "name": "Sensei",
+        "location": "San Francisco, CA, USA",
+        "description": "Robotic Training Data at Scale"
+    },
+    {
+        "name": "Blast",
+        "location": "San Francisco, CA, USA",
+        "description": "Helping enterprises build safe and compliant LLM apps/agents"
+    },
+    {
+        "name": "deepsilicon",
+        "location": "San Francisco, CA, USA",
+        "description": "Software and hardware to run neural networks faster and cheaper"
+    },
+    {
+        "name": "Storia AI",
+        "location": "Millbrae, CA, USA",
+        "description": "Open source AI copilot that knows your company's code and its context"
+    },
+    {
+        "name": "Willow",
+        "location": "Palo Alto, CA, USA",
+        "description": "Write 3x faster with voice dictation, powered by AI"
+    },
+    {
+        "name": "Plume",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "Home energy renovation copilot"
+    },
+    {
+        "name": "Palmier",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Native Github Alternative"
+    },
+    {
+        "name": "Overstand Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "We help business leaders get back into Founder Mode"
+    },
+    {
+        "name": "XTraffic",
+        "location": "N/A",
+        "description": "Technology for cities to automate and manage their traffic lights."
+    },
+    {
+        "name": "Moreta",
+        "location": "San Francisco, CA, USA",
+        "description": "Payments made easy for international travelers."
+    },
+    {
+        "name": "Saturn",
+        "location": "London, England, United Kingdom",
+        "description": "Compliance and back office workflows for Wealth Managers."
+    },
+    {
+        "name": "TaxGPT",
+        "location": "San Francisco, CA, USA",
+        "description": "AI tax assistant for professionals and businesses"
+    },
+    {
+        "name": "reworks",
+        "location": "San Francisco, CA, USA",
+        "description": "Turn external software into APIs that don\u2019t break"
+    },
+    {
+        "name": "Lighthouz AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI procurement specialists for manufacturers"
+    },
+    {
+        "name": "Weave Robotics",
+        "location": "N/A",
+        "description": "Personal robots for the home--that ship in 2025"
+    },
+    {
+        "name": "Kura",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI DevOps Copilot for Software Teams"
+    },
+    {
+        "name": "Baseline AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI document creation and data management for clinical trials"
+    },
+    {
+        "name": "Ares Industries",
+        "location": "El Segundo, CA, USA",
+        "description": "Building low-cost cruise missiles"
+    },
+    {
+        "name": "Doublezero",
+        "location": "Remote",
+        "description": "Platform to build, use, and monetize fully autonomous agents"
+    },
+    {
+        "name": "Fuse",
+        "location": "London, England, United Kingdom",
+        "description": "Boosting contracted revenue for US healthcare providers"
+    },
+    {
+        "name": "Kopra Bio",
+        "location": "San Francisco, CA, USA",
+        "description": "Genetically engineered viruses that teach your immune system to kill\u2026"
+    },
+    {
+        "name": "Standard Data",
+        "location": "N/A",
+        "description": "Rebuilding the supply of the American manufacturing workforce."
+    },
+    {
+        "name": "Spur",
+        "location": "San Francisco, CA, USA",
+        "description": "Spur is your AI QA Engineer. Test your websites with natural language."
+    },
+    {
+        "name": "Tabular",
+        "location": "N/A",
+        "description": "AI Copilot for accounting firms in Europe"
+    },
+    {
+        "name": "Vendra",
+        "location": "San Francisco, CA, USA",
+        "description": "Custom Parts, Manufactured in America \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "name": "Kairo Health",
+        "location": "New York, NY, USA",
+        "description": "The AI healthcare workforce"
+    },
+    {
+        "name": "Affil.ai",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Affiliate Network For Financial Companies"
+    },
+    {
+        "name": "Paasa",
+        "location": "Gurugram, HR, India",
+        "description": "Global investing for HNIs in emerging markets, starting from India"
+    },
+    {
+        "name": "Evolvere BioSciences",
+        "location": "Oxford, England, United Kingdom",
+        "description": "Making Next-Generation Antibiotics that Outpace Bacterial Evolution"
+    },
+    {
+        "name": "omnidock",
+        "location": "N/A",
+        "description": "OS for global e-commerce expansion of brands & manufacturers"
+    },
+    {
+        "name": "Nerve",
+        "location": "San Francisco, CA, USA",
+        "description": "Healthcare integrations for developers"
+    },
+    {
+        "name": "Finosu",
+        "location": "N/A",
+        "description": "Workflow automation for the credit industry"
+    },
+    {
+        "name": "Ultra",
+        "location": "New York, NY, USA",
+        "description": "Practical, general-purpose robots for repetitive industrial tasks"
+    },
+    {
+        "name": "DeepSim, Inc.",
+        "location": "Mountain View, CA, USA",
+        "description": "An AI physics simulator for AI chip design"
+    },
+    {
+        "name": "Syntra",
+        "location": "N/A",
+        "description": "Automate back-office operations for outpatient clinics and ASCs."
+    },
+    {
+        "name": "Simplex",
+        "location": "San Francisco, CA, USA",
+        "description": "Integrations without APIs."
+    },
+    {
+        "name": "Azalea Robotics Corporation",
+        "location": "Berkeley, CA, USA",
+        "description": "Automating airport baggage handling with robots."
+    },
+    {
+        "name": "RowBoat Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "LLM agents for customer support in fintech"
+    },
+    {
+        "name": "CodeViz",
+        "location": "San Francisco, CA, USA",
+        "description": "Visual Search Engine For Code"
+    },
+    {
+        "name": "Silurian",
+        "location": "Kirkland, WA, USA",
+        "description": "Foundation models to simulate Earth, starting with weather."
+    },
+    {
+        "name": "Callback",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-native business process outsourcing"
+    },
+    {
+        "name": "Lucible",
+        "location": "N/A",
+        "description": "Combined checking and investment account"
+    },
+    {
+        "name": "Modus",
+        "location": "Remote",
+        "description": "Unlock revenue per employee with AI-powered headcount management"
+    },
+    {
+        "name": "Simple AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Phone Agents"
+    },
+    {
+        "name": "Mineflow",
+        "location": "N/A",
+        "description": "Mineflow predicts the shape and location of mineral deposits"
+    },
+    {
+        "name": "Decisional AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Agent for private markets that accelerates deep financial work"
+    },
+    {
+        "name": "Planbase",
+        "location": "San Francisco, CA, USA",
+        "description": "Workforce management for modern healthcare"
+    },
+    {
+        "name": "Simplifine",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Powered Workspace for Research"
+    },
+    {
+        "name": "AutoPallet Robotics",
+        "location": "San Francisco, CA, USA",
+        "description": "We make robots that move boxes in warehouses"
+    },
+    {
+        "name": "Pumpkin",
+        "location": "San Francisco, CA, USA",
+        "description": "A web browser built for human and AI collaboration"
+    },
+    {
+        "name": "Invaria",
+        "location": "London, England, United Kingdom",
+        "description": "The next generation logging and observability platform"
+    },
+    {
+        "name": "Thunder Compute",
+        "location": "Atlanta, GA, USA",
+        "description": "Virtualization software to make GPUs 5x cheaper"
+    },
+    {
+        "name": "Stormy AI \u2013 Autonomous marketing agent",
+        "location": "San Francisco, CA, USA",
+        "description": "Influencer marketing on autopilot"
+    },
+    {
+        "name": "Ligo Biosciences",
+        "location": "San Francisco, CA, USA",
+        "description": "AI designed enzymes for the chemical industry."
+    },
+    {
+        "name": "Praxos",
+        "location": "Miami, FL, USA",
+        "description": "AI workbench for insurance brokers"
+    },
+    {
+        "name": "Aviary",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Video Intelligence"
+    },
+    {
+        "name": "Dimely",
+        "location": "San Francisco, CA, USA",
+        "description": "AI agents for B2B SaaS Finance Teams"
+    },
+    {
+        "name": "Vera Health",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-powered clinical decision support for healthcare providers"
+    },
+    {
+        "name": "Asterisk",
+        "location": "N/A",
+        "description": "AI Hacker for Codebases"
+    },
+    {
+        "name": "Parity",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI SRE for Incident Response"
+    },
+    {
+        "name": "Dodo",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Employees for Specialty Clinics"
+    },
+    {
+        "name": "General Analysis",
+        "location": "San Francisco, CA, USA",
+        "description": "Automated AI Safety and Red Teaming Tools"
+    },
+    {
+        "name": "Helium",
+        "location": "N/A",
+        "description": "Self Improving Software"
+    },
+    {
+        "name": "Sepal AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Data Development for Advanced AI"
+    },
+    {
+        "name": "OrgOrg",
+        "location": "Los Altos, CA, USA",
+        "description": "Organizational productivity suite for companies"
+    },
+    {
+        "name": "Saldor",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Software Engineers"
+    },
+    {
+        "name": "NetworkOcean",
+        "location": "San Francisco, CA, USA",
+        "description": "We build and operate underwater data centers."
+    },
+    {
+        "name": "Voker",
+        "location": "N/A",
+        "description": "No-Code AI Builder"
+    },
+    {
+        "name": "Guardian AI",
+        "location": "New York, NY, USA",
+        "description": "Helping healthcare providers fight insurance denials."
+    },
+    {
+        "name": "Winford Wealth",
+        "location": "New York, NY, USA",
+        "description": "The Leading AI Meeting Assistant for Financial Advisors"
+    },
+    {
+        "name": "Clara",
+        "location": "San Francisco, CA, USA",
+        "description": "Helping families discover, hire, and manage in-home caregivers"
+    },
+    {
+        "name": "RentFlow",
+        "location": "San Francisco, CA, USA",
+        "description": "The first 'Buy Now Pay Later' solution for Rents"
+    },
+    {
+        "name": "Pharos",
+        "location": "San Francisco, CA, USA",
+        "description": "Automate hospital reporting and prevent patient harm with AI"
+    },
+    {
+        "name": "Lumenary",
+        "location": "San Francisco, CA, USA",
+        "description": "Build production-worthy software quickly with AI."
+    },
+    {
+        "name": "Exa Laboratories",
+        "location": "N/A",
+        "description": "Energy efficient chips for AI"
+    },
+    {
+        "name": "LedgerUp",
+        "location": "San Francisco, CA, USA",
+        "description": "Your AI billing teammate that automates contracts to revenue"
+    },
+    {
+        "name": "RunLocal",
+        "location": "San Francisco, CA, USA",
+        "description": "The On-Device AI Development Platform"
+    },
+    {
+        "name": "Ember Robotics",
+        "location": "San Francisco, CA, USA",
+        "description": "Datadog for robots"
+    },
+    {
+        "name": "ProhostAI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Property Manager for Airbnb & Short-Term Rental Hosts"
+    },
+    {
+        "name": "Overeasy",
+        "location": "San Francisco, CA, USA",
+        "description": "N/A"
+    },
+    {
+        "name": "Benchify",
+        "location": "San Francisco, CA, USA",
+        "description": "Bug-free code without writing tests"
+    },
+    {
+        "name": "Bayesline",
+        "location": "New York, NY, USA",
+        "description": "Highly customizable and blazingly fast analytics for asset managers."
+    },
+    {
+        "name": "Diode Computers, Inc.",
+        "location": "New York, NY, USA",
+        "description": "Automate circuit board design using AI"
+    },
+    {
+        "name": "Propaya",
+        "location": "San Francisco, CA, USA",
+        "description": "AI commercial lease abstractions and review"
+    },
+    {
+        "name": "Felafax",
+        "location": "San Francisco, CA, USA",
+        "description": "Building AI Infra for non-NVIDIA GPUs"
+    },
+    {
+        "name": "Midship",
+        "location": "San Francisco, CA, USA",
+        "description": "AI for Financial Audit Procedures"
+    },
+    {
+        "name": "Haystack Software",
+        "location": "San Francisco, CA, USA",
+        "description": "Visualize and edit your codebase on an infinite canvas"
+    },
+    {
+        "name": "Zeit AI",
+        "location": "N/A",
+        "description": "Enterprise insights from spreadsheet data with just a few words."
+    },
+    {
+        "name": "Tivara",
+        "location": "N/A",
+        "description": "The AI workforce for medical groups"
+    },
+    {
+        "name": "RetroFix AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Turbo Tax for Building Rebates"
+    },
+    {
+        "name": "Hestus, Inc.",
+        "location": "N/A",
+        "description": "An AI-powered CAD software"
+    },
+    {
+        "name": "Usul",
+        "location": "N/A",
+        "description": "Win defense contracts with AI"
+    },
+    {
+        "name": "Educato AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Powered Worldwide exam-prep platform"
+    },
+    {
+        "name": "Clearly AI",
+        "location": "Seattle, WA, USA",
+        "description": "Automate security and privacy reviews"
+    },
+    {
+        "name": "Promi",
+        "location": "N/A",
+        "description": "Optimizing ecommerce pricing with dynamic, personalized discounts"
+    },
+    {
+        "name": "Dataleap",
+        "location": "San Francisco, CA, USA",
+        "description": "Perplexity for Consultants"
+    },
+    {
+        "name": "Miru",
+        "location": "San Francisco, CA, USA",
+        "description": "DevOps for robotics"
+    },
+    {
+        "name": "Merlin AI",
+        "location": "Los Angeles, CA, USA",
+        "description": "AI powered ERP for Construction"
+    },
+    {
+        "name": "MinusX",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Data Scientist for Jupyter and Metabase"
+    },
+    {
+        "name": "Rides",
+        "location": "Lake Oswego, OR, USA",
+        "description": "The car community for the car community."
+    },
+    {
+        "name": "The Forecasting Company",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "Foundation models for time series"
+    },
+    {
+        "name": "Codes Health",
+        "location": "New York, NY, USA",
+        "description": "Perfect medical histories."
+    },
+    {
+        "name": "ACX",
+        "location": "San Francisco, CA, USA",
+        "description": "Next-generation biocides for sustainable agriculture at scale"
+    },
+    {
+        "name": "Octopipe",
+        "location": "San Francisco, CA, USA",
+        "description": "Build Scalable Data Pipelines in minutes not months"
+    },
+    {
+        "name": "TradeFlow",
+        "location": "New York, NY, USA",
+        "description": "AI-powered settlement for financial securities"
+    },
+    {
+        "name": "Moonglow",
+        "location": "San Francisco, CA, USA",
+        "description": "No-code platform for building browser agents"
+    },
+    {
+        "name": "RiskAngle",
+        "location": "San Francisco, CA, USA",
+        "description": "AI medical summaries in minutes"
+    },
+    {
+        "name": "FirstWork",
+        "location": "San Francisco, CA, USA",
+        "description": "Rippling for seasonal workers"
+    },
+    {
+        "name": "Formula Insight",
+        "location": "New York, NY, USA",
+        "description": "Help Institutional Investors manage, track & query their Excel models"
+    },
+    {
+        "name": "Ionworks",
+        "location": "Remote",
+        "description": "Simulation software used by leading battery and automotive companies"
+    },
+    {
+        "name": "Pax",
+        "location": "N/A",
+        "description": "AI Broker for Import Tax Refunds"
+    },
+    {
+        "name": "Overlap",
+        "location": "San Francisco, CA, USA",
+        "description": "Multimodal AI agents for video"
+    },
+    {
+        "name": "Soff",
+        "location": "San Francisco, CA, USA",
+        "description": "Supply Chain OS for manufacturing companies."
+    },
+    {
+        "name": "Lilac Labs",
+        "location": "N/A",
+        "description": "We automate the person taking orders at drive-thrus with a voice AI"
+    },
+    {
+        "name": "Spherecast",
+        "location": "N/A",
+        "description": "AI Supply Chain Manager for Ecommerce"
+    },
+    {
+        "name": "Zuni",
+        "location": "Remote",
+        "description": "Smarter email for founders"
+    },
+    {
+        "name": "Outerport",
+        "location": "San Francisco, CA, USA",
+        "description": "Compare documents and clarify business processes with AI"
+    },
+    {
+        "name": "Quetzal",
+        "location": "Oakland, CA, USA",
+        "description": "Simple, LLM-first translation and internationalization for software"
+    },
+    {
+        "name": "Drillbit",
+        "location": "N/A",
+        "description": "Automating Office Work for Residential Contractors."
+    },
+    {
+        "name": "Comfy Deploy",
+        "location": "San Francisco, CA, USA",
+        "description": "Vercel for Gen AI applications"
+    },
+    {
+        "name": "Thyme",
+        "location": "San Francisco, CA, USA",
+        "description": "The OS for financial advisors"
+    },
+    {
+        "name": "Modern Realty",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI powered Real Estate Brokerage."
+    },
+    {
+        "name": "Cheers",
+        "location": "San Francisco, CA, USA",
+        "description": "The super-app for frontline employees"
+    },
+    {
+        "name": "Laminar",
+        "location": "San Francisco, CA, USA",
+        "description": "Open-source all-in-one platform for engineering AI products"
+    },
+    {
+        "name": "Poka Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "The modern operating system for chemical manufacturing."
+    },
+    {
+        "name": "Rastro",
+        "location": "San Francisco, CA, USA",
+        "description": "State of the art AI interior designer."
+    },
+    {
+        "name": "Patched",
+        "location": "San Francisco, CA, USA",
+        "description": "Open-source workflow automation for dev teams"
+    },
+    {
+        "name": "Sample",
+        "location": "San Francisco, CA, USA",
+        "description": "Flexible systems for clinical reasoning."
+    },
+    {
+        "name": "Remade",
+        "location": "San Francisco, CA, USA",
+        "description": "AI video generation Discord community"
+    },
+    {
+        "name": "Arva AI",
+        "location": "N/A",
+        "description": "AI enabled business verification for banks and fintechs"
+    },
+    {
+        "name": "Mito Health",
+        "location": "San Francisco, CA, USA",
+        "description": "Bloodwork and personalized insights to help you live longer"
+    },
+    {
+        "name": "Brighterway",
+        "location": "N/A",
+        "description": "Streamlining the record review process for physicians in medlegal\u2026"
+    },
+    {
+        "name": "Intryc",
+        "location": "San Francisco, CA, USA",
+        "description": "Intryc uses AI to automate quality assurance for customer support"
+    },
+    {
+        "name": "Synnax",
+        "location": "San Francisco, CA, USA",
+        "description": "Unified Hardware Control and Data Processing Software"
+    },
+    {
+        "name": "Mica AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Agents that Automate B2B Sales"
+    },
+    {
+        "name": "Roger",
+        "location": "N/A",
+        "description": "Roger is an AI SDR that automates outbound sales and follows up 24/7."
+    },
+    {
+        "name": "Pulse",
+        "location": "San Francisco, CA, USA",
+        "description": "Production-grade unstructured document extraction"
+    },
+    {
+        "name": "Zenbase AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Continuous prompt optimization for LLMs from DSPy core contributors"
+    },
+    {
+        "name": "autarc",
+        "location": "Berlin, Berlin, Germany",
+        "description": "autarc is the OS for Europe's One-Stop Energy Installers"
+    },
+    {
+        "name": "David AI",
+        "location": "N/A",
+        "description": "Data for audio AI"
+    },
+    {
+        "name": "Corgi",
+        "location": "San Francisco, CA, USA",
+        "description": "Corgi is building an AI insurance company"
+    },
+    {
+        "name": "Sorcerer",
+        "location": "San Francisco, CA, USA",
+        "description": "We build weather balloons that collect 1000x more data"
+    },
+    {
+        "name": "1849 bio",
+        "location": "San Francisco, CA, USA",
+        "description": "Engineering microbes for miners to unlock billions in trapped metal"
+    },
+    {
+        "name": "mdhub",
+        "location": "San Francisco, CA, USA",
+        "description": "AI assistants for mental health clinics to efficiently run their ops"
+    },
+    {
+        "name": "Cerulion",
+        "location": "N/A",
+        "description": "Open source operating system for robots"
+    },
+    {
+        "name": "Vibe",
+        "location": "San Francisco, CA, USA",
+        "description": "Making everyone a software engineer"
+    },
+    {
+        "name": "Terra",
+        "location": "New York, NY, USA",
+        "description": "Terra is like Faire for custom goods"
+    },
+    {
+        "name": "Offstream",
+        "location": "N/A",
+        "description": "Vanta for carbon compliance"
+    },
+    {
+        "name": "Assembly HOA",
+        "location": "Los Angeles, CA, USA",
+        "description": "AI-enabled HOA Management Company"
+    },
+    {
+        "name": "Dench.com",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Secretary to pre-qualify leads for law firms"
+    },
+    {
+        "name": "Kastle",
+        "location": "N/A",
+        "description": "AI agents for mortgage servicing"
+    },
+    {
+        "name": "SureBright",
+        "location": "New York, NY, USA",
+        "description": "Apple Care-like warranty program for every retailer"
+    },
+    {
+        "name": "Parahelp",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI support agent for software companies"
+    },
+    {
+        "name": "Argil",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "The video generation engine for the creator economy"
+    },
+    {
+        "name": "Remo",
+        "location": "N/A",
+        "description": "AI for compliance teams at banks"
+    },
+    {
+        "name": "Ontra Mobility",
+        "location": "New York, NY, USA",
+        "description": "Platform for cities to optimize transit"
+    },
+    {
+        "name": "Stempad",
+        "location": "N/A",
+        "description": "Notion for science"
+    },
+    {
+        "name": "&AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Professional-Grade AI for Patent Attorneys"
+    },
+    {
+        "name": "Anglera",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Powered Product Data Enrichment"
+    },
+    {
+        "name": "Polymet",
+        "location": "N/A",
+        "description": "AI Product Designer"
+    },
+    {
+        "name": "SimCare AI",
+        "location": "New York, NY, USA",
+        "description": "Conversations with AI patients to scale healthcare training."
+    },
+    {
+        "name": "Parley",
+        "location": "San Francisco, CA, USA",
+        "description": "Automating flat-fee legal work, starting with work visas + green cards"
+    },
+    {
+        "name": "Zimi",
+        "location": "New York, NY, USA",
+        "description": "Platform for international brands to sell, ship, and get paid globally"
+    },
+    {
+        "name": "FurtherAI",
+        "location": "N/A",
+        "description": "AI Workforce for the Insurance Industry"
+    },
+    {
+        "name": "\u00c5ngstr\u00f6m AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Gen AI molecular simulations that reproduce wetlab results"
+    },
+    {
+        "name": "Passage",
+        "location": "San Francisco, CA, USA",
+        "description": "Clear goods through customs, with AI"
+    },
+    {
+        "name": "Superunit",
+        "location": "San Francisco, CA, USA",
+        "description": "AI powered ERP for companies manufacturing or selling physical goods"
+    },
+    {
+        "name": "Freestyle",
+        "location": "San Francisco, CA, USA",
+        "description": "Build exceptional infrastructure with just JavaScript."
+    },
+    {
+        "name": "Domu Technology Inc.",
+        "location": "San Francisco, CA, USA",
+        "description": "Automating debt collection calls for banks."
+    },
+    {
+        "name": "Bucket Robotics",
+        "location": "N/A",
+        "description": "Defect detection for manufacturing built from CAD and synthetic data."
+    },
+    {
+        "name": "Flyflow",
+        "location": "N/A",
+        "description": "The easiest way to find high-quality sales leads"
+    },
+    {
+        "name": "Conveo",
+        "location": "Antwerp, Flanders, Belgium",
+        "description": "Qualitative Research Conducted and Analyzed by AI"
+    },
+    {
+        "name": "Typa",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-powered, professionally reviewed ghostwriting for busy founders"
+    },
+    {
+        "name": "Starcloud",
+        "location": "Redmond, WA, USA",
+        "description": "Data centers in space"
+    },
+    {
+        "name": "Elayne",
+        "location": "New York, NY, USA",
+        "description": "AI estate management & automated settlements after death"
+    },
+    {
+        "name": "Henry",
+        "location": "New York, NY, USA",
+        "description": "Automating Deal Decks for Commercial Real Estate Brokers"
+    },
+    {
+        "name": "BeeBettor",
+        "location": "N/A",
+        "description": "Robinhood for sports betting"
+    },
+    {
+        "name": "Undermind",
+        "location": "San Francisco, CA, USA",
+        "description": "An AI agent for scientific research"
+    },
+    {
+        "name": "Guardian RF",
+        "location": "Washington, DC, USA",
+        "description": "Drone detection for US defense and national security"
+    },
+    {
+        "name": "Kontigo",
+        "location": "N/A",
+        "description": "USDC-Smart Neobank for Latinos."
+    },
+    {
+        "name": "ZeroPath",
+        "location": "San Francisco, CA, USA",
+        "description": "Automatically find and fix your software vulnerabilities"
+    },
+    {
+        "name": "Conductor Quantum",
+        "location": "San Francisco, CA, USA",
+        "description": "Quantum computers on silicon chips using AI."
+    },
+    {
+        "name": "Elevate",
+        "location": "New York, NY, USA",
+        "description": "AI-powered data management"
+    },
+    {
+        "name": "Anthrogen",
+        "location": "N/A",
+        "description": "We make molecules like fuels and plastics from the air."
+    },
+    {
+        "name": "Glasskube",
+        "location": "Vienna, Vienna, Austria",
+        "description": "Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC"
+    },
+    {
+        "name": "Oway",
+        "location": "San Francisco, CA, USA",
+        "description": "Ridesharing freight with ML to cut pallet shipping costs by 50%"
+    },
+    {
+        "name": "Gauge",
+        "location": "San Francisco, CA, USA",
+        "description": "Solving the monolith/microservices dilemma."
+    },
+    {
+        "name": "Saphira AI",
+        "location": "N/A",
+        "description": "Vanta for Hardware"
+    },
+    {
+        "name": "Pipeshift",
+        "location": "San Francisco, CA, USA",
+        "description": "Modular Orchestration Platform for Open Source AI"
+    },
+    {
+        "name": "SchemeFlow",
+        "location": "San Francisco, CA, USA",
+        "description": "Automating Government Approvals for Construction Projects"
+    },
+    {
+        "name": "Tandem",
+        "location": "San Francisco, CA, USA",
+        "description": "Marketplace to help companies lease and share office space"
+    },
+    {
+        "name": "Odo",
+        "location": "San Francisco, CA, USA",
+        "description": "Help companies find and win government contracts with AI"
+    },
+    {
+        "name": "ReactWise",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Co-Pilot for Chemical Process Optimization"
+    },
+    {
+        "name": "Cartage",
+        "location": "San Francisco, CA, USA",
+        "description": "Autonomous freight coordination"
+    },
+    {
+        "name": "Maitai",
+        "location": "N/A",
+        "description": "Reliable, self-improving enterprise AI"
+    },
+    {
+        "name": "AnswerGrid",
+        "location": "San Francisco, CA, USA",
+        "description": "Gen AI for Consultants"
+    },
+    {
+        "name": "FINNY AI",
+        "location": "New York, NY, USA",
+        "description": "The OS for independent financial advisors"
+    },
+    {
+        "name": "Phonely",
+        "location": "N/A",
+        "description": "AI call centers"
+    },
+    {
+        "name": "Central",
+        "location": "San Francisco, CA, USA",
+        "description": "Payroll, benefits and government compliance bullsh*t for startups."
+    },
+    {
+        "name": "Mem0",
+        "location": "San Francisco, CA, USA",
+        "description": "The Memory layer for your AI apps"
+    },
+    {
+        "name": "HeroUI",
+        "location": "San Francisco, CA, USA",
+        "description": "Helping people ship beautiful software faster using AI and open source"
+    },
+    {
+        "name": "Stack Auth",
+        "location": "N/A",
+        "description": "The open-source Auth0 alternative"
+    },
+    {
+        "name": "Fazeshift",
+        "location": "San Francisco, CA, USA",
+        "description": "AI agent for Accounts Receivable"
+    },
+    {
+        "name": "Entangl",
+        "location": "San Francisco, CA, USA",
+        "description": "Find & resolve issues in data center engineering & operations using AI"
+    },
+    {
+        "name": "Manaflow",
+        "location": "San Francisco, CA, USA",
+        "description": "Build internal tools for AI using natural language"
+    },
+    {
+        "name": "AminoAnalytica",
+        "location": "San Francisco, CA, USA",
+        "description": "Your biotech's first AI protein engineer"
+    },
+    {
+        "name": "Panora",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Copilot for Warehouse Coordinators"
+    },
+    {
+        "name": "Ply Health",
+        "location": "New York, NY, USA",
+        "description": "Faster way to get providers in-network with payers."
+    },
+    {
+        "name": "Unbound",
+        "location": "San Francisco, CA, USA",
+        "description": "Use AI tools without fear of data leakage"
+    },
+    {
+        "name": "Apten",
+        "location": "San Francisco, CA, USA",
+        "description": "Customizable AI SMS/voice agents for businesses"
+    },
+    {
+        "name": "Spaceium Inc",
+        "location": "Long Beach, CA, USA",
+        "description": "In-Space Refueling"
+    },
+    {
+        "name": "Wordware",
+        "location": "San Francisco, CA, USA",
+        "description": "IDE to develop, iterate and deploy AI Agents"
+    },
+    {
+        "name": "ClaimSorted",
+        "location": "N/A",
+        "description": "Making it easy for insurance companies to process claims"
+    },
+    {
+        "name": "Tower",
+        "location": "San Francisco, CA, USA",
+        "description": "Legal due diligence platform powered by AI"
+    },
+    {
+        "name": "Anara",
+        "location": "San Francisco, CA, USA",
+        "description": "AI for researchers"
+    },
+    {
+        "name": "Distro",
+        "location": "Palo Alto, CA, USA",
+        "description": "The AI co-pilot for sales reps at industrial wholesale distributors."
+    },
+    {
+        "name": "Hippo Scribe",
+        "location": "N/A",
+        "description": "AI assisted documentation for PT/OT/SLP"
+    },
+    {
+        "name": "Hamming AI",
+        "location": "N/A",
+        "description": "Automated AI voice agent testing"
+    },
+    {
+        "name": "PandasAI",
+        "location": "Munich, BY, Germany",
+        "description": "PandasAI is an open-source conversational data analysis platform with\u2026"
+    },
+    {
+        "name": "Pico",
+        "location": "N/A",
+        "description": "Pico organizes and takes action on your iPhone screenshots"
+    },
+    {
+        "name": "Mathos",
+        "location": "Santa Clara, CA, USA",
+        "description": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning"
+    },
+    {
+        "name": "Triply",
+        "location": "Nairobi, Nairobi County, Kenya",
+        "description": "Operating system for travel businesses in Africa with embedded finance"
+    },
+    {
+        "name": "Astro Mechanica",
+        "location": "N/A",
+        "description": "New jet engines for the new Jet Age."
+    },
+    {
+        "name": "Happenstance",
+        "location": "Remote",
+        "description": "People search powered by AI"
+    },
+    {
+        "name": "K-Scale Labs",
+        "location": "Palo Alto, CA, USA",
+        "description": "Open-source humanoid robots"
+    },
+    {
+        "name": "TokenOwl",
+        "location": "New York, NY, USA",
+        "description": "AI portfolio tools for the next generation of finance"
+    },
+    {
+        "name": "Ryse",
+        "location": "New York, NY, USA",
+        "description": "The secondary market for real estate leases"
+    },
+    {
+        "name": "ProSights",
+        "location": "New York, NY, USA",
+        "description": "ProSights is an AI-native workflow automation / search platform for\u2026"
+    },
+    {
+        "name": "Centauri AI",
+        "location": "N/A",
+        "description": "The Modern ETL and Data Science Platform for Finance"
+    },
+    {
+        "name": "Keywords AI",
+        "location": "San Francisco, CA, USA",
+        "description": "LLM observability, prompt management, evals."
+    },
+    {
+        "name": "Aqua Voice",
+        "location": "San Francisco, CA, USA",
+        "description": "Voice-only text editor"
+    },
+    {
+        "name": "OpenFoundry",
+        "location": "San Francisco, CA, USA",
+        "description": "The fastest developer experience for building on open source AI."
+    },
+    {
+        "name": "dawn",
+        "location": "San Francisco, CA, USA",
+        "description": "Sentry for AI products."
+    },
+    {
+        "name": "Pretzel AI",
+        "location": "Berlin, Berlin, Germany",
+        "description": "Open-source & AI-native replacement for Jupyter Notebooks"
+    },
+    {
+        "name": "The New Money Company",
+        "location": "San Francisco, CA, USA",
+        "description": "The offshore bank for international contractors"
+    },
+    {
+        "name": "Eggnog",
+        "location": "New York, NY, USA",
+        "description": "Youtube for AI-generated content"
+    },
+    {
+        "name": "Metofico",
+        "location": "London, England, United Kingdom",
+        "description": "No Code Data Analysis for Life Science Research"
+    },
+    {
+        "name": "Aedilic",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-assisted language learning"
+    },
+    {
+        "name": "Junction Bioscience",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Hypothesis Engine for Molecular Discovery"
+    },
+    {
+        "name": "Lytix",
+        "location": "New York, NY, USA",
+        "description": "DataDog for LLMs, turnkey solution for n=1 custom evaluations"
+    },
+    {
+        "name": "edgetrace",
+        "location": "N/A",
+        "description": "Find the moments that matter"
+    },
+    {
+        "name": "Leaping",
+        "location": "San Francisco, CA, USA",
+        "description": "Automate bug resolution"
+    },
+    {
+        "name": "CoCrafter",
+        "location": "Munich, BY, Germany",
+        "description": "B2B construction marketplace to match contractors and subcontractors."
+    },
+    {
+        "name": "HeartByte",
+        "location": "San Francisco, CA, USA",
+        "description": "GenAI Webtoon. Creator write fictions 10x faster."
+    },
+    {
+        "name": "Forge Rewards",
+        "location": "San Francisco, CA, USA",
+        "description": "Starbucks app for restaurants"
+    },
+    {
+        "name": "CommodityAI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI & Automation Software Powering Physical Commodity Trading"
+    },
+    {
+        "name": "Clarum",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-powered investment due diligence"
+    },
+    {
+        "name": "Tile",
+        "location": "New York, NY, USA",
+        "description": "AI-first notebook for building operational data apps"
+    },
+    {
+        "name": "SciPhi",
+        "location": "San Francisco, CA, USA",
+        "description": "SciPhi is building R2R, the most advanced retrieval system."
+    },
+    {
+        "name": "MathDash",
+        "location": "N/A",
+        "description": "Training Platform for Math Competitions"
+    },
+    {
+        "name": "Copper Health",
+        "location": "San Francisco, CA, USA",
+        "description": "Modern patient engagement and remote therapeutic monitoring platform"
+    },
+    {
+        "name": "Opencall.ai",
+        "location": "N/A",
+        "description": "AI call centers for any business"
+    },
+    {
+        "name": "Dime",
+        "location": "N/A",
+        "description": "AI Data Engineer for Hardware Manufacturers"
+    },
+    {
+        "name": "xPay",
+        "location": "San Francisco, CA, USA",
+        "description": "International Billing Ops, Sales Tax and Payments for SaaS businesses"
+    },
+    {
+        "name": "Relari",
+        "location": "N/A",
+        "description": "Testing and Simulation Stack for GenAI Systems"
+    },
+    {
+        "name": "ego",
+        "location": "San Francisco, CA, USA",
+        "description": "in-game sentience"
+    },
+    {
+        "name": "sync.",
+        "location": "San Francisco, CA, USA",
+        "description": "AI lipsync tool for video content creators"
+    },
+    {
+        "name": "OddsView",
+        "location": "New York, NY, USA",
+        "description": "The Bloomberg Terminal of Sports Betting"
+    },
+    {
+        "name": "Oma Care",
+        "location": "N/A",
+        "description": "Get paid for taking care of your parents."
+    },
+    {
+        "name": "Sonauto",
+        "location": "N/A",
+        "description": "Create hit songs with AI"
+    },
+    {
+        "name": "Glimmer",
+        "location": "San Francisco, CA, USA",
+        "description": "AI search for massive PDFs"
+    },
+    {
+        "name": "NowHouse",
+        "location": "N/A",
+        "description": "NowHouse helps stock brokerages settle trades instantly."
+    },
+    {
+        "name": "Guide Labs",
+        "location": "N/A",
+        "description": "Interpretable AI systems"
+    },
+    {
+        "name": "Marr Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-voice agents that are indistinguishable from humans."
+    },
+    {
+        "name": "Wuri",
+        "location": "N/A",
+        "description": "App to read fiction stories as visual novels with images, videos,\u2026"
+    },
+    {
+        "name": "Ultra",
+        "location": "N/A",
+        "description": "Advisor for Ambitious Students"
+    },
+    {
+        "name": "Zep AI",
+        "location": "San Francisco, CA, USA",
+        "description": "The Memory Foundation For Your AI Stack"
+    },
+    {
+        "name": "Deepnight",
+        "location": "San Francisco, CA, USA",
+        "description": "Building The Next Generation of Night Vision Devices"
+    },
+    {
+        "name": "OffDeal",
+        "location": "New York, NY, USA",
+        "description": "AI-native investment bank for small businesses"
+    },
+    {
+        "name": "Clarion",
+        "location": "New York, NY, USA",
+        "description": "The AI communication layer for healthcare"
+    },
+    {
+        "name": "Ragas",
+        "location": "San Francisco, CA, USA",
+        "description": "Building the open source standard for evaluating LLM Applications"
+    },
+    {
+        "name": "Engines",
+        "location": "San Francisco, CA, USA",
+        "description": "Tools, context and sandboxes for AI SWEs"
+    },
+    {
+        "name": "Pivot Robotics",
+        "location": "San Francisco, CA, USA",
+        "description": "AI for Robot Arms in Factories"
+    },
+    {
+        "name": "Datacurve",
+        "location": "San Francisco, CA, USA",
+        "description": "Frontier coding data for training and evaluating LLMs"
+    },
+    {
+        "name": "PartnerHQ",
+        "location": "N/A",
+        "description": "A marketplace for B2B businesses to buy warm intros."
+    },
+    {
+        "name": "Aether Energy",
+        "location": "San Francisco, CA, USA",
+        "description": "Solar and roofing workflow software for solar installers worldwide"
+    },
+    {
+        "name": "Resonance",
+        "location": "San Francisco, CA, USA",
+        "description": "Universal add-on for marketing campaign optimization"
+    },
+    {
+        "name": "Swift",
+        "location": "San Francisco, CA, USA",
+        "description": "Embedded finance for online merchants"
+    },
+    {
+        "name": "Dropback",
+        "location": "Roeland Park, KS, USA",
+        "description": "The front office software suite for college sports"
+    },
+    {
+        "name": "Focal",
+        "location": "San Francisco, CA, USA",
+        "description": "AI video creation tool for TV shows and movies"
+    },
+    {
+        "name": "Lemon Slice",
+        "location": "San Francisco, CA, USA",
+        "description": "Expressive characters that talk"
+    },
+    {
+        "name": "Hatchet",
+        "location": "New York, NY, USA",
+        "description": "Background task orchestration and visibility"
+    },
+    {
+        "name": "Yondu",
+        "location": "Los Angeles, CA, USA",
+        "description": "Robots to Automate Fulfillment"
+    },
+    {
+        "name": "Pythagora (GPT Pilot)",
+        "location": "N/A",
+        "description": "OSS dev tool that builds entire apps from scratch by talking to you"
+    },
+    {
+        "name": "Intercept",
+        "location": "San Francisco, CA, USA",
+        "description": "Helping CPG brands automatically flag and dispute invalid retail fees"
+    },
+    {
+        "name": "Trellis",
+        "location": "N/A",
+        "description": "AI-powered workflows for unstructured data"
+    },
+    {
+        "name": "Risotto",
+        "location": "San Francisco, CA, USA",
+        "description": "Risotto auto-solves IT support requests using AI"
+    },
+    {
+        "name": "Trieve",
+        "location": "San Francisco, CA, USA",
+        "description": "All-in-one API for search, RAG, & recommendations"
+    },
+    {
+        "name": "Aftercare",
+        "location": "San Francisco, CA, USA",
+        "description": "Conversational AI surveys with intelligent follow-up questions"
+    },
+    {
+        "name": "Muddy",
+        "location": "San Francisco, CA, USA",
+        "description": "The multiplayer browser that knows you"
+    },
+    {
+        "name": "Integuru",
+        "location": "San Francisco, CA, USA",
+        "description": "Integrations without official APIs"
+    },
+    {
+        "name": "Garage",
+        "location": "N/A",
+        "description": "Marketplace for used firefighting equipment."
+    },
+    {
+        "name": "atopile",
+        "location": "San Francisco, CA, USA",
+        "description": "We make tools to design electronics circuit boards with code"
+    },
+    {
+        "name": "Selera Medical",
+        "location": "Mountain View, CA, USA",
+        "description": "One-time, device-based treatment for heart failure"
+    },
+    {
+        "name": "Piramidal",
+        "location": "N/A",
+        "description": "Foundation Model for the Brain"
+    },
+    {
+        "name": "Granza Bio",
+        "location": "San Francisco, CA, USA",
+        "description": "Advancing Therapeutic Delivery"
+    },
+    {
+        "name": "Meticulate",
+        "location": "San Francisco, CA, USA",
+        "description": "Powerful prospecting engine for revenue leaders"
+    },
+    {
+        "name": "Thorntale",
+        "location": "San Francisco, CA, USA",
+        "description": "Easiest way for post-sales teams to create data-driven presentations"
+    },
+    {
+        "name": "Quantic Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "Automated data entry for CRM"
+    },
+    {
+        "name": "Patchwork",
+        "location": "San Francisco, CA, USA",
+        "description": "Your team\u2019s AI powered communication tool"
+    },
+    {
+        "name": "Branch AI",
+        "location": "Singapore, Singapore",
+        "description": "AI Overview Search, as a Service"
+    },
+    {
+        "name": "Yenmo",
+        "location": "Bengaluru, KA, India",
+        "description": "Secured consumer lending in India"
+    },
+    {
+        "name": "Fetchr",
+        "location": "San Francisco, CA, USA",
+        "description": "The Personal Shopper  in Your Pocket"
+    },
+    {
+        "name": "Downlink",
+        "location": "San Francisco, CA, USA",
+        "description": "Make your LLMs 3x faster."
+    },
+    {
+        "name": "Decipher AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI that analyzes your session replays to uncover issues and behavior."
+    },
+    {
+        "name": "Veles",
+        "location": "Santa Barbara, CA, USA",
+        "description": "The Sales Calculator"
+    },
+    {
+        "name": "Givefront",
+        "location": "N/A",
+        "description": "Banking for Nonprofits"
+    },
+    {
+        "name": "GoldenBasis",
+        "location": "San Francisco, CA, USA",
+        "description": "Modern back-office software for brokerages"
+    },
+    {
+        "name": "renderlet",
+        "location": "New York, NY, USA",
+        "description": "Build interactive applications that run anywhere"
+    },
+    {
+        "name": "CloudCruise",
+        "location": "San Francisco, CA, USA",
+        "description": "The developer platform for building resilient automations"
+    },
+    {
+        "name": "malibou",
+        "location": "Paris, IDF, France",
+        "description": "the first all-in-one payroll and HR software for French SMBs"
+    },
+    {
+        "name": "Agentic Labs",
+        "location": "New York, NY, USA",
+        "description": "AI system design tools for dev teams"
+    },
+    {
+        "name": "Navier AI",
+        "location": "N/A",
+        "description": "Real-Time CFD Simulations"
+    },
+    {
+        "name": "BiteSight",
+        "location": "N/A",
+        "description": "The video-first food delivery app. Imagine TikTok meets DoorDash."
+    },
+    {
+        "name": "Ecliptor",
+        "location": "San Francisco, CA, USA",
+        "description": "AI and Embeddings."
+    },
+    {
+        "name": "Yarn",
+        "location": "New York, NY, USA",
+        "description": "Make sales and marketing videos with AI."
+    },
+    {
+        "name": "CrowdVolt",
+        "location": "NY, USA",
+        "description": "Bid/ask style ticket exchange powered by automated order fulfillment"
+    },
+    {
+        "name": "SSOReady",
+        "location": "San Francisco, CA, USA",
+        "description": "Open source developer tools for enterprise single sign-on"
+    },
+    {
+        "name": "Kabilah",
+        "location": "N/A",
+        "description": "Pioneering Generative AI for Nursing"
+    },
+    {
+        "name": "Arini",
+        "location": "San Francisco, CA, USA",
+        "description": "AI receptionist for dentists"
+    },
+    {
+        "name": "nCompass Technologies",
+        "location": "Remote",
+        "description": "Deploy hardware accelerated AI models with only one line of code"
+    },
+    {
+        "name": "Spark",
+        "location": "N/A",
+        "description": "AI-powered workflows for large-scale clean energy"
+    },
+    {
+        "name": "Penciled",
+        "location": "San Francisco, CA, USA",
+        "description": "Fill 10X more canceled appointments"
+    },
+    {
+        "name": "Indemni",
+        "location": "San Francisco, CA, USA",
+        "description": "Cargo Theft and Fraud Prevention Platform"
+    },
+    {
+        "name": "Tensorfuse",
+        "location": "N/A",
+        "description": "Run serverless GPUs on your own cloud"
+    },
+    {
+        "name": "Healia",
+        "location": "Columbus, OH, USA",
+        "description": "Modern health insurance for dual income families"
+    },
+    {
+        "name": "Parallel",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "AI agents for healthcare admin"
+    },
+    {
+        "name": "Petra Security",
+        "location": "San Francisco, CA, USA",
+        "description": "Cybersecurity"
+    },
+    {
+        "name": "Blacksmith",
+        "location": "N/A",
+        "description": "Serverless cloud infra for CI"
+    },
+    {
+        "name": "Carousel Technologies",
+        "location": "New York, NY, USA",
+        "description": "Professional AI toolkit for PowerPoint"
+    },
+    {
+        "name": "HostAI",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI operations platform for the built world"
+    },
+    {
+        "name": "Argon AI, Inc.",
+        "location": "N/A",
+        "description": "AI for Pharma Intelligence"
+    },
+    {
+        "name": "Mango Health",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Therapy for OCD"
+    },
+    {
+        "name": "Scritch",
+        "location": "San Francisco, CA, USA",
+        "description": "AI operating system for veterinary care"
+    },
+    {
+        "name": "SynsoryBio",
+        "location": "Cambridge, MA, USA",
+        "description": "\"If-then\" conditional logic for protein drugs"
+    },
+    {
+        "name": "Andy AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Faster clinical documentation for home health nurses"
+    },
+    {
+        "name": "Brainbase",
+        "location": "San Francisco, CA, USA",
+        "description": "AI workflow automations for enterprise"
+    },
+    {
+        "name": "ParcelBio",
+        "location": "San Francisco, CA, USA",
+        "description": "Next-generation mRNA medicines"
+    },
+    {
+        "name": "Haplotype Labs",
+        "location": "Remote",
+        "description": "Personalized prevention using genetics and AI"
+    },
+    {
+        "name": "Soundry AI",
+        "location": "Seattle, WA, USA",
+        "description": "Professional Quality AI Music Creation"
+    },
+    {
+        "name": "Maia",
+        "location": "San Francisco, CA, USA",
+        "description": "AI relationship app that keeps couples together"
+    },
+    {
+        "name": "PurplePages",
+        "location": "San Francisco, CA, USA",
+        "description": "Purple is an AI agent for online local marketplace transactions."
+    },
+    {
+        "name": "Quary",
+        "location": "London, England, United Kingdom",
+        "description": "The first in-browser analytics engineering platform"
+    },
+    {
+        "name": "Firebender",
+        "location": "San Francisco, CA, USA",
+        "description": "Android Studio Coding Assistant"
+    },
+    {
+        "name": "DGI Apparel",
+        "location": "New York, NY, USA",
+        "description": "Expedia for ordering blank apparel"
+    },
+    {
+        "name": "Manifold Freight",
+        "location": "Seattle, WA, USA",
+        "description": "Aggregating Spot Freight Opportunities for Carriers"
+    },
+    {
+        "name": "Driver AI",
+        "location": "N/A",
+        "description": "Understand millions of lines of code in minutes."
+    },
+    {
+        "name": "Diligent",
+        "location": "Berlin, Berlin, Germany",
+        "description": "GenAI assistants for fintech risk and compliance operations"
+    },
+    {
+        "name": "Quivr",
+        "location": "N/A",
+        "description": "Open Source Chat-Powered Second Brain"
+    },
+    {
+        "name": "SuretyNow",
+        "location": "Austin, TX, USA",
+        "description": "The Modern Surety Bond Platform"
+    },
+    {
+        "name": "Velorum Therapeutics",
+        "location": "San Francisco, CA, USA",
+        "description": "Powerful cancer drugs that starve tumors"
+    },
+    {
+        "name": "Tuesday Lab",
+        "location": "New York, NY, USA",
+        "description": "Delightful robots"
+    },
+    {
+        "name": "Alai",
+        "location": "N/A",
+        "description": "Create high quality presentations faster using AI"
+    },
+    {
+        "name": "Blume Benefits",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI copilot for health insurance brokers."
+    },
+    {
+        "name": "Vista Power",
+        "location": "San Francisco, CA, USA",
+        "description": "Batteries and solar for $0 upfront to help businesses save money"
+    },
+    {
+        "name": "Basalt",
+        "location": "San Francisco, CA, USA",
+        "description": "Autonomy in space, for every mission"
+    },
+    {
+        "name": "Attunement",
+        "location": "San Francisco, CA, USA",
+        "description": "Automation workflow for psychiatric assessments."
+    },
+    {
+        "name": "RadMate AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Copilot for radiologists"
+    },
+    {
+        "name": "Reform",
+        "location": "N/A",
+        "description": "The AI-powered workspace for freight forwarding"
+    },
+    {
+        "name": "Artos",
+        "location": "N/A",
+        "description": "Turning science into regulatory submissions in minutes, not months."
+    },
+    {
+        "name": "DianaHR",
+        "location": "San Francisco, CA, USA",
+        "description": "An AI-Powered HR Person"
+    },
+    {
+        "name": "Sonia",
+        "location": "N/A",
+        "description": "Conversational AI for Mental Health"
+    },
+    {
+        "name": "Miden",
+        "location": "Ikeja, LA, Nigeria",
+        "description": "Card issuer processor and banking stack for businesses in Sub-\u2026"
+    },
+    {
+        "name": "Infinity",
+        "location": "Bengaluru, KA, India",
+        "description": "Business banking for cross-border SMBs & Startups"
+    },
+    {
+        "name": "kater.ai",
+        "location": "San Francisco, CA, USA",
+        "description": "Deliver complete data analysis from a single question"
+    },
+    {
+        "name": "Ellipsis",
+        "location": "N/A",
+        "description": "AI code reviews & bug fixes"
+    },
+    {
+        "name": "Eris Biotech",
+        "location": "Lehi, UT, USA",
+        "description": "Our drugs engage the immune system to fight tumors"
+    },
+    {
+        "name": "Arcane",
+        "location": "New York, NY, USA",
+        "description": "AI powered games"
+    },
+    {
+        "name": "Maihem",
+        "location": "N/A",
+        "description": "Industry-leading quality testing for mission critical AI"
+    },
+    {
+        "name": "Ocular AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Native Data Engine for LLMs, Computer Vision, & Enterprise AI"
+    },
+    {
+        "name": "GetCrux",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Creative Strategist"
+    },
+    {
+        "name": "BetterBasket",
+        "location": "San Francisco, CA, USA",
+        "description": "The only all-in-one pricing system for grocers"
+    },
+    {
+        "name": "OneGrep",
+        "location": "New York, NY, USA",
+        "description": "AI Agent for DevOps Workflow Automation"
+    },
+    {
+        "name": "Toolify",
+        "location": "Bengaluru, KA, India",
+        "description": "Build internal tools with AI"
+    },
+    {
+        "name": "Verse Therapy",
+        "location": "San Francisco, CA, USA",
+        "description": "Connecting All Ages with Speech Language Pathologists"
+    },
+    {
+        "name": "Dragoneye",
+        "location": "New York, NY, USA",
+        "description": "More detailed object recognition than Google and Amazon"
+    },
+    {
+        "name": "Powder",
+        "location": "N/A",
+        "description": "AI Agents for precise document analysis"
+    },
+    {
+        "name": "Fume",
+        "location": "San Francisco, CA, USA",
+        "description": "We are building the AI Software Developer"
+    },
+    {
+        "name": "Nuanced",
+        "location": "San Francisco, CA, USA",
+        "description": "Nuanced makes AI coding tools smarter with static analysis."
+    },
+    {
+        "name": "PocketPod",
+        "location": "San Francisco, CA, USA",
+        "description": "AI generated podcasts tailored to your interests"
+    },
+    {
+        "name": "Aidy",
+        "location": "San Francisco, CA, USA",
+        "description": "Persistent research on the issues that drive key company decisions"
+    },
+    {
+        "name": "Shepherd",
+        "location": "Remote",
+        "description": "Every student's personalized learning assistant"
+    },
+    {
+        "name": "Roe AI",
+        "location": "San Mateo, CA, USA",
+        "description": "Data warehouse to query unstructured data like docs, webs, imgs & more"
+    },
+    {
+        "name": "Reprompt",
+        "location": "N/A",
+        "description": "AI Agents for Location"
+    },
+    {
+        "name": "Circleback",
+        "location": "N/A",
+        "description": "AI-powered meeting notes and automations"
+    },
+    {
+        "name": "Forge",
+        "location": "San Francisco, CA, USA",
+        "description": "Refunds on import duties-taxes"
+    },
+    {
+        "name": "Starlight Charging",
+        "location": "Austin, TX, USA",
+        "description": "Ultra-low-cost EV charging for condos and apartments"
+    },
+    {
+        "name": "Hazel",
+        "location": "New York, NY, USA",
+        "description": "AI-enabled procurement software for government"
+    },
+    {
+        "name": "RetailReady",
+        "location": "N/A",
+        "description": "An AI-powered supply chain compliance engine"
+    },
+    {
+        "name": "Elodin",
+        "location": "San Francisco, CA, USA",
+        "description": "Unified flight software and hardware for the mission of tomorrow"
+    },
+    {
+        "name": "Fluently",
+        "location": "Remote",
+        "description": "AI-powered speaking coach for calls"
+    },
+    {
+        "name": "Fractal Labs",
+        "location": "N/A",
+        "description": "AI powered UGC platform for RPGs"
+    },
+    {
+        "name": "Octolane AI",
+        "location": "N/A",
+        "description": "Building AI-first Salesforce"
+    },
+    {
+        "name": "Marblism",
+        "location": "N/A",
+        "description": "Generate a fully-functional web app from a single prompt"
+    },
+    {
+        "name": "PointOne",
+        "location": "N/A",
+        "description": "Automated time tracking and billing for law firms."
+    },
+    {
+        "name": "InspectMind AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-powered site inspections and automated field reports."
+    },
+    {
+        "name": "Lucite",
+        "location": "New York, NY, USA",
+        "description": "Supercharging Insurance Brokers & Advisors"
+    },
+    {
+        "name": "Speck",
+        "location": "San Francisco, CA, USA",
+        "description": "Bug ingestion platform to document, reproduce and fix issues with AI."
+    },
+    {
+        "name": "Draftaid",
+        "location": "Toronto, ON, Canada",
+        "description": "Go from 3D models to CAD drawings using AI"
+    },
+    {
+        "name": "Just Words",
+        "location": "San Francisco, CA, USA",
+        "description": "Scale hyper-personalized messaging with AI"
+    },
+    {
+        "name": "Chunkr",
+        "location": "San Francisco, CA, USA",
+        "description": "Open source API service to parse complex documents"
+    },
+    {
+        "name": "Openmart",
+        "location": "Foster City, CA, USA",
+        "description": "GTM platform for reaching local businesses"
+    },
+    {
+        "name": "InQuery",
+        "location": "N/A",
+        "description": "Intelligent Medical Record Reviews"
+    },
+    {
+        "name": "Onyx",
+        "location": "San Francisco, CA, USA",
+        "description": "Open Source AI Assistant and Enterprise Search"
+    },
+    {
+        "name": "Reducto",
+        "location": "N/A",
+        "description": "The most accurate API to parse documents"
+    },
+    {
+        "name": "Cleva",
+        "location": "Lagos, LA, Nigeria",
+        "description": "USD banking platform for Africa"
+    },
+    {
+        "name": "TrueClaim",
+        "location": "Remote",
+        "description": "Transparent, AI-powered healthcare TPA."
+    },
+    {
+        "name": "phospho",
+        "location": "San Francisco, CA, USA",
+        "description": "Give brains to robots"
+    },
+    {
+        "name": "Senso",
+        "location": "N/A",
+        "description": "AI-Powered Knowledge Base for Customer Support"
+    },
+    {
+        "name": "Delve",
+        "location": "San Francisco, CA, USA",
+        "description": "AI that makes compliance effortless"
+    },
+    {
+        "name": "Yoneda Labs",
+        "location": "N/A",
+        "description": "Foundation Model for Chemical Manufacturing"
+    },
+    {
+        "name": "Tracecat",
+        "location": "San Francisco, CA, USA",
+        "description": "Open source Tines / Splunk SOAR alternative for security engineers."
+    },
+    {
+        "name": "Basepilot",
+        "location": "San Francisco, CA, USA",
+        "description": "AI coworkers to automate browser work, in minutes."
+    },
+    {
+        "name": "Terrakotta",
+        "location": "San Francisco, CA, USA",
+        "description": "AI platform for phone-first sellers"
+    },
+    {
+        "name": "Newton",
+        "location": "N/A",
+        "description": "AI-powered phone platform for dentists"
+    },
+    {
+        "name": "Lumona",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-enabled search engine featuring insights from social media."
+    },
+    {
+        "name": "PySpur.dev",
+        "location": "San Francisco, CA, USA",
+        "description": "Open Source AI Agents Builder"
+    },
+    {
+        "name": "Same",
+        "location": "N/A",
+        "description": "Copy any UI and make it yours"
+    },
+    {
+        "name": "Silogy",
+        "location": "New York, NY, USA",
+        "description": "An AI-powered test and debug platform for chip developers"
+    },
+    {
+        "name": "Overflux",
+        "location": "Los Angeles, CA, USA",
+        "description": "Streamline EV charger installations for real estate developers"
+    },
+    {
+        "name": "Konstructly",
+        "location": "London, England, United Kingdom",
+        "description": "The Modern Operating System for Construction"
+    },
+    {
+        "name": "Precip",
+        "location": "Remote",
+        "description": "High precision AI weather models"
+    },
+    {
+        "name": "Assembly",
+        "location": "San Francisco, CA, USA",
+        "description": "Build Magical Customer Experiences"
+    },
+    {
+        "name": "Apriora",
+        "location": "San Francisco, CA, USA",
+        "description": "Your AI recruiter for interviewing and identifying the best talent"
+    },
+    {
+        "name": "Abel",
+        "location": "San Francisco, CA, USA",
+        "description": "Transforming document review for litigation teams"
+    },
+    {
+        "name": "Tamarind Bio",
+        "location": "N/A",
+        "description": "Easy to use computational biology tools for drug discovery"
+    },
+    {
+        "name": "Preloop",
+        "location": "N/A",
+        "description": "Translate your experimental scripts into production ML services"
+    },
+    {
+        "name": "Voicepanel",
+        "location": "N/A",
+        "description": "User research on autopilot"
+    },
+    {
+        "name": "Shiboleth",
+        "location": "New York, NY, USA",
+        "description": "Shiboleth automates lending compliance for financial institutions\u2026"
+    },
+    {
+        "name": "Pernell",
+        "location": "San Francisco, CA, USA",
+        "description": "N/A"
+    },
+    {
+        "name": "Toma",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Workforce for Automotive Dealerships"
+    },
+    {
+        "name": "Stacksync",
+        "location": "San Francisco, CA, USA",
+        "description": "Real-time and two-way sync between CRMs and Databases"
+    },
+    {
+        "name": "Paradigm",
+        "location": "San Francisco, CA, USA",
+        "description": "A reimagined workspace with AI at its core"
+    },
+    {
+        "name": "Fileforge",
+        "location": "San Francisco, CA, USA",
+        "description": "API For PDF Document Workflows"
+    },
+    {
+        "name": "Magic Hour",
+        "location": "San Francisco, CA, USA",
+        "description": "Platform for AI video generation."
+    },
+    {
+        "name": "PromptArmor",
+        "location": "N/A",
+        "description": "LLM Security and Compliance"
+    },
+    {
+        "name": "Celest",
+        "location": "San Francisco, CA, USA",
+        "description": "The Vercel of Flutter"
+    },
+    {
+        "name": "Double",
+        "location": "San Francisco, CA, USA",
+        "description": "Design Your Own Stock Index"
+    },
+    {
+        "name": "Stitch Technologies",
+        "location": "London, England, United Kingdom",
+        "description": "-"
+    },
+    {
+        "name": "Rove",
+        "location": "New York, NY, USA",
+        "description": "Travel the world for free."
+    },
+    {
+        "name": "camelAI",
+        "location": "Austin, TX, USA",
+        "description": "AI Business Intelligence agent. Get actionable insights in minutes."
+    },
+    {
+        "name": "Superagent",
+        "location": "San Francisco, CA, USA",
+        "description": "The agent workspace"
+    },
+    {
+        "name": "Zaymo",
+        "location": "N/A",
+        "description": "Interactive email builder for ecommerce brands"
+    },
+    {
+        "name": "Open",
+        "location": "San Francisco, CA, USA",
+        "description": "Enterprise AI customer support ecosystem."
+    },
+    {
+        "name": "Browser Buddy",
+        "location": "San Francisco, CA, USA",
+        "description": "Internet \"for-you\" page"
+    },
+    {
+        "name": "DryMerge",
+        "location": "San Francisco, CA, USA",
+        "description": "AI that updates your CRM for you"
+    },
+    {
+        "name": "Bilanc",
+        "location": "London, England, United Kingdom",
+        "description": "AI-powered Engineering Management"
+    },
+    {
+        "name": "Carma",
+        "location": "San Francisco, CA, USA",
+        "description": "Same-Day Auto Repair for Commercial Fleets."
+    },
+    {
+        "name": "Markprompt",
+        "location": "San Francisco, CA, USA",
+        "description": "AI for customer support"
+    },
+    {
+        "name": "CodeAnt AI",
+        "location": "N/A",
+        "description": "AI Code Reviewer"
+    },
+    {
+        "name": "Clerky",
+        "location": "Palo Alto, CA, USA",
+        "description": "Makes legal paperwork easy for startups and their attorneys."
+    },
+    {
+        "name": "Retell AI",
+        "location": "N/A",
+        "description": "Supercharge Your Contact Center Operations with AI Phone Agents"
+    },
+    {
+        "name": "Greenboard",
+        "location": "N/A",
+        "description": "'Rippling' for Financial Compliance and Operations"
+    },
+    {
+        "name": "Topo",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "AI sales agent custom trained for each company to reach the best leads"
+    },
+    {
+        "name": "Ubicloud",
+        "location": "N/A",
+        "description": "Open source alternative to AWS"
+    },
+    {
+        "name": "Model ML",
+        "location": "London, England, United Kingdom",
+        "description": "AI Workspace for Financial Services."
+    },
+    {
+        "name": "Momentic",
+        "location": "San Francisco, CA, USA",
+        "description": "The modern standard for software testing"
+    },
+    {
+        "name": "Tusk",
+        "location": "San Francisco, CA, USA",
+        "description": "AI agent that generates unit and integration tests"
+    },
+    {
+        "name": "OmniAI",
+        "location": "San Francisco, CA, USA",
+        "description": "Automate document workflows"
+    },
+    {
+        "name": "GovernGPT",
+        "location": "Toronto, ON, Canada",
+        "description": "AI Back Office for Fund Managers"
+    },
+    {
+        "name": "Centralize",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI-powered deal collaboration platform for high ACV revenue teams"
+    },
+    {
+        "name": "Andon Labs",
+        "location": "N/A",
+        "description": "Preparing the world for AGI"
+    },
+    {
+        "name": "Upsolve AI",
+        "location": "N/A",
+        "description": "Customer-facing analytics as a service, powered by AI."
+    },
+    {
+        "name": "Salvy",
+        "location": "Curitiba, PR, Brazil",
+        "description": "Mobile carrier for businesses in Brazil"
+    },
+    {
+        "name": "ion design",
+        "location": "San Francisco, CA, USA",
+        "description": "The AI visual editor for your codebase, built for collaboration"
+    },
+    {
+        "name": "Buster",
+        "location": "Salt Lake City, UT, USA",
+        "description": "Open source, AI Digital Workers for analytics & data"
+    },
+    {
+        "name": "Artisan",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Employees Called Artisans, Starting With An AI BDR"
+    },
+    {
+        "name": "Duckie",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Assistant for Customer Support Teams"
+    },
+    {
+        "name": "Underground Cellar",
+        "location": "San Francisco, CA, USA",
+        "description": "Upgrading Your Wine Experience"
+    },
+    {
+        "name": "Greptile",
+        "location": "San Francisco, CA, USA",
+        "description": "AI expert on your codebase that you can query via an API"
+    },
+    {
+        "name": "Legora (formerly Leya)",
+        "location": "Stockholm, Stockholm County, Sweden",
+        "description": "The AI workspace for lawyers"
+    },
+    {
+        "name": "Mattermost",
+        "location": "Palo Alto, CA, USA",
+        "description": "Secure Collaboration for Technical Teams"
+    },
+    {
+        "name": "Aurabeat",
+        "location": "Hong Kong, Hong Kong",
+        "description": "Providing clean, safe, virus free air for homes, buildings and cars"
+    },
+    {
+        "name": "Foundation",
+        "location": "Boulder, CO, USA",
+        "description": "Shopify for Homebuilders"
+    },
+    {
+        "name": "DataShare",
+        "location": "Austin, TX, USA",
+        "description": "Embed charts, dashboards and exports in your app"
+    },
+    {
+        "name": "Can of Soup",
+        "location": "N/A",
+        "description": "AI photos of you and your friends"
+    },
+    {
+        "name": "Surface Labs",
+        "location": "N/A",
+        "description": "Surface Labs helps B2B marketing teams optimize website conversions\u2026"
+    },
+    {
+        "name": "Kips Health",
+        "location": "Los Angeles, CA, USA",
+        "description": "The only patient engagement software that pays you."
+    },
+    {
+        "name": "BricksAI",
+        "location": "San Francisco, CA, USA",
+        "description": "Streamlining LLM application management for enterprises"
+    },
+    {
+        "name": "Minded",
+        "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+        "description": "AI support agents to solve the tickets that reach humans"
+    },
+    {
+        "name": "Care Weather",
+        "location": "Orem, UT, USA",
+        "description": "The highest-accuracy global weather data from low-cost flat satellites"
+    },
+    {
+        "name": "FleetWorks",
+        "location": "San Francisco, CA, USA",
+        "description": "Automating the 2B phone calls and emails that keep freight moving"
+    },
+    {
+        "name": "Vango AI",
+        "location": "Berkeley, CA, USA",
+        "description": "Development platform that makes it 10x easier to improve visual models"
+    },
+    {
+        "name": "Twine",
+        "location": "San Francisco, CA, USA",
+        "description": "AI text message receptionist for SMBs"
+    },
+    {
+        "name": "Elythea",
+        "location": "San Jose, CA, USA",
+        "description": "ML to predict and prevent pregnancy complications"
+    },
+    {
+        "name": "Sourcepulse",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "Fix your biggest software delays with real developer feedback"
+    },
+    {
+        "name": "Ora AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Ora AI \ud83e\udde0 AI-Powered Training for Doctors"
+    },
+    {
+        "name": "Kite",
+        "location": "San Francisco, CA, USA",
+        "description": "Apple-style product videos in minutes"
+    },
+    {
+        "name": "Feanix Biotechnologies",
+        "location": "N/A",
+        "description": "Farm Genetics Made Easy - Using DNA and Software"
+    },
+    {
+        "name": "Sendblue",
+        "location": "New York, NY, USA",
+        "description": "iMessage for Sales"
+    },
+    {
+        "name": "RecipeUI",
+        "location": "New York, NY, USA",
+        "description": "The open source Postman alternative."
+    },
+    {
+        "name": "Automorphic",
+        "location": "San Francisco, CA, USA",
+        "description": "Infuse knowledge into language models with just 10 samples"
+    },
+    {
+        "name": "Cleancard",
+        "location": "San Francisco, CA, USA",
+        "description": "Making cancer detection as easy as a pregnancy test"
+    },
+    {
+        "name": "Accend",
+        "location": "N/A",
+        "description": "Human-in-the-loop AI agents for business underwriting & onboarding"
+    },
+    {
+        "name": "Baserun",
+        "location": "San Francisco, CA, USA",
+        "description": "Observability and evaluation platform for LLM apps."
+    },
+    {
+        "name": "Casca",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Agents for Banking"
+    },
+    {
+        "name": "Chatter",
+        "location": "Philadelphia, PA, USA",
+        "description": "Dead simple LLM testing and iteration"
+    },
+    {
+        "name": "Envelope",
+        "location": "San Francisco, CA, USA",
+        "description": "Banking with built-in budgeting"
+    },
+    {
+        "name": "Bolto",
+        "location": "San Francisco, CA, USA",
+        "description": "AI platform to hire and onboard your global team"
+    },
+    {
+        "name": "sizeless",
+        "location": "San Francisco, CA, USA",
+        "description": "Make ML models reproducible and safe."
+    },
+    {
+        "name": "Deasy Labs",
+        "location": "N/A",
+        "description": "Metadata for GenAI workflows"
+    },
+    {
+        "name": "Mandel AI",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Procurement Agent for Manufacturing"
+    },
+    {
+        "name": "Silimate",
+        "location": "Mountain View, CA, USA",
+        "description": "The co-pilot for chip designers"
+    },
+    {
+        "name": "LifestyleRx",
+        "location": "White Rock, BC, Canada",
+        "description": "Virtual Care for Type 2 Diabetes Reversal"
+    },
+    {
+        "name": "Tremor",
+        "location": "Zug, ZG, Switzerland",
+        "description": "The UI toolkit for Dashboards"
+    },
+    {
+        "name": "Inari",
+        "location": "San Francisco, CA, USA",
+        "description": "Your junior AI product manager"
+    },
+    {
+        "name": "Alguna",
+        "location": "San Francisco, CA, USA",
+        "description": "Modern SaaS Pricing, Quoting & Billing Platform"
+    },
+    {
+        "name": "Fortuna Health",
+        "location": "New York, NY, USA",
+        "description": "TurboTax for Medicaid"
+    },
+    {
+        "name": "Menza",
+        "location": "London, England, United Kingdom",
+        "description": "Your AI Data Analyst"
+    },
+    {
+        "name": "Transformity",
+        "location": "N/A",
+        "description": "Point-of-sale & Vertical SaaS for the $75B Liquor Industry"
+    },
+    {
+        "name": "Inconvo",
+        "location": "Limerick, County Limerick, Ireland",
+        "description": "Conversational AI for customer-facing analytics"
+    },
+    {
+        "name": "Shasta Health",
+        "location": "San Francisco, CA, USA",
+        "description": "Get physical therapy at home, covered by insurance"
+    },
+    {
+        "name": "GreenTally",
+        "location": "San Mateo, CA, USA",
+        "description": "Affordable carbon tracking solution for all businesses"
+    },
+    {
+        "name": "Vizly",
+        "location": "San Francisco, CA, USA",
+        "description": "Data to insights in seconds"
+    },
+    {
+        "name": "Capi Money",
+        "location": "N/A",
+        "description": "Helping businesses in Africa pay their international suppliers"
+    },
+    {
+        "name": "Stellar Sleep",
+        "location": "N/A",
+        "description": "We help people with chronic insomnia sleep better, using psychology."
+    },
+    {
+        "name": "Cair Health",
+        "location": "N/A",
+        "description": "Predictive analytics and automation for medical claims"
+    },
+    {
+        "name": "Constructable",
+        "location": "Santa Barbara, CA, USA",
+        "description": "AI copilot for construction teams"
+    },
+    {
+        "name": "Egress Health",
+        "location": "San Francisco, CA, USA",
+        "description": "Automated revenue cycle management, starting with dentists"
+    },
+    {
+        "name": "VectorShift",
+        "location": "N/A",
+        "description": "No-Code Generative AI Automations Platform"
+    },
+    {
+        "name": "Obento Health",
+        "location": "San Francisco, CA, USA",
+        "description": "CRM Co-Pilot for Medtech Sales"
+    },
+    {
+        "name": "Read Bean",
+        "location": "San Francisco, CA, USA",
+        "description": "Learn language with real-world content, at your level"
+    },
+    {
+        "name": "DisputeNinja",
+        "location": "San Francisco, CA, USA",
+        "description": "We help you win Stripe disputes."
+    },
+    {
+        "name": "Twenty",
+        "location": "San Francisco, CA, USA",
+        "description": "Open Source CRM"
+    },
+    {
+        "name": "Cercli",
+        "location": "N/A",
+        "description": "Rippling for Middle East & North Africa"
+    },
+    {
+        "name": "Vigilant",
+        "location": "San Francisco, CA, USA",
+        "description": "Lightweight logging, metrics, and error monitoring for startups"
+    },
+    {
+        "name": "OpenPipe",
+        "location": "Seattle, WA, USA",
+        "description": "Turn expensive prompts into cheap fine-tuned models"
+    },
+    {
+        "name": "Campfire",
+        "location": "San Francisco, CA, USA",
+        "description": "A modern version of NetSuite"
+    },
+    {
+        "name": "Srcbook",
+        "location": "San Francisco, CA, USA",
+        "description": "Build and publish web applications in minutes. No coding required."
+    },
+    {
+        "name": "CambioML",
+        "location": "N/A",
+        "description": "Retrieve and transform data from PDFs and forms"
+    },
+    {
+        "name": "MediSearch",
+        "location": "London, England, United Kingdom",
+        "description": "Search engine for trustworthy medical information."
+    },
+    {
+        "name": "PropRise",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Investment Analyst for Commercial Real Estate"
+    },
+    {
+        "name": "Lantern",
+        "location": "San Francisco, CA, USA",
+        "description": "Postgres vector database extension to build AI applications"
+    },
+    {
+        "name": "Strada",
+        "location": "San Francisco, CA, USA",
+        "description": "Phone AI agents for insurance"
+    },
+    {
+        "name": "Synch",
+        "location": "New York, NY, USA",
+        "description": "Supercharging Sales"
+    },
+    {
+        "name": "Flex",
+        "location": "Remote",
+        "description": "Stripe for HSA/FSA payments"
+    },
+    {
+        "name": "Certainly Health",
+        "location": "N/A",
+        "description": "Marketplace to book doctors and avoid surprise bills"
+    },
+    {
+        "name": "Sola",
+        "location": "Jersey City, NJ, USA",
+        "description": "Copilot for Robotic Process Automation"
+    },
+    {
+        "name": "Chow Central Inc",
+        "location": "Lagos, LA, Nigeria",
+        "description": "Asset Light Chipotle for Africa"
+    },
+    {
+        "name": "Wattson Health",
+        "location": "N/A",
+        "description": "Software for pharmacies to manage RXs and automate manual workflows"
+    },
+    {
+        "name": "Hegel AI",
+        "location": "N/A",
+        "description": "Open source tools for developing generative AI applications"
+    },
+    {
+        "name": "Gleam",
+        "location": "N/A",
+        "description": "The gift card for health insurance"
+    },
+    {
+        "name": "Upstream",
+        "location": "N/A",
+        "description": "An email client designed for team collaboration"
+    },
+    {
+        "name": "Onward",
+        "location": "N/A",
+        "description": "Intelligent meeting automation for ambitious teams."
+    },
+    {
+        "name": "Flair Health",
+        "location": "San Francisco, CA, USA",
+        "description": "Stealth"
+    },
+    {
+        "name": "FiddleCube",
+        "location": "San Francisco, CA, USA",
+        "description": "Build safe, enterprise-ready Gen AI systems"
+    },
+    {
+        "name": "Apoxy",
+        "location": "San Francisco, CA, USA",
+        "description": "The Proxy Platform"
+    },
+    {
+        "name": "Hyperbound",
+        "location": "San Francisco, CA, USA",
+        "description": "Sales call roleplay with realistic conversational AI buyers"
+    },
+    {
+        "name": "CheqUPI",
+        "location": "Bengaluru, KA, India",
+        "description": "India's first UPI wallet for foreign nationals and NRIs"
+    },
+    {
+        "name": "askLio",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Copilot for procurement teams at large enterprises"
+    },
+    {
+        "name": "Langdock",
+        "location": "N/A",
+        "description": "The all-in-one AI platform for companies."
+    },
+    {
+        "name": "AIVideo.com",
+        "location": "Oakland, CA, USA",
+        "description": "The all in one tool for AI powered video production"
+    },
+    {
+        "name": "Gumloop",
+        "location": "N/A",
+        "description": "A no-code platform for automating workflows with AI"
+    },
+    {
+        "name": "Decoda Health",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-powered platform automating medical practice operations"
+    },
+    {
+        "name": "Sidenote",
+        "location": "San Francisco, CA, USA",
+        "description": "Meeting follow-up, automated"
+    },
+    {
+        "name": "Tempo",
+        "location": "Toronto, ON, Canada",
+        "description": "Visual Editor for React, powered by AI"
+    },
+    {
+        "name": "Coba",
+        "location": "Monterrey, N.L., Mexico",
+        "description": "Dual Currency Accounts For LatAm"
+    },
+    {
+        "name": "Metoro",
+        "location": "London, England, United Kingdom",
+        "description": "Instant in-depth observability for services running in kubernetes"
+    },
+    {
+        "name": "Giga ML",
+        "location": "San Francisco, CA, USA",
+        "description": "AI customer service agent for B2C  Companies"
+    },
+    {
+        "name": "Fiber AI",
+        "location": "San Francisco, CA, USA",
+        "description": "We automate SDR / BDR prospecting & outbound sales workflows using AI"
+    },
+    {
+        "name": "Remy",
+        "location": "San Francisco, CA, USA",
+        "description": "Ask any question and get answers from the world\u2019s videos"
+    },
+    {
+        "name": "Shadeform",
+        "location": "N/A",
+        "description": "The GPU Cloud Marketplace"
+    },
+    {
+        "name": "Khoj",
+        "location": "San Francisco, CA, USA",
+        "description": "The open-source AI assistant for your digital brain."
+    },
+    {
+        "name": "Olio Labs",
+        "location": "Remote",
+        "description": "Combination therapeutics for the world's toughest diseases"
+    },
+    {
+        "name": "CraftOS",
+        "location": "San Francisco, CA, USA",
+        "description": "Inventory Management and POS for the Wine industry"
+    },
+    {
+        "name": "Health Harbor",
+        "location": "San Francisco, CA, USA",
+        "description": "Using generative AI to call insurance for healthcare clinics"
+    },
+    {
+        "name": "Metalware",
+        "location": "San Francisco, CA, USA",
+        "description": "Cybersecurity for firmware"
+    },
+    {
+        "name": "Revamp",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Powered Customer Segmentation for eCommerce"
+    },
+    {
+        "name": "Glide",
+        "location": "New York, NY, USA",
+        "description": "Let users pay for onchain transactions with any token on any chain"
+    },
+    {
+        "name": "Ohmic Biosciences",
+        "location": "Alameda, CA, USA",
+        "description": "Genetically engineering plants for disease resistance."
+    },
+    {
+        "name": "Airgoods",
+        "location": "New York, NY, USA",
+        "description": "Wholesale marketplace for food & beverage"
+    },
+    {
+        "name": "Autotab",
+        "location": "N/A",
+        "description": "AI agents reliable enough to do real work"
+    },
+    {
+        "name": "Empirical Health",
+        "location": "New York, NY, USA",
+        "description": "Proactive primary care, scaled with AI"
+    },
+    {
+        "name": "Xeol",
+        "location": "New York, NY, USA",
+        "description": "Close your outdated dependency attack vector"
+    },
+    {
+        "name": "Craftwork",
+        "location": "Charlotte, NC, USA",
+        "description": "Digital-native home painting franchise"
+    },
+    {
+        "name": "Subsets",
+        "location": "Copenhagen, Denmark",
+        "description": "AI-driven Retention Automation for subscription media businesses."
+    },
+    {
+        "name": "Trayd",
+        "location": "New York, NY, USA",
+        "description": "A construction payroll platform designed for same-day pay."
+    },
+    {
+        "name": "Electric Air",
+        "location": "San Francisco, CA, USA",
+        "description": "Tech-enabled heat pump contractor that cuts costs by 60%"
+    },
+    {
+        "name": "VetRec",
+        "location": "Seattle, WA, USA",
+        "description": "AI Scribe for veterinarians. Saving time and improving patient care."
+    },
+    {
+        "name": "Sweetspot",
+        "location": "N/A",
+        "description": "AI for Government Contracting."
+    },
+    {
+        "name": "Talc",
+        "location": "Seattle, WA, USA",
+        "description": "Helping companies use their data to build better AI models"
+    },
+    {
+        "name": "Docsum",
+        "location": "New York, NY, USA",
+        "description": "AI contract repository"
+    },
+    {
+        "name": "ParadeDB",
+        "location": "New York, NY, USA",
+        "description": "Postgres for Search and Analytics"
+    },
+    {
+        "name": "Aglide",
+        "location": "San Francisco, CA, USA",
+        "description": "Natively connect any app to your SSO."
+    },
+    {
+        "name": "Serra",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-powered candidate search"
+    },
+    {
+        "name": "Affinity",
+        "location": "New York, NY, USA",
+        "description": "A compliance training platform built for regulated industries."
+    },
+    {
+        "name": "Leafpress",
+        "location": "N/A",
+        "description": "AI Copilot for Energy Data"
+    },
+    {
+        "name": "Cedana",
+        "location": "New York, NY, USA",
+        "description": "Save, migrate and resume compute jobs in real-time"
+    },
+    {
+        "name": "Kino AI",
+        "location": "N/A",
+        "description": "Kino automatically organizes footage to make video editing faster."
+    },
+    {
+        "name": "VaultPay",
+        "location": "Kinshasa, Kinshasa, Democratic Republic of the Congo",
+        "description": "Digital banking platform for the 30 million smartphone users in DRC."
+    },
+    {
+        "name": "Simbie AI",
+        "location": "N/A",
+        "description": "Clinically-trained AI Voice Agents for Healthcare"
+    },
+    {
+        "name": "Martin",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Personal Assistant like Jarvis"
+    },
+    {
+        "name": "Maven Bio",
+        "location": "Boston, MA, USA",
+        "description": "The AI Platform for BioPharma Knowledge Work"
+    },
+    {
+        "name": "SID",
+        "location": "N/A",
+        "description": "Serverless RAG to connect AI to company, industry, or person-specific\u2026"
+    },
+    {
+        "name": "Pointhound",
+        "location": "Remote",
+        "description": "Earn and redeem credit card points for free flights"
+    },
+    {
+        "name": "MantleBio",
+        "location": "N/A",
+        "description": "Transform scientific data into discoveries"
+    },
+    {
+        "name": "Smobi",
+        "location": "New York, NY, USA",
+        "description": "Bringing In-App experiences to SMS"
+    },
+    {
+        "name": "dinogent",
+        "location": "Irvine, CA, USA",
+        "description": "AI agent that completes your tasks"
+    },
+    {
+        "name": "kapa.ai",
+        "location": "Remote",
+        "description": "Create enterprise-grade AI assistants from your content"
+    },
+    {
+        "name": "Unhaze",
+        "location": "Copenhagen, Denmark",
+        "description": "The right leads at the right time for B2B sales"
+    },
+    {
+        "name": "Zelos Cloud",
+        "location": "N/A",
+        "description": "The First Cloud Platform for Firmware Development and Testing"
+    },
+    {
+        "name": "Nectar",
+        "location": "San Francisco, CA, USA",
+        "description": "Collecting companies' carbon emissions data"
+    },
+    {
+        "name": "Pincites",
+        "location": "Menlo Park, CA, USA",
+        "description": "Close deals faster with AI for contract negotiation"
+    },
+    {
+        "name": "Big Smart AI",
+        "location": "Mountain View, CA, USA",
+        "description": "Bigger, smarter, AI-powered search"
+    },
+    {
+        "name": "Humanlike",
+        "location": "N/A",
+        "description": "AI-powered AP/AR"
+    },
+    {
+        "name": "Nanograb",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-generated binders for targeted drug delivery"
+    },
+    {
+        "name": "Revideo",
+        "location": "Berlin, Berlin, Germany",
+        "description": "Create Videos with Code"
+    },
+    {
+        "name": "Sohar Health",
+        "location": "New York, NY, USA",
+        "description": "AI-powered insurance verification to boost patient conversion."
+    },
+    {
+        "name": "FlowiseAI",
+        "location": "Remote",
+        "description": "Open source Low-Code LLM development platform"
+    },
+    {
+        "name": "SuperCraft",
+        "location": "New York, NY, USA",
+        "description": "Figma for designing physical products"
+    },
+    {
+        "name": "Kobalt Labs",
+        "location": "N/A",
+        "description": "AI copilot to automate risk ops for fintechs and banks"
+    },
+    {
+        "name": "Osium AI",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "Speed up materials innovation with Artificial Intelligence"
+    },
+    {
+        "name": "truemetrics",
+        "location": "Berlin, Berlin, Germany",
+        "description": "Entrance and parking Location coordinates for faster deliveries."
+    },
+    {
+        "name": "Healthtech 1",
+        "location": "London, England, United Kingdom",
+        "description": "Automating repetitive processes in healthcare"
+    },
+    {
+        "name": "SyntheticFi",
+        "location": "San Francisco, CA, USA",
+        "description": "Cheapest way to get liquidity from your stock investments"
+    },
+    {
+        "name": "Arcimus",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Powered Insurance Premium Audits"
+    },
+    {
+        "name": "Elyos Energy",
+        "location": "London, England, United Kingdom",
+        "description": "The platform for energy flexibility and demand response"
+    },
+    {
+        "name": "Respaid",
+        "location": "San Francisco, CA, USA",
+        "description": "Respectful AI B2B Collection"
+    },
+    {
+        "name": "CareOasis",
+        "location": "Dover, DE, USA",
+        "description": "Helping family caregivers get paid"
+    },
+    {
+        "name": "Studdy",
+        "location": "San Francisco, CA, USA",
+        "description": "An AI math tutor for every student"
+    },
+    {
+        "name": "Continue",
+        "location": "San Francisco, CA, USA",
+        "description": "Create, share, and use custom AI code assistants"
+    },
+    {
+        "name": "Watto AI",
+        "location": "N/A",
+        "description": "AI-powered McKinsey-quality reports in seconds"
+    },
+    {
+        "name": "CodeStory",
+        "location": "London, England, United Kingdom",
+        "description": "Aide is an AI-native , privacy-first IDE built on top of VSCode"
+    },
+    {
+        "name": "Guac",
+        "location": "New York, NY, USA",
+        "description": "AI-powered demand forecasting for grocery"
+    },
+    {
+        "name": "Glade",
+        "location": "San Francisco, CA, USA",
+        "description": "Building the next generation of video games using AI"
+    },
+    {
+        "name": "Fragment",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "Turn manual operations into scalable processes"
+    },
+    {
+        "name": "Taylor AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Unified Platform for Text Enrichment"
+    },
+    {
+        "name": "Cardinal Gray",
+        "location": "San Francisco, CA, USA",
+        "description": "Title workflow automation for auto lenders and dealers"
+    },
+    {
+        "name": "CandorIQ",
+        "location": "N/A",
+        "description": "Headcount & Compensation Management"
+    },
+    {
+        "name": "Greenlite",
+        "location": "San Francisco, CA, USA",
+        "description": "AI agents for financial compliance operations"
+    },
+    {
+        "name": "Spine AI",
+        "location": "San Francisco, CA, USA",
+        "description": "Reliable AI data analysts that know your business"
+    },
+    {
+        "name": "Trainy",
+        "location": "San Francisco, CA, USA",
+        "description": "Infrastructure for managing GPU clusters for training/serving."
+    },
+    {
+        "name": "Agentive",
+        "location": "Provo, UT, USA",
+        "description": "AI Workspace for Audit & Advisory Firms"
+    },
+    {
+        "name": "Nowadays",
+        "location": "San Francisco, CA, USA",
+        "description": "AI co-pilot for corporate event planning"
+    },
+    {
+        "name": "SafetyKit",
+        "location": "San Francisco, CA, USA",
+        "description": "AI-Powered Trust and Safety Automation"
+    },
+    {
+        "name": "Inventive AI",
+        "location": "Mountain View, CA, USA",
+        "description": "AI Agents For RFP and Questionnaire Response Automation"
+    },
+    {
+        "name": "HyLight",
+        "location": "Paris, \u00cele-de-France, France",
+        "description": "Small unmanned hydrogen airships for long range monitoring"
+    },
+    {
+        "name": "Slicker",
+        "location": "London, England, United Kingdom",
+        "description": "Recover payment failures and maximize subscription Revenue"
+    },
+    {
+        "name": "Bland AI",
+        "location": "San Francisco, CA, USA",
+        "description": "The enterprise platform for AI phone calls"
+    },
+    {
+        "name": "Saatvy",
+        "location": "San Jose, CA, USA",
+        "description": "Root cause help for chronic conditions"
+    },
+    {
+        "name": "Skyvern",
+        "location": "San Francisco, CA, USA",
+        "description": "Open Source AI Agent to automate browser workflows via an API"
+    },
+    {
+        "name": "Tegon",
+        "location": "San Francisco, CA, USA",
+        "description": "Open source issue tracking tool for engineering teams"
+    },
+    {
+        "name": "Magic Loops",
+        "location": "San Francisco, CA, USA",
+        "description": "Program computers with natural language"
+    },
+    {
+        "name": "HappyRobot",
+        "location": "San Francisco, CA, USA",
+        "description": "AI Communication. Built for Logistics."
+    },
+    {
+        "name": "Inlet",
+        "location": "New York, NY, USA",
+        "description": "AI-powered ETL for complex data"
+    },
+    {
+        "name": "refine",
+        "location": "San Francisco, CA, USA",
+        "description": "Open-source Retool for enterprise"
+    },
+    {
+        "name": "Atla",
+        "location": "London, England, United Kingdom",
+        "description": "We train frontier models to evaluate generative AI"
+    },
+    {
+        "name": "Epsilla",
+        "location": "Jersey City, NJ, USA",
+        "description": "All-in-one platform to create AI agents with your private knowledge"
+    },
+    {
+        "name": "Line.Build",
+        "location": "San Francisco, CA, USA",
+        "description": "Incentives and financing for energy efficiency upgrades"
+    },
+    {
+        "name": "MICSI",
+        "location": "New York, NY, USA",
+        "description": "Higher resolution MRI with faster scan times."
+    },
+    {
+        "name": "Contour",
+        "location": "San Francisco, CA, USA",
+        "description": "Stealth"
+    },
+    {
+        "name": "Pure",
+        "location": "San Francisco, CA, USA",
+        "description": "Marketplace for Rare Coins & Precious Metals"
+    },
+    {
+        "name": "Cargo",
+        "location": "San Francisco, CA, USA",
+        "description": "Build your GTM workforce"
+    },
+    {
+        "name": "Briefer",
+        "location": "S\u00e3o Paulo, SP, Brazil",
+        "description": "The collaborative data platform."
+    },
+    {
+        "name": "Eden Care",
+        "location": "Nairobi, Nairobi County, Kenya",
+        "description": "Digital health insurance for employers in Africa"
+    },
+    {
+        "name": "Orbio Earth",
+        "location": "Remote",
+        "description": "Tracking methane emissions with satellites"
+    },
+    {
+        "name": "Converge",
+        "location": "New York, NY, USA",
+        "description": "All-in-one marketing measurement for B2C"
+    },
+    {
+        "name": "Tiptap",
+        "location": "Berlin, Berlin, Germany",
+        "description": "Developer toolkit for building collaborative apps."
+    },
+    {
+        "name": "Remy",
+        "location": "San Francisco, CA, USA",
+        "description": "Making it simpler for medical clinics to work with insurance"
+    },
+    {
+        "name": "sudocode",
+        "location": "Mountain View, CA, USA",
+        "description": "code in plain english"
+    },
+    {
+        "name": "CatX",
+        "location": "N/A",
+        "description": "The digital marketplace for insurance risk"
+    },
+    {
+        "name": "Movley",
+        "location": "New York, NY, USA",
+        "description": "Your e-commerce brand's product quality control department."
+    },
+    {
+        "name": "Terminal",
+        "location": "Toronto, ON, Canada",
+        "description": "Plaid for Telematics Data in Commercial Trucking"
+    },
+    {
+        "name": "Lifelike",
+        "location": "San Francisco, CA, USA",
+        "description": "N/A"
+    },
+    {
+        "name": "Venta AI",
+        "location": "N/A",
+        "description": "The EU-compliant AI SDR that can send letters, emails and LinkedIn"
+    },
+    {
+        "name": "Linc.",
+        "location": "N/A",
+        "description": "AI Copilot for Shippers, Carriers and Brokers"
+    },
+    {
+        "name": "PeerDB",
+        "location": "N/A",
+        "description": "Fast, native ETL for Postgres \ud83d\udc18 \ud83d\ude80"
+    },
+    {
+        "name": "Clearest Health",
+        "location": "New York, NY, USA",
+        "description": "Rebuilding trust in American health insurance."
+    },
+    {
+        "name": "innkeeper",
+        "location": "San Francisco, CA, USA",
+        "description": "a modern, AI-native tech stack for running a hotel"
+    },
+    {
+        "name": "Solve Intelligence",
+        "location": "N/A",
+        "description": "AI patent drafting, prosecution, harvesting and more for legal teams."
+    },
+    {
+        "name": "Flint",
+        "location": "San Francisco, CA, USA",
+        "description": "AI personalized learning for schools"
+    },
+    {
+        "name": "dili",
+        "location": "New York, NY, USA",
+        "description": "The Most Reliable LLM for Diligence on High-Stakes Deals"
+    },
+    {
+        "name": "Terracotta AI",
+        "location": "N/A",
+        "description": "AI-powered Infrastructure as Code PR reviews"
+    },
+    {
+        "name": "Structured Labs",
+        "location": "San Francisco, CA, USA",
+        "description": "Build data apps with AI"
+    },
+    {
+        "name": "Reworkd",
+        "location": "San Francisco, CA, USA",
+        "description": "The simplest way to extract web data at scale"
+    },
+    {
+        "name": "Dioxus Labs",
+        "location": "N/A",
+        "description": "Web, Desktop, and Mobile apps with one codebase in Rust"
+    },
+    {
+        "name": "Letter AI",
+        "location": "Chicago, IL, USA",
+        "description": "Empowering B2B sellers with AI-powered training, coaching, and content"
+    },
+    {
+        "name": "Corgea",
+        "location": "San Francisco, CA, USA",
+        "description": "Corgea finds, and fixes insecure code."
+    },
+    {
+        "name": "Quill AI",
+        "location": "New York, NY, USA",
+        "description": "AI Powered Equity Research Platform"
+    },
+    {
+        "name": "AiSDR",
+        "location": "San Francisco, CA, USA",
+        "description": "AI sales prospecting. Replace your SDR with AiSDR"
+    },
+    {
+        "name": "Cedalio",
+        "location": "San Francisco, CA, USA",
+        "description": "Accurate Sustainability Data with AI"
+    },
+    {
+        "name": "Roame",
+        "location": "San Francisco, CA, USA",
+        "description": "Flight search engine using credit card points and miles"
+    },
+    {
+        "name": "Parea",
+        "location": "New York, NY, USA",
+        "description": "Test, evaluate & observe your LLM applications"
+    },
+    {
+        "name": "Roundtable",
+        "location": "N/A",
+        "description": "Behavioral cybersecurity."
+    },
+    {
+        "name": "Hubble Network",
+        "location": "Seattle, WA, USA",
+        "description": "Bluetooth to Space"
+    },
+    {
+        "name": "Sant\u00e9",
+        "location": "New York, NY, USA",
+        "description": "All-in-one POS for liquor stores"
+    },
+    {
+        "name": "Readily",
+        "location": "San Francisco, CA, USA",
+        "description": "Compliance Tools for Healthcare Organizations"
+    },
+    {
+        "name": "Telophase",
+        "location": "New York, NY, USA",
+        "description": "Reach vulnerability inbox-zero"
     }
 ]

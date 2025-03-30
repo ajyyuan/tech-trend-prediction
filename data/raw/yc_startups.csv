@@ -1,14 +1,17 @@
 name,location,description
+mrge,"London, England, United Kingdom",AI-powered code review platform
+Partcl,"San Francisco, CA, USA",GPU accelerated chip design tools
+LineWise,N/A,"Help manufacturers capture, scale, and apply tribal knowledge"
+Linkd,"San Francisco, CA, USA",Find warm connections you didn’t know you had.
 StarJar,N/A,Starjar automates inbound document processing workflows for hospitals
 Weel,"New York, NY, USA",Free AI dashcam & navigation smartphone app
 SalesPatriot,"San Francisco, CA, USA",We help defense firms win more contracts with the Pentagon
-Chonkie,"San Francisco, CA, USA",Make Documents AI Ready
 Dollyglot,"San Francisco, CA, USA",Character.AI with real time video avatars
 HUD,"San Francisco, CA, USA",HUD is building evals for the drop-in worker
 Tejas AI,"Mumbai, MH, India",Risk Decisioning Platform for Banks
 Praxim,"San Francisco, CA, USA",The first AI-native email and office file editing platform
 awen,Remote,We are rebuilding photoshop with an AI-voice interface.
-Mosaic,"San Francisco, CA, USA",Create and run your own video editing AI agents
+Mosaic,N/A,Create and run your own video editing AI agents
 Vocality Health,N/A,Voice AI for medical language translation
 Enhanced Radar,N/A,AI for air traffic control
 Sublingual,"San Francisco, CA, USA",LLM Observability with zero changes to your code
@@ -39,3 +42,960 @@ Olive,"San Francisco, CA, USA",Build internal tools for your data with natural l
 Sophris,"San Francisco, CA, USA",The AI Engineer for Electronic Design
 Exla,N/A,An SDK to run transformer models anywhere
 Cardamon,"San Francisco, CA, USA",AI compliance co-pilot for regulated financial businesses
+Paratus Health,N/A,AI-powered intake nurse
+Miyagi Labs,"New York, NY, USA",Shopify for AI-generated courses
+Infinite,"San Francisco, CA, USA",Global B2B Stablecoin Processor
+Closure,"New York, NY, USA",We help law enforcement solve crime
+Mundo AI,"San Francisco, CA, USA",High Quality Multilingual Training Data for AI Models
+Artificial Societies,"San Francisco, CA, USA",We use AI to simulate entire human societies
+Red Barn Robotics,"Seattle, WA, USA",A Roomba for weeds on a farm.
+Splash Inc.,N/A,Autonomous patrol-boats for National Security
+Astro,N/A,The world’s first AI energy developer
+Excellence Learning,"Stanford, CA, USA",AI tutor starting with maths and science
+Emergent,"San Francisco, CA, USA",Autonomous coding agents for software migration and modernization
+Instinct,"San Francisco, CA, USA",GPS satellites for lunar navigation
+Rally,"Berlin, Berlin, Germany",Financial OS for Modern Fleets
+Mercura,"San Francisco, CA, USA",AI Quoting for distributors and manufacturers
+SAMMY Labs,N/A,"Live, AI-powered graph of every possible click path in your software"
+Maritime Fusion,"San Francisco, CA, USA",Fusion reactors for ships
+Optifye.ai,"San Francisco, CA, USA",AI performance monitoring for factory workers
+Dartboard Energy,"San Francisco, CA, USA",AI Analyst for Electricity Markets
+Peppr AI,"San Francisco, CA, USA",Self-improving knowledge base synthesizing scattered company data
+Rada,"San Francisco, CA, USA",Insurance calls automation for healthcare clinics.
+Bluebook,"San Francisco, CA, USA",AI for accounting firms
+Harbera,"San Francisco, CA, USA",AI Healthcare Provider Credentialing Software
+Proception Inc,N/A,Making humanoids dexterous enough to thread a needle
+Reditus Space,"Atlanta, GA, USA",Reusable Satellites for zero-g manufacturing
+TripleZip,"New York, NY, USA",Automating CRE accounting with AI
+Delineate,"Boston, MA, USA",Agents for Accelerated Clinical Trial Design
+Tally,N/A,AI for audit
+Oki,"San Francisco, CA, USA",AI to automate Engineering project tracking
+Stamp,N/A,The AI Native Email Client
+Cedar,"San Francisco, CA, USA",In-product AI copilot for any app
+Demeter,"San Francisco, CA, USA",AI Value Creation Team for Private Equity
+AthenaHQ,"San Francisco, CA, USA",Get Your Brand Discovered on ChatGPT.
+Admyral,N/A,AI-Native Commercial Real Estate Brokerage
+Candor,"San Francisco, CA, USA",We help companies win government funding with AI
+G LNK,N/A,Simplifying Collaboration for Healthcare Organizations & Professionals
+YouShift,N/A,Rippling for healthcare.
+Waypoint Transit,"San Francisco, CA, USA",We automate urban planning so cities can build cheaper and faster.
+Bild AI,N/A,AI that understands construction blueprints
+assistant-ui,"San Francisco, CA, USA",Open Source React.js Library for AI Chat
+NextByte,"San Francisco, CA, USA",AI recruiter tuned to identify the best vibe coders
+TrainLoop,"San Francisco, CA, USA",Reasoning Fine-Tuning
+Weave,"San Francisco, CA, USA",AI to measure engineering work
+Trace,"San Francisco, CA, USA",Voice AI Customer Support for Financial Services
+Artifact,"Atlanta, GA, USA","Cursor for hardware design, starting with electrical systems"
+Pave Robotics,N/A,Robots that repair roads
+TensorPool,N/A,Vercel For GPUs
+PAX Markets,"Menlo Park, CA, USA",Crypto exchange on a chip: faster and smaller than a datacenter.
+General Trajectory,"San Francisco, CA, USA",Reasoning models for robotics
+Lucid,"Berkeley, CA, USA",Generative simulations powered by fast world models
+Amby Health,"San Francisco, CA, USA",AI Copilot for Ambulance Agencies (EMS)
+Mentra,"San Francisco, CA, USA",Building the open source smart glasses operating system.
+Wildcard,"San Francisco, CA, USA",Make APIs work for AI Agents
+Axiom,N/A,"Trade memecoins, perpetuals, and earn yield."
+Conntour,"Tel Aviv-Yafo, Tel Aviv District, Israel",AI to monitor thousands of security cameras.
+Trata,N/A,AI-powered research desk for hedge funds
+Calltree AI,"San Francisco, CA, USA",Enterprise-grade AI support reps for call centers
+Pickle,"San Francisco, CA, USA",AI clone for Zoom calls
+AfterQuery,"San Francisco, CA, USA",High-quality AI starts with high-quality human data
+FuseAI,"San Francisco, CA, USA",AI Agents to Kill Salesforce.
+Operand,"San Francisco, CA, USA",AI to Replace Management Consulting
+Vetnio,N/A,AI Copilot that automates admin work for veterinary professionals
+Nitrode,N/A,AI game development engine & platform
+Casixty,"San Francisco, CA, USA",Reddit Marketing Agent for technical audiences
+Vora AI,"San Francisco, CA, USA",AI recruiter for hiring managers
+Archon,N/A,We help software companies sell to government.
+Vantel,"Stockholm, Stockholm County, Sweden",AI Software for Commercial Insurance Brokers
+Scout,N/A,AI-powered student information system for K-12 schools
+Roark,"San Francisco, CA, USA",Datadog for Voice AI
+superglue,"San Francisco, CA, USA",Self-healing data connector
+ReJot,"Amsterdam, NH, Netherlands",Sync engine to share data across engineering teams in enterprises
+Sennu AI,N/A,AI Agents Automating the $400B Tech Consulting Market
+Pig,N/A,An API for automating Windows apps with AI
+Macadamia,"San Francisco, CA, USA",AI Mechanical Engineer to fix technical issues
+Sift Dev,"San Francisco, CA, USA",Never Look at a Log Again
+Gulp,"San Francisco, CA, USA",Real-Time Self-Improvement for AI Agents
+Rocketable,"San Francisco, CA, USA",The AI Maximalist Software Holding Company
+Pinch,Remote,Video conferencing with real-time voice translation
+Permitify,N/A,AI co-pilot for building plan review and building code compliance
+Onlook,N/A,Cursor for Designers
+Retrofit,"San Francisco, CA, USA",A vintage marketplace curated by AI
+Guse,N/A,AI native spreadsheet to automate any workflow
+Ergo,"San Francisco, CA, USA",AI Agents for Sales Operations
+BlindPay,N/A,Stablecoin API for global payments
+Cenote,"San Francisco, CA, USA",Automate back office tasks for medical clinics
+Woz,"San Francisco, CA, USA",AI platform enabling anyone to build and scale software businesses
+Karsa,"New York, NY, USA",Stablecoin neobank for emerging markets
+a0.dev,"San Francisco, CA, USA",We make mobile apps using AI.
+Riviera,"San Francisco, CA, USA",AI Employees for Hotels
+Gale,"San Francisco, CA, USA",AI Powered Immigration Law Firm
+HealthKey,"Austin, TX, USA",AI-powered Patient Identification for Clinical Trials
+Misprint,N/A,Misprint is building Robinhood for Pokemon cards
+Dexterity,"San Francisco, CA, USA",The AI Browser Copilot
+Spott,N/A,AI agents for recruiting firms
+Mecha Health,"San Francisco, CA, USA",Foundation models to automate x-ray analysis for radiologists
+Mastra,Remote,"The Javascript framework for building AI agents, from the Gatsby devs"
+Revise Robotics,N/A,Automating refurbishment of $1T in consumer electronics
+Adam,"San Francisco, CA, USA",AI Powered CAD
+Dalus,"San Francisco, CA, USA",AI-Powered Hardware System Design Software
+Alice.tech,"Copenhagen, Denmark",AI-driven exam prep
+Mesh,"San Francisco, CA, USA",Building your AI finance co-worker
+Lucidic AI,"San Francisco, CA, USA",Weights & Biases for AI Agents
+Axal,"San Francisco, CA, USA",The Palantir for re-architecting legacy software.
+Karoo,"Toronto, ON, Canada",Canadian neobank focused on lending
+Exin Therapeutics,"San Francisco, CA, USA",AI drug discovery platform for neurotherapeutics
+Fira,"San Francisco, CA, USA",Agentic AI platform for investment firms
+SubImage,"San Francisco, CA, USA",Software that maps your infrastructure. Open core alternative to Wiz
+Confident AI,"San Francisco, CA, USA",Open-Source Unit Testing for LLM Applications
+Leaping AI,"San Francisco, CA, USA",The only self-improving voice AI
+Quantstruct,"San Francisco, CA, USA",AI documentation engineer – test & autoimprove stale product docs
+Outlit,"San Francisco, CA, USA",AI Agents for Enterprise Deal Creation
+Forge Automation,"Toronto, ON, Canada",Software Enabled CNC Parts Supplier
+finbar,"London, England, United Kingdom",The AI financial analyst
+Caseflood.ai,"San Francisco, CA, USA",the AI inbound sales team for law firms
+Cuckoo Labs,"San Francisco, CA, USA",Real-time AI translator for global sales and marketing
+Orbital Operations,"Huntington Beach, CA, USA",High Thrust Space Vehicles for Satellite Defense
+Toothy AI,"San Francisco, CA, USA",AI for insurance verification & billing at dental clinics
+General Agency,"San Francisco, CA, USA",AI coworkers that can learn and act just like a human
+GradeWiz,"San Francisco, CA, USA",AI Grading for Colleges
+Harper,"San Francisco, CA, USA",AI-native commercial insurance brokerage
+Browser Use,"San Francisco, CA, USA",Leading open-source web agent project with 50k stars in 3 months
+jo,"Menlo Park, CA, USA",jo is a voice-first digital personality that works alongside you…
+Asteroid,"San Francisco, CA, USA",Browser Agents for Regulated Industries
+CopyCat,"San Francisco, CA, USA","Next-Gen RPA, Powered by Browser Agents"
+General Proximity,"San Francisco, CA, USA",The next generation of induced-proximity medicines.
+ZeroEntropy,N/A,High accuracy search API over unstructured data.
+Promptless,"San Francisco, CA, USA",An AI teammate that automatically updates your customer-facing docs
+Solidroad,"San Francisco, CA, USA","AI agents for sales and support teams, starting with training and QA."
+Edexia,"San Francisco, CA, USA",AI Teacher Assistant for Grading Essays
+Subtrace,"San Francisco, CA, USA",Wireshark for Production Backends
+telli,"Berlin, Berlin, Germany",AI phone agents that convert
+Variant,"San Francisco, CA, USA",Building the state-of-the-art model for software design
+Leeroo,N/A,Trainable Deep Agents
+Consus,Remote,Your single source of truth for government documents
+Cekura,N/A,"Keep support, marketing, and sales materials up-to-date"
+Praxis AI,"New York, NY, USA",Manufacturing reasoning agents to predict and prevent machine failures
+ShowAndTell,"San Francisco, CA, USA",Agents for dental operations
+Mobius Materials,"San Francisco, CA, USA",The spot market for semiconductors
+ArchiLabs,"San Francisco, CA, USA",AI Copilot for Architects
+Fabricate,N/A,Procurement for Hardware Teams
+Foundry,"San Francisco, CA, USA",Evals for Browser Agents
+Abundant,"San Francisco, CA, USA",API for Agent Teleoperation
+Gander,"New York, NY, USA",Automation System for Global Aviation
+Revi,Remote,AI-enabled M&A deal origination
+Pearson Labs,"San Francisco, CA, USA",AI agents to automate corporate transactions
+Summed AI,"Seattle, WA, USA",The AI Copilot for Insurance Agents
+Lune,"San Francisco, CA, USA",Where devs go to get instant answers from agents and humans.
+RiskCube,"San Francisco, CA, USA",AI commercial insurance broker.
+HealthSpark,"San Francisco, CA, USA",Launch and run an AI-native physical therapy practice
+Surge,"Lehi, UT, USA",Stripe for telephony
+Chorrie,"New York, NY, USA",Eliminate medical claim denials & underbilling with AI
+Kura AI,N/A,New State of the Art for Browser Agents
+Platus,N/A,"Instant Legal Infrastructure - Draft, Sign, Notarize & Process"
+RevisionDojo,N/A,AI tutors for students.
+Canvas,"San Francisco, CA, USA",AI-Copilot for Customer Success Teams
+Diffusion Studio,"San Francisco, CA, USA",Next Generation Canva for AI Video Editing in the Browser
+Keye,"New York, NY, USA",The Smartest Private Equity Investor
+fixa,"San Francisco, CA, USA",sentry for AI voice agents
+AutoComputer,"San Francisco, CA, USA",Desktop RPA with AI computer use
+Rankai,"San Francisco, CA, USA",Building AI Agents to replace Marketing Agencies
+FutureClinic,"San Francisco, CA, USA","Digital healthcare that is 99% AI, 1% doctor."
+Melder,"New York, NY, USA",Automate analysis and biz processes w/ an AI native spreadsheet
+PermitPortal,"San Francisco, CA, USA",AI Operating System for Pre-construction
+Coblocks,"New York, NY, USA",Build data pipelines in minutes with AI
+Asha Health,"New York, NY, USA",We help medical practices launch their own AI clinic
+Tiny,"Singapore, Singapore",A new kind of ERP system for factories
+SRE.ai,"San Francisco, CA, USA",Automated DevOps for Low-Code Platforms
+Origami Agents,"San Francisco, CA, USA",Agents that find your perfect customers
+Friday,"San Francisco, CA, USA",An assistant that understands your emails and handles them for you
+Encore,"San Francisco, CA, USA",Conversational search and discovery for secondhand products
+Riveter AI,"San Francisco, CA, USA",AI data assistant for spreadsheets
+Karmen,"San Francisco, CA, USA",AI Assistant for Construction Project Managers
+Reticular,"San Francisco, CA, USA",Interpretable AI for drug discovery
+Unusual,"San Francisco, CA, USA",Tailor your website for each visitor.
+Helpcare AI,N/A,"AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients."
+Upshift,"Charlotte, NC, USA",Turn your software product into a platform.
+vly.ai,"San Francisco, CA, USA",Automating the full-stack developer
+Ryvn,"San Francisco, CA, USA","Deploy, update, and monitor applications in customer clouds / on-prem"
+Ultralight,"San Francisco, CA, USA","Universal, Pure-GPU HTML Renderer"
+Afternoon.co,"New York, NY, USA",AI Bookkeeping and tax platform for ecommerce & startup founders
+Autumn,N/A,Build any pricing model in a few lines of code
+Symphony,"New York, NY, USA",Voice AI sims for next-gen employee training
+HYBRD,"Boston, MA, USA",Strava for the modern athlete
+Innate,"Palo Alto, CA, USA",Teachable general-purpose robots
+Sphinx,N/A,AI Compliance Analysts for Banks & Fintechs
+Andoria,"San Francisco, CA, USA",Automate any manual and repetitive tasks on the web
+Scrapybara,N/A,Virtual Desktops for AI Agents
+Galini,"San Francisco, CA, USA",Compliance guardrails-as-a-service for AI applications
+Candid,"San Francisco, CA, USA",Warm leads sourced by AI research agents
+Forerunner AI,"San Francisco, CA, USA","Copilot for aerospace engineers making rockets, munitions, satellites"
+Roundabout Technologies,N/A,Software for AI-powered traffic lights
+Luthor,N/A,AI Agents for Marketing Compliance
+CTGT,"San Francisco, CA, USA",Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem
+Raycaster,N/A,Research agents for life sciences
+CollectWise,N/A,Automating consumer debt collection with AI
+Sunset,N/A,Find and move money after a death
+Lightscreen AI,"Sunnyvale, CA, USA",Voice + video AI interviewer
+Fresco,"San Francisco, CA, USA",AI copilot for construction superintendents
+ISSEN,"New York, NY, USA",AI realtime voice companion for language learning
+Revyl,"San Francisco, CA, USA",Proactive observability
+Vespper,N/A,"AI agent that troubleshoots production alerts for software engineers,…"
+Crustdata,N/A,Real-time B2B data via simple APIs
+Moonshine,"San Francisco, CA, USA",APIs for video understanding
+Circlemind,N/A,Circlemind is an open-source RAG using knowledge graphs and PageRank.
+BeerMe,"New York, NY, USA","Fun, global Venmo built on USDC"
+Relvy AI,N/A,Efficient AI for monitoring production software
+Synth,N/A,We help AI agents learn from data.
+Gecko Security,"San Francisco, CA, USA",The AI Security Engineer to Find and Fix Vulnerabilities
+Metreecs,N/A,AI-powered demand forecasting for retail
+Gait,"San Francisco, CA, USA",Building Dev Infra for AI Software Engineers
+Alex,"San Francisco, CA, USA",The Cursor for Xcode
+Codebuff,N/A,The CLI tool that writes code for you
+Cekura (formerly Vocera),"San Francisco, CA, USA",Testing & Observability for AI voice agents
+Ember,"San Francisco, CA, USA",AI RCM. Onboard in 3 days or less. Reduce claim denials by 55%.
+Rulebase,N/A,AI agents for fraud detection and investigations.
+Protegee,"San Francisco, CA, USA",Payments API for AI Agents
+Durate,N/A,We build automated scheduling software for hospitals
+Lingo.dev,"San Francisco, CA, USA",Automated AI localization for dev teams. (formerly Replexica)
+OpenFunnel,"San Francisco, CA, USA",Personalised Agents for AI-First GTM Teams
+Curo,"San Francisco, CA, USA",Electric fleets park and charge anywhere with Curo
+Astrix Health,"New York, NY, USA",Astrix builds AI purchasing agents for healthcare providers.
+HumanLayer,"San Francisco, CA, USA",Human-in-the-Loop for AI Agents
+Dexter,"Berlin, Berlin, Germany",AI workflow automation for field operations
+Sandra AI,"Miami, FL, USA","Building AI employees for car dealers, starting with AI receptionists"
+Bifrost Orbital,"San Francisco, CA, USA",24/7 and real-time connectivity for satellites
+PearAI,N/A,The AI Code Editor For Your Next Project
+Bramble,"San Francisco, CA, USA",The next generation Zillow.
+supercontrast,"San Francisco, CA, USA",AI Co-Pilot for Design
+Archil,"San Francisco, CA, USA","Transform S3 in an unlimited, local file system"
+Substrate,Remote,Artificial Intelligence for your medical billing team
+Void,"San Francisco, CA, USA",The open source Cursor alternative
+camfer,"San Francisco, CA, USA",Building the world’s first AI mechanical engineer.
+Lysto AI,"New York, NY, USA",Task automation platform for GTM teams
+Getcho,"New York, NY, USA",The reliability platform for last-mile delivery
+Cobblestone,"New York, NY, USA",Delinquency reduction and automation software for institutional…
+et al.,"San Francisco, CA, USA",Feed of insights extracted from your go-to sources using LLMs.
+expand.ai,"San Francisco, CA, USA",Turn any website into an API.
+Seals AI,"San Francisco, CA, USA",AI Employees for Wholesalers & Distributors
+Hey Revia,"San Francisco, CA, USA",Voice AI to automate complex phone calls for healthcare providers
+Random Labs,N/A,Random labs is building fully open source software agents
+Village Labs,"New York, NY, USA",Helping America's businesses become employee owned
+VideoGen,"San Francisco, CA, USA",AI that can create and edit professional videos
+Unsloth AI,N/A,Open Source Fine-tuning & Training of LLMs
+Rescript,N/A,AI Regulatory Analyst for Enterprises
+Pinnacle,"San Francisco, CA, USA",API & SDK for RCS (the next-generation of texting)
+Theseus,N/A,GPS Denied Navigation for Drones
+Ficra,"San Francisco, CA, USA","Real time, source of truth for every product screen and user flow"
+Coval,N/A,Simulation & Evaluation for Voice and Chat Agents
+AI Sell,"San Francisco, CA, USA",AI Sales Associate for Ecommerce
+Melty,"San Francisco, CA, USA",Chat with a bunch of AIs at once
+DigitalCarbon,"San Francisco, CA, USA",Transform Images And Videos Into Immersive 3D With AI
+Snowpilot,"San Francisco, CA, USA",The connected spreadsheet that destroys data silos
+Proxis,N/A,The developer platform for LLM distillation and serving.
+dmodel,"San Francisco, CA, USA",Look inside the model
+DreamRP,"San Francisco, CA, USA",Bring your characters to life
+Focus Buddy,"San Francisco, CA, USA",AI Productivity Coach you speak with while working to stay focused…
+Blaze,"Mexico City, CDMX, Mexico",Global Venmo for cross border payments
+MagiCode,"Stanford, CA, USA",A Reliable AI Frontend Engineer
+Abel Police,N/A,Automating police paperwork
+Biocartesian,"San Francisco, CA, USA",Converting biology into digital molecular maps
+PathPilot,"San Jose, CA, USA",Optimize SaaS revenue by understanding user behavior
+Keet,N/A,Authentication for AI Agents
+Rewbi,N/A,Rewbi uses AI to increase grid-connected battery storage revenue 2x
+Paradome,"New York, NY, USA",Rapid AI development & deployment for government
+Autumn Labs,"San Francisco, CA, USA",Datadog for industrial robots
+pap!,"Berkeley, CA, USA","Agents that earn consumers dollars when they shop, travel, and live."
+Capitol AI,"Washington, DC, USA",Capitol is a custom perplexity for every website in the world.
+Redouble AI,"San Francisco, CA, USA",Scale human-in-the-loop for AI workflows in regulated industries
+Presti AI,N/A,Helping furniture companies create product visuals with AI
+ideate.xyz,"San Francisco, CA, USA",ideate.xyz is an AI-powered 3D art suite on the web
+Sensei,"San Francisco, CA, USA",Robotic Training Data at Scale
+Blast,"San Francisco, CA, USA",Helping enterprises build safe and compliant LLM apps/agents
+deepsilicon,"San Francisco, CA, USA",Software and hardware to run neural networks faster and cheaper
+Storia AI,"Millbrae, CA, USA",Open source AI copilot that knows your company's code and its context
+Willow,"Palo Alto, CA, USA","Write 3x faster with voice dictation, powered by AI"
+Plume,"Paris, Île-de-France, France",Home energy renovation copilot
+Palmier,"San Francisco, CA, USA",AI Native Github Alternative
+Overstand Labs,"San Francisco, CA, USA",We help business leaders get back into Founder Mode
+XTraffic,N/A,Technology for cities to automate and manage their traffic lights.
+Moreta,"San Francisco, CA, USA",Payments made easy for international travelers.
+Saturn,"London, England, United Kingdom",Compliance and back office workflows for Wealth Managers.
+TaxGPT,"San Francisco, CA, USA",AI tax assistant for professionals and businesses
+reworks,"San Francisco, CA, USA",Turn external software into APIs that don’t break
+Lighthouz AI,"San Francisco, CA, USA",AI procurement specialists for manufacturers
+Weave Robotics,N/A,Personal robots for the home--that ship in 2025
+Kura,"San Francisco, CA, USA",The AI DevOps Copilot for Software Teams
+Baseline AI,"San Francisco, CA, USA",AI document creation and data management for clinical trials
+Ares Industries,"El Segundo, CA, USA",Building low-cost cruise missiles
+Doublezero,Remote,"Platform to build, use, and monetize fully autonomous agents"
+Fuse,"London, England, United Kingdom",Boosting contracted revenue for US healthcare providers
+Kopra Bio,"San Francisco, CA, USA",Genetically engineered viruses that teach your immune system to kill…
+Standard Data,N/A,Rebuilding the supply of the American manufacturing workforce.
+Spur,"San Francisco, CA, USA",Spur is your AI QA Engineer. Test your websites with natural language.
+Tabular,N/A,AI Copilot for accounting firms in Europe
+Vendra,"San Francisco, CA, USA","Custom Parts, Manufactured in America 🇺🇸"
+Kairo Health,"New York, NY, USA",The AI healthcare workforce
+Affil.ai,"San Francisco, CA, USA",AI Affiliate Network For Financial Companies
+Paasa,"Gurugram, HR, India","Global investing for HNIs in emerging markets, starting from India"
+Evolvere BioSciences,"Oxford, England, United Kingdom",Making Next-Generation Antibiotics that Outpace Bacterial Evolution
+omnidock,N/A,OS for global e-commerce expansion of brands & manufacturers
+Nerve,"San Francisco, CA, USA",Healthcare integrations for developers
+Finosu,N/A,Workflow automation for the credit industry
+Ultra,"New York, NY, USA","Practical, general-purpose robots for repetitive industrial tasks"
+"DeepSim, Inc.","Mountain View, CA, USA",An AI physics simulator for AI chip design
+Syntra,N/A,Automate back-office operations for outpatient clinics and ASCs.
+Simplex,"San Francisco, CA, USA",Integrations without APIs.
+Azalea Robotics Corporation,"Berkeley, CA, USA",Automating airport baggage handling with robots.
+RowBoat Labs,"San Francisco, CA, USA",LLM agents for customer support in fintech
+CodeViz,"San Francisco, CA, USA",Visual Search Engine For Code
+Silurian,"Kirkland, WA, USA","Foundation models to simulate Earth, starting with weather."
+Callback,"San Francisco, CA, USA",AI-native business process outsourcing
+Lucible,N/A,Combined checking and investment account
+Modus,Remote,Unlock revenue per employee with AI-powered headcount management
+Simple AI,"San Francisco, CA, USA",AI Phone Agents
+Mineflow,N/A,Mineflow predicts the shape and location of mineral deposits
+Decisional AI,"San Francisco, CA, USA",AI Agent for private markets that accelerates deep financial work
+Planbase,"San Francisco, CA, USA",Workforce management for modern healthcare
+Simplifine,"San Francisco, CA, USA",AI-Powered Workspace for Research
+AutoPallet Robotics,"San Francisco, CA, USA",We make robots that move boxes in warehouses
+Pumpkin,"San Francisco, CA, USA",A web browser built for human and AI collaboration
+Invaria,"London, England, United Kingdom",The next generation logging and observability platform
+Thunder Compute,"Atlanta, GA, USA",Virtualization software to make GPUs 5x cheaper
+Stormy AI – Autonomous marketing agent,"San Francisco, CA, USA",Influencer marketing on autopilot
+Ligo Biosciences,"San Francisco, CA, USA",AI designed enzymes for the chemical industry.
+Praxos,"Miami, FL, USA",AI workbench for insurance brokers
+Aviary,"San Francisco, CA, USA",AI Video Intelligence
+Dimely,"San Francisco, CA, USA",AI agents for B2B SaaS Finance Teams
+Vera Health,"San Francisco, CA, USA",AI-powered clinical decision support for healthcare providers
+Asterisk,N/A,AI Hacker for Codebases
+Parity,"San Francisco, CA, USA",The AI SRE for Incident Response
+Dodo,"San Francisco, CA, USA",AI Employees for Specialty Clinics
+General Analysis,"San Francisco, CA, USA",Automated AI Safety and Red Teaming Tools
+Helium,N/A,Self Improving Software
+Sepal AI,"San Francisco, CA, USA",Data Development for Advanced AI
+OrgOrg,"Los Altos, CA, USA",Organizational productivity suite for companies
+Saldor,"San Francisco, CA, USA",AI Software Engineers
+NetworkOcean,"San Francisco, CA, USA",We build and operate underwater data centers.
+Voker,N/A,No-Code AI Builder
+Guardian AI,"New York, NY, USA",Helping healthcare providers fight insurance denials.
+Winford Wealth,"New York, NY, USA",The Leading AI Meeting Assistant for Financial Advisors
+Clara,"San Francisco, CA, USA","Helping families discover, hire, and manage in-home caregivers"
+RentFlow,"San Francisco, CA, USA",The first 'Buy Now Pay Later' solution for Rents
+Pharos,"San Francisco, CA, USA",Automate hospital reporting and prevent patient harm with AI
+Lumenary,"San Francisco, CA, USA",Build production-worthy software quickly with AI.
+Exa Laboratories,N/A,Energy efficient chips for AI
+LedgerUp,"San Francisco, CA, USA",Your AI billing teammate that automates contracts to revenue
+RunLocal,"San Francisco, CA, USA",The On-Device AI Development Platform
+Ember Robotics,"San Francisco, CA, USA",Datadog for robots
+ProhostAI,"San Francisco, CA, USA",AI Property Manager for Airbnb & Short-Term Rental Hosts
+Overeasy,"San Francisco, CA, USA",N/A
+Benchify,"San Francisco, CA, USA",Bug-free code without writing tests
+Bayesline,"New York, NY, USA",Highly customizable and blazingly fast analytics for asset managers.
+"Diode Computers, Inc.","New York, NY, USA",Automate circuit board design using AI
+Propaya,"San Francisco, CA, USA",AI commercial lease abstractions and review
+Felafax,"San Francisco, CA, USA",Building AI Infra for non-NVIDIA GPUs
+Midship,"San Francisco, CA, USA",AI for Financial Audit Procedures
+Haystack Software,"San Francisco, CA, USA",Visualize and edit your codebase on an infinite canvas
+Zeit AI,N/A,Enterprise insights from spreadsheet data with just a few words.
+Tivara,N/A,The AI workforce for medical groups
+RetroFix AI,"San Francisco, CA, USA",Turbo Tax for Building Rebates
+"Hestus, Inc.",N/A,An AI-powered CAD software
+Usul,N/A,Win defense contracts with AI
+Educato AI,"San Francisco, CA, USA",AI-Powered Worldwide exam-prep platform
+Clearly AI,"Seattle, WA, USA",Automate security and privacy reviews
+Promi,N/A,"Optimizing ecommerce pricing with dynamic, personalized discounts"
+Dataleap,"San Francisco, CA, USA",Perplexity for Consultants
+Miru,"San Francisco, CA, USA",DevOps for robotics
+Merlin AI,"Los Angeles, CA, USA",AI powered ERP for Construction
+MinusX,"San Francisco, CA, USA",AI Data Scientist for Jupyter and Metabase
+Rides,"Lake Oswego, OR, USA",The car community for the car community.
+The Forecasting Company,"Paris, Île-de-France, France",Foundation models for time series
+Codes Health,"New York, NY, USA",Perfect medical histories.
+ACX,"San Francisco, CA, USA",Next-generation biocides for sustainable agriculture at scale
+Octopipe,"San Francisco, CA, USA",Build Scalable Data Pipelines in minutes not months
+TradeFlow,"New York, NY, USA",AI-powered settlement for financial securities
+Moonglow,"San Francisco, CA, USA",No-code platform for building browser agents
+RiskAngle,"San Francisco, CA, USA",AI medical summaries in minutes
+FirstWork,"San Francisco, CA, USA",Rippling for seasonal workers
+Formula Insight,"New York, NY, USA","Help Institutional Investors manage, track & query their Excel models"
+Ionworks,Remote,Simulation software used by leading battery and automotive companies
+Pax,N/A,AI Broker for Import Tax Refunds
+Overlap,"San Francisco, CA, USA",Multimodal AI agents for video
+Soff,"San Francisco, CA, USA",Supply Chain OS for manufacturing companies.
+Lilac Labs,N/A,We automate the person taking orders at drive-thrus with a voice AI
+Spherecast,N/A,AI Supply Chain Manager for Ecommerce
+Zuni,Remote,Smarter email for founders
+Outerport,"San Francisco, CA, USA",Compare documents and clarify business processes with AI
+Quetzal,"Oakland, CA, USA","Simple, LLM-first translation and internationalization for software"
+Drillbit,N/A,Automating Office Work for Residential Contractors.
+Comfy Deploy,"San Francisco, CA, USA",Vercel for Gen AI applications
+Thyme,"San Francisco, CA, USA",The OS for financial advisors
+Modern Realty,"San Francisco, CA, USA",The AI powered Real Estate Brokerage.
+Cheers,"San Francisco, CA, USA",The super-app for frontline employees
+Laminar,"San Francisco, CA, USA",Open-source all-in-one platform for engineering AI products
+Poka Labs,"San Francisco, CA, USA",The modern operating system for chemical manufacturing.
+Rastro,"San Francisco, CA, USA",State of the art AI interior designer.
+Patched,"San Francisco, CA, USA",Open-source workflow automation for dev teams
+Sample,"San Francisco, CA, USA",Flexible systems for clinical reasoning.
+Remade,"San Francisco, CA, USA",AI video generation Discord community
+Arva AI,N/A,AI enabled business verification for banks and fintechs
+Mito Health,"San Francisco, CA, USA",Bloodwork and personalized insights to help you live longer
+Brighterway,N/A,Streamlining the record review process for physicians in medlegal…
+Intryc,"San Francisco, CA, USA",Intryc uses AI to automate quality assurance for customer support
+Synnax,"San Francisco, CA, USA",Unified Hardware Control and Data Processing Software
+Mica AI,"San Francisco, CA, USA",AI Agents that Automate B2B Sales
+Roger,N/A,Roger is an AI SDR that automates outbound sales and follows up 24/7.
+Pulse,"San Francisco, CA, USA",Production-grade unstructured document extraction
+Zenbase AI,"San Francisco, CA, USA",Continuous prompt optimization for LLMs from DSPy core contributors
+autarc,"Berlin, Berlin, Germany",autarc is the OS for Europe's One-Stop Energy Installers
+David AI,N/A,Data for audio AI
+Corgi,"San Francisco, CA, USA",Corgi is building an AI insurance company
+Sorcerer,"San Francisco, CA, USA",We build weather balloons that collect 1000x more data
+1849 bio,"San Francisco, CA, USA",Engineering microbes for miners to unlock billions in trapped metal
+mdhub,"San Francisco, CA, USA",AI assistants for mental health clinics to efficiently run their ops
+Cerulion,N/A,Open source operating system for robots
+Vibe,"San Francisco, CA, USA",Making everyone a software engineer
+Terra,"New York, NY, USA",Terra is like Faire for custom goods
+Offstream,N/A,Vanta for carbon compliance
+Assembly HOA,"Los Angeles, CA, USA",AI-enabled HOA Management Company
+Dench.com,"San Francisco, CA, USA",AI Secretary to pre-qualify leads for law firms
+Kastle,N/A,AI agents for mortgage servicing
+SureBright,"New York, NY, USA",Apple Care-like warranty program for every retailer
+Parahelp,"San Francisco, CA, USA",The AI support agent for software companies
+Argil,"Paris, Île-de-France, France",The video generation engine for the creator economy
+Remo,N/A,AI for compliance teams at banks
+Ontra Mobility,"New York, NY, USA",Platform for cities to optimize transit
+Stempad,N/A,Notion for science
+&AI,"San Francisco, CA, USA",Professional-Grade AI for Patent Attorneys
+Anglera,"San Francisco, CA, USA",AI-Powered Product Data Enrichment
+Polymet,N/A,AI Product Designer
+SimCare AI,"New York, NY, USA",Conversations with AI patients to scale healthcare training.
+Parley,"San Francisco, CA, USA","Automating flat-fee legal work, starting with work visas + green cards"
+Zimi,"New York, NY, USA","Platform for international brands to sell, ship, and get paid globally"
+FurtherAI,N/A,AI Workforce for the Insurance Industry
+Ångström AI,"San Francisco, CA, USA",Gen AI molecular simulations that reproduce wetlab results
+Passage,"San Francisco, CA, USA","Clear goods through customs, with AI"
+Superunit,"San Francisco, CA, USA",AI powered ERP for companies manufacturing or selling physical goods
+Freestyle,"San Francisco, CA, USA",Build exceptional infrastructure with just JavaScript.
+Domu Technology Inc.,"San Francisco, CA, USA",Automating debt collection calls for banks.
+Bucket Robotics,N/A,Defect detection for manufacturing built from CAD and synthetic data.
+Flyflow,N/A,The easiest way to find high-quality sales leads
+Conveo,"Antwerp, Flanders, Belgium",Qualitative Research Conducted and Analyzed by AI
+Typa,"San Francisco, CA, USA","AI-powered, professionally reviewed ghostwriting for busy founders"
+Starcloud,"Redmond, WA, USA",Data centers in space
+Elayne,"New York, NY, USA",AI estate management & automated settlements after death
+Henry,"New York, NY, USA",Automating Deal Decks for Commercial Real Estate Brokers
+BeeBettor,N/A,Robinhood for sports betting
+Undermind,"San Francisco, CA, USA",An AI agent for scientific research
+Guardian RF,"Washington, DC, USA",Drone detection for US defense and national security
+Kontigo,N/A,USDC-Smart Neobank for Latinos.
+ZeroPath,"San Francisco, CA, USA",Automatically find and fix your software vulnerabilities
+Conductor Quantum,"San Francisco, CA, USA",Quantum computers on silicon chips using AI.
+Elevate,"New York, NY, USA",AI-powered data management
+Anthrogen,N/A,We make molecules like fuels and plastics from the air.
+Glasskube,"Vienna, Vienna, Austria","Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC"
+Oway,"San Francisco, CA, USA",Ridesharing freight with ML to cut pallet shipping costs by 50%
+Gauge,"San Francisco, CA, USA",Solving the monolith/microservices dilemma.
+Saphira AI,N/A,Vanta for Hardware
+Pipeshift,"San Francisco, CA, USA",Modular Orchestration Platform for Open Source AI
+SchemeFlow,"San Francisco, CA, USA",Automating Government Approvals for Construction Projects
+Tandem,"San Francisco, CA, USA",Marketplace to help companies lease and share office space
+Odo,"San Francisco, CA, USA",Help companies find and win government contracts with AI
+ReactWise,"San Francisco, CA, USA",AI Co-Pilot for Chemical Process Optimization
+Cartage,"San Francisco, CA, USA",Autonomous freight coordination
+Maitai,N/A,"Reliable, self-improving enterprise AI"
+AnswerGrid,"San Francisco, CA, USA",Gen AI for Consultants
+FINNY AI,"New York, NY, USA",The OS for independent financial advisors
+Phonely,N/A,AI call centers
+Central,"San Francisco, CA, USA","Payroll, benefits and government compliance bullsh*t for startups."
+Mem0,"San Francisco, CA, USA",The Memory layer for your AI apps
+HeroUI,"San Francisco, CA, USA",Helping people ship beautiful software faster using AI and open source
+Stack Auth,N/A,The open-source Auth0 alternative
+Fazeshift,"San Francisco, CA, USA",AI agent for Accounts Receivable
+Entangl,"San Francisco, CA, USA",Find & resolve issues in data center engineering & operations using AI
+Manaflow,"San Francisco, CA, USA",Build internal tools for AI using natural language
+AminoAnalytica,"San Francisco, CA, USA",Your biotech's first AI protein engineer
+Panora,"San Francisco, CA, USA",AI Copilot for Warehouse Coordinators
+Ply Health,"New York, NY, USA",Faster way to get providers in-network with payers.
+Unbound,"San Francisco, CA, USA",Use AI tools without fear of data leakage
+Apten,"San Francisco, CA, USA",Customizable AI SMS/voice agents for businesses
+Spaceium Inc,"Long Beach, CA, USA",In-Space Refueling
+Wordware,"San Francisco, CA, USA","IDE to develop, iterate and deploy AI Agents"
+ClaimSorted,N/A,Making it easy for insurance companies to process claims
+Tower,"San Francisco, CA, USA",Legal due diligence platform powered by AI
+Anara,"San Francisco, CA, USA",AI for researchers
+Distro,"Palo Alto, CA, USA",The AI co-pilot for sales reps at industrial wholesale distributors.
+Hippo Scribe,N/A,AI assisted documentation for PT/OT/SLP
+Hamming AI,N/A,Automated AI voice agent testing
+PandasAI,"Munich, BY, Germany",PandasAI is an open-source conversational data analysis platform with…
+Pico,N/A,Pico organizes and takes action on your iPhone screenshots
+Mathos,"Santa Clara, CA, USA",Ultimate AI Math Problem Solver to Revolutionize Personalized Learning
+Triply,"Nairobi, Nairobi County, Kenya",Operating system for travel businesses in Africa with embedded finance
+Astro Mechanica,N/A,New jet engines for the new Jet Age.
+Happenstance,Remote,People search powered by AI
+K-Scale Labs,"Palo Alto, CA, USA",Open-source humanoid robots
+TokenOwl,"New York, NY, USA",AI portfolio tools for the next generation of finance
+Ryse,"New York, NY, USA",The secondary market for real estate leases
+ProSights,"New York, NY, USA",ProSights is an AI-native workflow automation / search platform for…
+Centauri AI,N/A,The Modern ETL and Data Science Platform for Finance
+Keywords AI,"San Francisco, CA, USA","LLM observability, prompt management, evals."
+Aqua Voice,"San Francisco, CA, USA",Voice-only text editor
+OpenFoundry,"San Francisco, CA, USA",The fastest developer experience for building on open source AI.
+dawn,"San Francisco, CA, USA",Sentry for AI products.
+Pretzel AI,"Berlin, Berlin, Germany",Open-source & AI-native replacement for Jupyter Notebooks
+The New Money Company,"San Francisco, CA, USA",The offshore bank for international contractors
+Eggnog,"New York, NY, USA",Youtube for AI-generated content
+Metofico,"London, England, United Kingdom",No Code Data Analysis for Life Science Research
+Aedilic,"San Francisco, CA, USA",AI-assisted language learning
+Junction Bioscience,"San Francisco, CA, USA",AI Hypothesis Engine for Molecular Discovery
+Lytix,"New York, NY, USA","DataDog for LLMs, turnkey solution for n=1 custom evaluations"
+edgetrace,N/A,Find the moments that matter
+Leaping,"San Francisco, CA, USA",Automate bug resolution
+CoCrafter,"Munich, BY, Germany",B2B construction marketplace to match contractors and subcontractors.
+HeartByte,"San Francisco, CA, USA",GenAI Webtoon. Creator write fictions 10x faster.
+Forge Rewards,"San Francisco, CA, USA",Starbucks app for restaurants
+CommodityAI,"San Francisco, CA, USA",AI & Automation Software Powering Physical Commodity Trading
+Clarum,"San Francisco, CA, USA",AI-powered investment due diligence
+Tile,"New York, NY, USA",AI-first notebook for building operational data apps
+SciPhi,"San Francisco, CA, USA","SciPhi is building R2R, the most advanced retrieval system."
+MathDash,N/A,Training Platform for Math Competitions
+Copper Health,"San Francisco, CA, USA",Modern patient engagement and remote therapeutic monitoring platform
+Opencall.ai,N/A,AI call centers for any business
+Dime,N/A,AI Data Engineer for Hardware Manufacturers
+xPay,"San Francisco, CA, USA","International Billing Ops, Sales Tax and Payments for SaaS businesses"
+Relari,N/A,Testing and Simulation Stack for GenAI Systems
+ego,"San Francisco, CA, USA",in-game sentience
+sync.,"San Francisco, CA, USA",AI lipsync tool for video content creators
+OddsView,"New York, NY, USA",The Bloomberg Terminal of Sports Betting
+Oma Care,N/A,Get paid for taking care of your parents.
+Sonauto,N/A,Create hit songs with AI
+Glimmer,"San Francisco, CA, USA",AI search for massive PDFs
+NowHouse,N/A,NowHouse helps stock brokerages settle trades instantly.
+Guide Labs,N/A,Interpretable AI systems
+Marr Labs,"San Francisco, CA, USA",AI-voice agents that are indistinguishable from humans.
+Wuri,N/A,"App to read fiction stories as visual novels with images, videos,…"
+Ultra,N/A,Advisor for Ambitious Students
+Zep AI,"San Francisco, CA, USA",The Memory Foundation For Your AI Stack
+Deepnight,"San Francisco, CA, USA",Building The Next Generation of Night Vision Devices
+OffDeal,"New York, NY, USA",AI-native investment bank for small businesses
+Clarion,"New York, NY, USA",The AI communication layer for healthcare
+Ragas,"San Francisco, CA, USA",Building the open source standard for evaluating LLM Applications
+Engines,"San Francisco, CA, USA","Tools, context and sandboxes for AI SWEs"
+Pivot Robotics,"San Francisco, CA, USA",AI for Robot Arms in Factories
+Datacurve,"San Francisco, CA, USA",Frontier coding data for training and evaluating LLMs
+PartnerHQ,N/A,A marketplace for B2B businesses to buy warm intros.
+Aether Energy,"San Francisco, CA, USA",Solar and roofing workflow software for solar installers worldwide
+Resonance,"San Francisco, CA, USA",Universal add-on for marketing campaign optimization
+Swift,"San Francisco, CA, USA",Embedded finance for online merchants
+Dropback,"Roeland Park, KS, USA",The front office software suite for college sports
+Focal,"San Francisco, CA, USA",AI video creation tool for TV shows and movies
+Lemon Slice,"San Francisco, CA, USA",Expressive characters that talk
+Hatchet,"New York, NY, USA",Background task orchestration and visibility
+Yondu,"Los Angeles, CA, USA",Robots to Automate Fulfillment
+Pythagora (GPT Pilot),N/A,OSS dev tool that builds entire apps from scratch by talking to you
+Intercept,"San Francisco, CA, USA",Helping CPG brands automatically flag and dispute invalid retail fees
+Trellis,N/A,AI-powered workflows for unstructured data
+Risotto,"San Francisco, CA, USA",Risotto auto-solves IT support requests using AI
+Trieve,"San Francisco, CA, USA","All-in-one API for search, RAG, & recommendations"
+Aftercare,"San Francisco, CA, USA",Conversational AI surveys with intelligent follow-up questions
+Muddy,"San Francisco, CA, USA",The multiplayer browser that knows you
+Integuru,"San Francisco, CA, USA",Integrations without official APIs
+Garage,N/A,Marketplace for used firefighting equipment.
+atopile,"San Francisco, CA, USA",We make tools to design electronics circuit boards with code
+Selera Medical,"Mountain View, CA, USA","One-time, device-based treatment for heart failure"
+Piramidal,N/A,Foundation Model for the Brain
+Granza Bio,"San Francisco, CA, USA",Advancing Therapeutic Delivery
+Meticulate,"San Francisco, CA, USA",Powerful prospecting engine for revenue leaders
+Thorntale,"San Francisco, CA, USA",Easiest way for post-sales teams to create data-driven presentations
+Quantic Labs,"San Francisco, CA, USA",Automated data entry for CRM
+Patchwork,"San Francisco, CA, USA",Your team’s AI powered communication tool
+Branch AI,"Singapore, Singapore","AI Overview Search, as a Service"
+Yenmo,"Bengaluru, KA, India",Secured consumer lending in India
+Fetchr,"San Francisco, CA, USA",The Personal Shopper  in Your Pocket
+Downlink,"San Francisco, CA, USA",Make your LLMs 3x faster.
+Decipher AI,"San Francisco, CA, USA",AI that analyzes your session replays to uncover issues and behavior.
+Veles,"Santa Barbara, CA, USA",The Sales Calculator
+Givefront,N/A,Banking for Nonprofits
+GoldenBasis,"San Francisco, CA, USA",Modern back-office software for brokerages
+renderlet,"New York, NY, USA",Build interactive applications that run anywhere
+CloudCruise,"San Francisco, CA, USA",The developer platform for building resilient automations
+malibou,"Paris, IDF, France",the first all-in-one payroll and HR software for French SMBs
+Agentic Labs,"New York, NY, USA",AI system design tools for dev teams
+Navier AI,N/A,Real-Time CFD Simulations
+BiteSight,N/A,The video-first food delivery app. Imagine TikTok meets DoorDash.
+Ecliptor,"San Francisco, CA, USA",AI and Embeddings.
+Yarn,"New York, NY, USA",Make sales and marketing videos with AI.
+CrowdVolt,"NY, USA",Bid/ask style ticket exchange powered by automated order fulfillment
+SSOReady,"San Francisco, CA, USA",Open source developer tools for enterprise single sign-on
+Kabilah,N/A,Pioneering Generative AI for Nursing
+Arini,"San Francisco, CA, USA",AI receptionist for dentists
+nCompass Technologies,Remote,Deploy hardware accelerated AI models with only one line of code
+Spark,N/A,AI-powered workflows for large-scale clean energy
+Penciled,"San Francisco, CA, USA",Fill 10X more canceled appointments
+Indemni,"San Francisco, CA, USA",Cargo Theft and Fraud Prevention Platform
+Tensorfuse,N/A,Run serverless GPUs on your own cloud
+Healia,"Columbus, OH, USA",Modern health insurance for dual income families
+Parallel,"Paris, Île-de-France, France",AI agents for healthcare admin
+Petra Security,"San Francisco, CA, USA",Cybersecurity
+Blacksmith,N/A,Serverless cloud infra for CI
+Carousel Technologies,"New York, NY, USA",Professional AI toolkit for PowerPoint
+HostAI,"San Francisco, CA, USA",The AI operations platform for the built world
+"Argon AI, Inc.",N/A,AI for Pharma Intelligence
+Mango Health,"San Francisco, CA, USA",AI Therapy for OCD
+Scritch,"San Francisco, CA, USA",AI operating system for veterinary care
+SynsoryBio,"Cambridge, MA, USA","""If-then"" conditional logic for protein drugs"
+Andy AI,"San Francisco, CA, USA",Faster clinical documentation for home health nurses
+Brainbase,"San Francisco, CA, USA",AI workflow automations for enterprise
+ParcelBio,"San Francisco, CA, USA",Next-generation mRNA medicines
+Haplotype Labs,Remote,Personalized prevention using genetics and AI
+Soundry AI,"Seattle, WA, USA",Professional Quality AI Music Creation
+Maia,"San Francisco, CA, USA",AI relationship app that keeps couples together
+PurplePages,"San Francisco, CA, USA",Purple is an AI agent for online local marketplace transactions.
+Quary,"London, England, United Kingdom",The first in-browser analytics engineering platform
+Firebender,"San Francisco, CA, USA",Android Studio Coding Assistant
+DGI Apparel,"New York, NY, USA",Expedia for ordering blank apparel
+Manifold Freight,"Seattle, WA, USA",Aggregating Spot Freight Opportunities for Carriers
+Driver AI,N/A,Understand millions of lines of code in minutes.
+Diligent,"Berlin, Berlin, Germany",GenAI assistants for fintech risk and compliance operations
+Quivr,N/A,Open Source Chat-Powered Second Brain
+SuretyNow,"Austin, TX, USA",The Modern Surety Bond Platform
+Velorum Therapeutics,"San Francisco, CA, USA",Powerful cancer drugs that starve tumors
+Tuesday Lab,"New York, NY, USA",Delightful robots
+Alai,N/A,Create high quality presentations faster using AI
+Blume Benefits,"San Francisco, CA, USA",The AI copilot for health insurance brokers.
+Vista Power,"San Francisco, CA, USA",Batteries and solar for $0 upfront to help businesses save money
+Basalt,"San Francisco, CA, USA","Autonomy in space, for every mission"
+Attunement,"San Francisco, CA, USA",Automation workflow for psychiatric assessments.
+RadMate AI,"San Francisco, CA, USA",Copilot for radiologists
+Reform,N/A,The AI-powered workspace for freight forwarding
+Artos,N/A,"Turning science into regulatory submissions in minutes, not months."
+DianaHR,"San Francisco, CA, USA",An AI-Powered HR Person
+Sonia,N/A,Conversational AI for Mental Health
+Miden,"Ikeja, LA, Nigeria",Card issuer processor and banking stack for businesses in Sub-…
+Infinity,"Bengaluru, KA, India",Business banking for cross-border SMBs & Startups
+kater.ai,"San Francisco, CA, USA",Deliver complete data analysis from a single question
+Ellipsis,N/A,AI code reviews & bug fixes
+Eris Biotech,"Lehi, UT, USA",Our drugs engage the immune system to fight tumors
+Arcane,"New York, NY, USA",AI powered games
+Maihem,N/A,Industry-leading quality testing for mission critical AI
+Ocular AI,"San Francisco, CA, USA","AI-Native Data Engine for LLMs, Computer Vision, & Enterprise AI"
+GetCrux,"San Francisco, CA, USA",AI Creative Strategist
+BetterBasket,"San Francisco, CA, USA",The only all-in-one pricing system for grocers
+OneGrep,"New York, NY, USA",AI Agent for DevOps Workflow Automation
+Toolify,"Bengaluru, KA, India",Build internal tools with AI
+Verse Therapy,"San Francisco, CA, USA",Connecting All Ages with Speech Language Pathologists
+Dragoneye,"New York, NY, USA",More detailed object recognition than Google and Amazon
+Powder,N/A,AI Agents for precise document analysis
+Fume,"San Francisco, CA, USA",We are building the AI Software Developer
+Nuanced,"San Francisco, CA, USA",Nuanced makes AI coding tools smarter with static analysis.
+PocketPod,"San Francisco, CA, USA",AI generated podcasts tailored to your interests
+Aidy,"San Francisco, CA, USA",Persistent research on the issues that drive key company decisions
+Shepherd,Remote,Every student's personalized learning assistant
+Roe AI,"San Mateo, CA, USA","Data warehouse to query unstructured data like docs, webs, imgs & more"
+Reprompt,N/A,AI Agents for Location
+Circleback,N/A,AI-powered meeting notes and automations
+Forge,"San Francisco, CA, USA",Refunds on import duties-taxes
+Starlight Charging,"Austin, TX, USA",Ultra-low-cost EV charging for condos and apartments
+Hazel,"New York, NY, USA",AI-enabled procurement software for government
+RetailReady,N/A,An AI-powered supply chain compliance engine
+Elodin,"San Francisco, CA, USA",Unified flight software and hardware for the mission of tomorrow
+Fluently,Remote,AI-powered speaking coach for calls
+Fractal Labs,N/A,AI powered UGC platform for RPGs
+Octolane AI,N/A,Building AI-first Salesforce
+Marblism,N/A,Generate a fully-functional web app from a single prompt
+PointOne,N/A,Automated time tracking and billing for law firms.
+InspectMind AI,"San Francisco, CA, USA",AI-powered site inspections and automated field reports.
+Lucite,"New York, NY, USA",Supercharging Insurance Brokers & Advisors
+Speck,"San Francisco, CA, USA","Bug ingestion platform to document, reproduce and fix issues with AI."
+Draftaid,"Toronto, ON, Canada",Go from 3D models to CAD drawings using AI
+Just Words,"San Francisco, CA, USA",Scale hyper-personalized messaging with AI
+Chunkr,"San Francisco, CA, USA",Open source API service to parse complex documents
+Openmart,"Foster City, CA, USA",GTM platform for reaching local businesses
+InQuery,N/A,Intelligent Medical Record Reviews
+Onyx,"San Francisco, CA, USA",Open Source AI Assistant and Enterprise Search
+Reducto,N/A,The most accurate API to parse documents
+Cleva,"Lagos, LA, Nigeria",USD banking platform for Africa
+TrueClaim,Remote,"Transparent, AI-powered healthcare TPA."
+phospho,"San Francisco, CA, USA",Give brains to robots
+Senso,N/A,AI-Powered Knowledge Base for Customer Support
+Delve,"San Francisco, CA, USA",AI that makes compliance effortless
+Yoneda Labs,N/A,Foundation Model for Chemical Manufacturing
+Tracecat,"San Francisco, CA, USA",Open source Tines / Splunk SOAR alternative for security engineers.
+Basepilot,"San Francisco, CA, USA","AI coworkers to automate browser work, in minutes."
+Terrakotta,"San Francisco, CA, USA",AI platform for phone-first sellers
+Newton,N/A,AI-powered phone platform for dentists
+Lumona,"San Francisco, CA, USA",AI-enabled search engine featuring insights from social media.
+PySpur.dev,"San Francisco, CA, USA",Open Source AI Agents Builder
+Same,N/A,Copy any UI and make it yours
+Silogy,"New York, NY, USA",An AI-powered test and debug platform for chip developers
+Overflux,"Los Angeles, CA, USA",Streamline EV charger installations for real estate developers
+Konstructly,"London, England, United Kingdom",The Modern Operating System for Construction
+Precip,Remote,High precision AI weather models
+Assembly,"San Francisco, CA, USA",Build Magical Customer Experiences
+Apriora,"San Francisco, CA, USA",Your AI recruiter for interviewing and identifying the best talent
+Abel,"San Francisco, CA, USA",Transforming document review for litigation teams
+Tamarind Bio,N/A,Easy to use computational biology tools for drug discovery
+Preloop,N/A,Translate your experimental scripts into production ML services
+Voicepanel,N/A,User research on autopilot
+Shiboleth,"New York, NY, USA",Shiboleth automates lending compliance for financial institutions…
+Pernell,"San Francisco, CA, USA",N/A
+Toma,"San Francisco, CA, USA",AI Workforce for Automotive Dealerships
+Stacksync,"San Francisco, CA, USA",Real-time and two-way sync between CRMs and Databases
+Paradigm,"San Francisco, CA, USA",A reimagined workspace with AI at its core
+Fileforge,"San Francisco, CA, USA",API For PDF Document Workflows
+Magic Hour,"San Francisco, CA, USA",Platform for AI video generation.
+PromptArmor,N/A,LLM Security and Compliance
+Celest,"San Francisco, CA, USA",The Vercel of Flutter
+Double,"San Francisco, CA, USA",Design Your Own Stock Index
+Stitch Technologies,"London, England, United Kingdom",-
+Rove,"New York, NY, USA",Travel the world for free.
+camelAI,"Austin, TX, USA",AI Business Intelligence agent. Get actionable insights in minutes.
+Superagent,"San Francisco, CA, USA",The agent workspace
+Zaymo,N/A,Interactive email builder for ecommerce brands
+Open,"San Francisco, CA, USA",Enterprise AI customer support ecosystem.
+Browser Buddy,"San Francisco, CA, USA","Internet ""for-you"" page"
+DryMerge,"San Francisco, CA, USA",AI that updates your CRM for you
+Bilanc,"London, England, United Kingdom",AI-powered Engineering Management
+Carma,"San Francisco, CA, USA",Same-Day Auto Repair for Commercial Fleets.
+Markprompt,"San Francisco, CA, USA",AI for customer support
+CodeAnt AI,N/A,AI Code Reviewer
+Clerky,"Palo Alto, CA, USA",Makes legal paperwork easy for startups and their attorneys.
+Retell AI,N/A,Supercharge Your Contact Center Operations with AI Phone Agents
+Greenboard,N/A,'Rippling' for Financial Compliance and Operations
+Topo,"Paris, Île-de-France, France",AI sales agent custom trained for each company to reach the best leads
+Ubicloud,N/A,Open source alternative to AWS
+Model ML,"London, England, United Kingdom",AI Workspace for Financial Services.
+Momentic,"San Francisco, CA, USA",The modern standard for software testing
+Tusk,"San Francisco, CA, USA",AI agent that generates unit and integration tests
+OmniAI,"San Francisco, CA, USA",Automate document workflows
+GovernGPT,"Toronto, ON, Canada",AI Back Office for Fund Managers
+Centralize,"San Francisco, CA, USA",The AI-powered deal collaboration platform for high ACV revenue teams
+Andon Labs,N/A,Preparing the world for AGI
+Upsolve AI,N/A,"Customer-facing analytics as a service, powered by AI."
+Salvy,"Curitiba, PR, Brazil",Mobile carrier for businesses in Brazil
+ion design,"San Francisco, CA, USA","The AI visual editor for your codebase, built for collaboration"
+Buster,"Salt Lake City, UT, USA","Open source, AI Digital Workers for analytics & data"
+Artisan,"San Francisco, CA, USA","AI Employees Called Artisans, Starting With An AI BDR"
+Duckie,"San Francisco, CA, USA",AI Assistant for Customer Support Teams
+Underground Cellar,"San Francisco, CA, USA",Upgrading Your Wine Experience
+Greptile,"San Francisco, CA, USA",AI expert on your codebase that you can query via an API
+Legora (formerly Leya),"Stockholm, Stockholm County, Sweden",The AI workspace for lawyers
+Mattermost,"Palo Alto, CA, USA",Secure Collaboration for Technical Teams
+Aurabeat,"Hong Kong, Hong Kong","Providing clean, safe, virus free air for homes, buildings and cars"
+Foundation,"Boulder, CO, USA",Shopify for Homebuilders
+DataShare,"Austin, TX, USA","Embed charts, dashboards and exports in your app"
+Can of Soup,N/A,AI photos of you and your friends
+Surface Labs,N/A,Surface Labs helps B2B marketing teams optimize website conversions…
+Kips Health,"Los Angeles, CA, USA",The only patient engagement software that pays you.
+BricksAI,"San Francisco, CA, USA",Streamlining LLM application management for enterprises
+Minded,"Tel Aviv-Yafo, Tel Aviv District, Israel",AI support agents to solve the tickets that reach humans
+Care Weather,"Orem, UT, USA",The highest-accuracy global weather data from low-cost flat satellites
+FleetWorks,"San Francisco, CA, USA",Automating the 2B phone calls and emails that keep freight moving
+Vango AI,"Berkeley, CA, USA",Development platform that makes it 10x easier to improve visual models
+Twine,"San Francisco, CA, USA",AI text message receptionist for SMBs
+Elythea,"San Jose, CA, USA",ML to predict and prevent pregnancy complications
+Sourcepulse,"Paris, Île-de-France, France",Fix your biggest software delays with real developer feedback
+Ora AI,"San Francisco, CA, USA",Ora AI 🧠 AI-Powered Training for Doctors
+Kite,"San Francisco, CA, USA",Apple-style product videos in minutes
+Feanix Biotechnologies,N/A,Farm Genetics Made Easy - Using DNA and Software
+Sendblue,"New York, NY, USA",iMessage for Sales
+RecipeUI,"New York, NY, USA",The open source Postman alternative.
+Automorphic,"San Francisco, CA, USA",Infuse knowledge into language models with just 10 samples
+Cleancard,"San Francisco, CA, USA",Making cancer detection as easy as a pregnancy test
+Accend,N/A,Human-in-the-loop AI agents for business underwriting & onboarding
+Baserun,"San Francisco, CA, USA",Observability and evaluation platform for LLM apps.
+Casca,"San Francisco, CA, USA",AI Agents for Banking
+Chatter,"Philadelphia, PA, USA",Dead simple LLM testing and iteration
+Envelope,"San Francisco, CA, USA",Banking with built-in budgeting
+Bolto,"San Francisco, CA, USA",AI platform to hire and onboard your global team
+sizeless,"San Francisco, CA, USA",Make ML models reproducible and safe.
+Deasy Labs,N/A,Metadata for GenAI workflows
+Mandel AI,"San Francisco, CA, USA",AI Procurement Agent for Manufacturing
+Silimate,"Mountain View, CA, USA",The co-pilot for chip designers
+LifestyleRx,"White Rock, BC, Canada",Virtual Care for Type 2 Diabetes Reversal
+Tremor,"Zug, ZG, Switzerland",The UI toolkit for Dashboards
+Inari,"San Francisco, CA, USA",Your junior AI product manager
+Alguna,"San Francisco, CA, USA","Modern SaaS Pricing, Quoting & Billing Platform"
+Fortuna Health,"New York, NY, USA",TurboTax for Medicaid
+Menza,"London, England, United Kingdom",Your AI Data Analyst
+Transformity,N/A,Point-of-sale & Vertical SaaS for the $75B Liquor Industry
+Inconvo,"Limerick, County Limerick, Ireland",Conversational AI for customer-facing analytics
+Shasta Health,"San Francisco, CA, USA","Get physical therapy at home, covered by insurance"
+GreenTally,"San Mateo, CA, USA",Affordable carbon tracking solution for all businesses
+Vizly,"San Francisco, CA, USA",Data to insights in seconds
+Capi Money,N/A,Helping businesses in Africa pay their international suppliers
+Stellar Sleep,N/A,"We help people with chronic insomnia sleep better, using psychology."
+Cair Health,N/A,Predictive analytics and automation for medical claims
+Constructable,"Santa Barbara, CA, USA",AI copilot for construction teams
+Egress Health,"San Francisco, CA, USA","Automated revenue cycle management, starting with dentists"
+VectorShift,N/A,No-Code Generative AI Automations Platform
+Obento Health,"San Francisco, CA, USA",CRM Co-Pilot for Medtech Sales
+Read Bean,"San Francisco, CA, USA","Learn language with real-world content, at your level"
+DisputeNinja,"San Francisco, CA, USA",We help you win Stripe disputes.
+Twenty,"San Francisco, CA, USA",Open Source CRM
+Cercli,N/A,Rippling for Middle East & North Africa
+Vigilant,"San Francisco, CA, USA","Lightweight logging, metrics, and error monitoring for startups"
+OpenPipe,"Seattle, WA, USA",Turn expensive prompts into cheap fine-tuned models
+Campfire,"San Francisco, CA, USA",A modern version of NetSuite
+Srcbook,"San Francisco, CA, USA",Build and publish web applications in minutes. No coding required.
+CambioML,N/A,Retrieve and transform data from PDFs and forms
+MediSearch,"London, England, United Kingdom",Search engine for trustworthy medical information.
+PropRise,"San Francisco, CA, USA",AI Investment Analyst for Commercial Real Estate
+Lantern,"San Francisco, CA, USA",Postgres vector database extension to build AI applications
+Strada,"San Francisco, CA, USA",Phone AI agents for insurance
+Synch,"New York, NY, USA",Supercharging Sales
+Flex,Remote,Stripe for HSA/FSA payments
+Certainly Health,N/A,Marketplace to book doctors and avoid surprise bills
+Sola,"Jersey City, NJ, USA",Copilot for Robotic Process Automation
+Chow Central Inc,"Lagos, LA, Nigeria",Asset Light Chipotle for Africa
+Wattson Health,N/A,Software for pharmacies to manage RXs and automate manual workflows
+Hegel AI,N/A,Open source tools for developing generative AI applications
+Gleam,N/A,The gift card for health insurance
+Upstream,N/A,An email client designed for team collaboration
+Onward,N/A,Intelligent meeting automation for ambitious teams.
+Flair Health,"San Francisco, CA, USA",Stealth
+FiddleCube,"San Francisco, CA, USA","Build safe, enterprise-ready Gen AI systems"
+Apoxy,"San Francisco, CA, USA",The Proxy Platform
+Hyperbound,"San Francisco, CA, USA",Sales call roleplay with realistic conversational AI buyers
+CheqUPI,"Bengaluru, KA, India",India's first UPI wallet for foreign nationals and NRIs
+askLio,"San Francisco, CA, USA",AI-Copilot for procurement teams at large enterprises
+Langdock,N/A,The all-in-one AI platform for companies.
+AIVideo.com,"Oakland, CA, USA",The all in one tool for AI powered video production
+Gumloop,N/A,A no-code platform for automating workflows with AI
+Decoda Health,"San Francisco, CA, USA",AI-powered platform automating medical practice operations
+Sidenote,"San Francisco, CA, USA","Meeting follow-up, automated"
+Tempo,"Toronto, ON, Canada","Visual Editor for React, powered by AI"
+Coba,"Monterrey, N.L., Mexico",Dual Currency Accounts For LatAm
+Metoro,"London, England, United Kingdom",Instant in-depth observability for services running in kubernetes
+Giga ML,"San Francisco, CA, USA",AI customer service agent for B2C  Companies
+Fiber AI,"San Francisco, CA, USA",We automate SDR / BDR prospecting & outbound sales workflows using AI
+Remy,"San Francisco, CA, USA",Ask any question and get answers from the world’s videos
+Shadeform,N/A,The GPU Cloud Marketplace
+Khoj,"San Francisco, CA, USA",The open-source AI assistant for your digital brain.
+Olio Labs,Remote,Combination therapeutics for the world's toughest diseases
+CraftOS,"San Francisco, CA, USA",Inventory Management and POS for the Wine industry
+Health Harbor,"San Francisco, CA, USA",Using generative AI to call insurance for healthcare clinics
+Metalware,"San Francisco, CA, USA",Cybersecurity for firmware
+Revamp,"San Francisco, CA, USA",AI-Powered Customer Segmentation for eCommerce
+Glide,"New York, NY, USA",Let users pay for onchain transactions with any token on any chain
+Ohmic Biosciences,"Alameda, CA, USA",Genetically engineering plants for disease resistance.
+Airgoods,"New York, NY, USA",Wholesale marketplace for food & beverage
+Autotab,N/A,AI agents reliable enough to do real work
+Empirical Health,"New York, NY, USA","Proactive primary care, scaled with AI"
+Xeol,"New York, NY, USA",Close your outdated dependency attack vector
+Craftwork,"Charlotte, NC, USA",Digital-native home painting franchise
+Subsets,"Copenhagen, Denmark",AI-driven Retention Automation for subscription media businesses.
+Trayd,"New York, NY, USA",A construction payroll platform designed for same-day pay.
+Electric Air,"San Francisco, CA, USA",Tech-enabled heat pump contractor that cuts costs by 60%
+VetRec,"Seattle, WA, USA",AI Scribe for veterinarians. Saving time and improving patient care.
+Sweetspot,N/A,AI for Government Contracting.
+Talc,"Seattle, WA, USA",Helping companies use their data to build better AI models
+Docsum,"New York, NY, USA",AI contract repository
+ParadeDB,"New York, NY, USA",Postgres for Search and Analytics
+Aglide,"San Francisco, CA, USA",Natively connect any app to your SSO.
+Serra,"San Francisco, CA, USA",AI-powered candidate search
+Affinity,"New York, NY, USA",A compliance training platform built for regulated industries.
+Leafpress,N/A,AI Copilot for Energy Data
+Cedana,"New York, NY, USA","Save, migrate and resume compute jobs in real-time"
+Kino AI,N/A,Kino automatically organizes footage to make video editing faster.
+VaultPay,"Kinshasa, Kinshasa, Democratic Republic of the Congo",Digital banking platform for the 30 million smartphone users in DRC.
+Simbie AI,N/A,Clinically-trained AI Voice Agents for Healthcare
+Martin,"San Francisco, CA, USA",AI Personal Assistant like Jarvis
+Maven Bio,"Boston, MA, USA",The AI Platform for BioPharma Knowledge Work
+SID,N/A,"Serverless RAG to connect AI to company, industry, or person-specific…"
+Pointhound,Remote,Earn and redeem credit card points for free flights
+MantleBio,N/A,Transform scientific data into discoveries
+Smobi,"New York, NY, USA",Bringing In-App experiences to SMS
+dinogent,"Irvine, CA, USA",AI agent that completes your tasks
+kapa.ai,Remote,Create enterprise-grade AI assistants from your content
+Unhaze,"Copenhagen, Denmark",The right leads at the right time for B2B sales
+Zelos Cloud,N/A,The First Cloud Platform for Firmware Development and Testing
+Nectar,"San Francisco, CA, USA",Collecting companies' carbon emissions data
+Pincites,"Menlo Park, CA, USA",Close deals faster with AI for contract negotiation
+Big Smart AI,"Mountain View, CA, USA","Bigger, smarter, AI-powered search"
+Humanlike,N/A,AI-powered AP/AR
+Nanograb,"San Francisco, CA, USA",AI-generated binders for targeted drug delivery
+Revideo,"Berlin, Berlin, Germany",Create Videos with Code
+Sohar Health,"New York, NY, USA",AI-powered insurance verification to boost patient conversion.
+FlowiseAI,Remote,Open source Low-Code LLM development platform
+SuperCraft,"New York, NY, USA",Figma for designing physical products
+Kobalt Labs,N/A,AI copilot to automate risk ops for fintechs and banks
+Osium AI,"Paris, Île-de-France, France",Speed up materials innovation with Artificial Intelligence
+truemetrics,"Berlin, Berlin, Germany",Entrance and parking Location coordinates for faster deliveries.
+Healthtech 1,"London, England, United Kingdom",Automating repetitive processes in healthcare
+SyntheticFi,"San Francisco, CA, USA",Cheapest way to get liquidity from your stock investments
+Arcimus,"San Francisco, CA, USA",AI Powered Insurance Premium Audits
+Elyos Energy,"London, England, United Kingdom",The platform for energy flexibility and demand response
+Respaid,"San Francisco, CA, USA",Respectful AI B2B Collection
+CareOasis,"Dover, DE, USA",Helping family caregivers get paid
+Studdy,"San Francisco, CA, USA",An AI math tutor for every student
+Continue,"San Francisco, CA, USA","Create, share, and use custom AI code assistants"
+Watto AI,N/A,AI-powered McKinsey-quality reports in seconds
+CodeStory,"London, England, United Kingdom","Aide is an AI-native , privacy-first IDE built on top of VSCode"
+Guac,"New York, NY, USA",AI-powered demand forecasting for grocery
+Glade,"San Francisco, CA, USA",Building the next generation of video games using AI
+Fragment,"Paris, Île-de-France, France",Turn manual operations into scalable processes
+Taylor AI,"San Francisco, CA, USA",Unified Platform for Text Enrichment
+Cardinal Gray,"San Francisco, CA, USA",Title workflow automation for auto lenders and dealers
+CandorIQ,N/A,Headcount & Compensation Management
+Greenlite,"San Francisco, CA, USA",AI agents for financial compliance operations
+Spine AI,"San Francisco, CA, USA",Reliable AI data analysts that know your business
+Trainy,"San Francisco, CA, USA",Infrastructure for managing GPU clusters for training/serving.
+Agentive,"Provo, UT, USA",AI Workspace for Audit & Advisory Firms
+Nowadays,"San Francisco, CA, USA",AI co-pilot for corporate event planning
+SafetyKit,"San Francisco, CA, USA",AI-Powered Trust and Safety Automation
+Inventive AI,"Mountain View, CA, USA",AI Agents For RFP and Questionnaire Response Automation
+HyLight,"Paris, Île-de-France, France",Small unmanned hydrogen airships for long range monitoring
+Slicker,"London, England, United Kingdom",Recover payment failures and maximize subscription Revenue
+Bland AI,"San Francisco, CA, USA",The enterprise platform for AI phone calls
+Saatvy,"San Jose, CA, USA",Root cause help for chronic conditions
+Skyvern,"San Francisco, CA, USA",Open Source AI Agent to automate browser workflows via an API
+Tegon,"San Francisco, CA, USA",Open source issue tracking tool for engineering teams
+Magic Loops,"San Francisco, CA, USA",Program computers with natural language
+HappyRobot,"San Francisco, CA, USA",AI Communication. Built for Logistics.
+Inlet,"New York, NY, USA",AI-powered ETL for complex data
+refine,"San Francisco, CA, USA",Open-source Retool for enterprise
+Atla,"London, England, United Kingdom",We train frontier models to evaluate generative AI
+Epsilla,"Jersey City, NJ, USA",All-in-one platform to create AI agents with your private knowledge
+Line.Build,"San Francisco, CA, USA",Incentives and financing for energy efficiency upgrades
+MICSI,"New York, NY, USA",Higher resolution MRI with faster scan times.
+Contour,"San Francisco, CA, USA",Stealth
+Pure,"San Francisco, CA, USA",Marketplace for Rare Coins & Precious Metals
+Cargo,"San Francisco, CA, USA",Build your GTM workforce
+Briefer,"São Paulo, SP, Brazil",The collaborative data platform.
+Eden Care,"Nairobi, Nairobi County, Kenya",Digital health insurance for employers in Africa
+Orbio Earth,Remote,Tracking methane emissions with satellites
+Converge,"New York, NY, USA",All-in-one marketing measurement for B2C
+Tiptap,"Berlin, Berlin, Germany",Developer toolkit for building collaborative apps.
+Remy,"San Francisco, CA, USA",Making it simpler for medical clinics to work with insurance
+sudocode,"Mountain View, CA, USA",code in plain english
+CatX,N/A,The digital marketplace for insurance risk
+Movley,"New York, NY, USA",Your e-commerce brand's product quality control department.
+Terminal,"Toronto, ON, Canada",Plaid for Telematics Data in Commercial Trucking
+Lifelike,"San Francisco, CA, USA",N/A
+Venta AI,N/A,"The EU-compliant AI SDR that can send letters, emails and LinkedIn"
+Linc.,N/A,"AI Copilot for Shippers, Carriers and Brokers"
+PeerDB,N/A,"Fast, native ETL for Postgres 🐘 🚀"
+Clearest Health,"New York, NY, USA",Rebuilding trust in American health insurance.
+innkeeper,"San Francisco, CA, USA","a modern, AI-native tech stack for running a hotel"
+Solve Intelligence,N/A,"AI patent drafting, prosecution, harvesting and more for legal teams."
+Flint,"San Francisco, CA, USA",AI personalized learning for schools
+dili,"New York, NY, USA",The Most Reliable LLM for Diligence on High-Stakes Deals
+Terracotta AI,N/A,AI-powered Infrastructure as Code PR reviews
+Structured Labs,"San Francisco, CA, USA",Build data apps with AI
+Reworkd,"San Francisco, CA, USA",The simplest way to extract web data at scale
+Dioxus Labs,N/A,"Web, Desktop, and Mobile apps with one codebase in Rust"
+Letter AI,"Chicago, IL, USA","Empowering B2B sellers with AI-powered training, coaching, and content"
+Corgea,"San Francisco, CA, USA","Corgea finds, and fixes insecure code."
+Quill AI,"New York, NY, USA",AI Powered Equity Research Platform
+AiSDR,"San Francisco, CA, USA",AI sales prospecting. Replace your SDR with AiSDR
+Cedalio,"San Francisco, CA, USA",Accurate Sustainability Data with AI
+Roame,"San Francisco, CA, USA",Flight search engine using credit card points and miles
+Parea,"New York, NY, USA","Test, evaluate & observe your LLM applications"
+Roundtable,N/A,Behavioral cybersecurity.
+Hubble Network,"Seattle, WA, USA",Bluetooth to Space
+Santé,"New York, NY, USA",All-in-one POS for liquor stores
+Readily,"San Francisco, CA, USA",Compliance Tools for Healthcare Organizations
+Telophase,"New York, NY, USA",Reach vulnerability inbox-zero

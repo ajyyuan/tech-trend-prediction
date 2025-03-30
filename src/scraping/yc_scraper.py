@@ -1,3 +1,5 @@
+import csv
+import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -5,7 +7,9 @@ from selenium.webdriver.support.ui import Select, WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
-def scrape_yc_startups():
+from time import sleep
+
+def scrape_yc_startups(filename="", filetype="csv"):
     # Set up Chrome options (headless for non-GUI mode)
     chrome_options = Options()
     chrome_options.add_argument("--headless")
@@ -39,6 +43,27 @@ def scrape_yc_startups():
 
     print("Sorted by launch date")
 
+    # Initial scroll height
+    last_height = driver.execute_script("return document.body.scrollHeight")
+
+    count = 0
+    while True and count < 100:
+        count += 1
+        
+        # Scroll down to the bottom of the page
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        
+        # Wait for new content to load
+        sleep(2)  # Adjust the sleep duration as needed
+        
+        # Calculate new scroll height and compare with the last height
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        
+        # If the scroll height hasn't changed, we've reached the bottom
+        if new_height == last_height:
+            print("✅ Reached the bottom of the page.")
+            break
+        last_height = new_height
 
     # now get updated page source
     html = driver.page_source
@@ -65,5 +90,22 @@ def scrape_yc_startups():
         
         startups.append(startup)
     
+    if filename:
+        if filetype == "csv":
+            # save to csv
+            csv_columns = ["name", "location", "description"]
+            with open("data/raw/yc_startups.csv", "w", newline="", encoding="utf-8") as csv_file:
+                writer = csv.DictWriter(csv_file, fieldnames=csv_columns)
+                writer.writeheader()
+                writer.writerows(startups)
+        elif filetype == "json":
+            # save to json
+            with open("data/raw/yc_startups.json", "w", encoding="utf-8") as json_file:
+                json.dump(startups, json_file, indent=4)
+        else:
+            raise ValueError("filetype must be \"csv\" or \"json\"")
+
+        print("✅ Data saved successfully!")
+
     return startups
     
